@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Raona Radar · Competitive Intelligence</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Dashboard de inteligencia competitiva para Raona en Argentina.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,500;9..144,700;9..144,900;9..144,900&family=Geist:wght@300;400;500;600;700&family=Geist+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="app">
+  <!-- Sidebar -->
+  <aside class="sidebar">
+    <div class="brand">
+      <div class="brand-mark">R</div>
+      <div class="brand-text">
+        <div class="brand-name">Raona</div>
+        <div class="brand-sub">Radar · v1</div>
+      </div>
+    </div>
+
+    <nav class="nav">
+      <a href="#/dashboard" data-view="dashboard">
+        <span class="nav-num">01</span> Dashboard
+      </a>
+      <a href="#/competidores" data-view="competidores">
+        <span class="nav-num">02</span> Competidores
+      </a>
+      <a href="#/anuncios" data-view="anuncios">
+        <span class="nav-num">03</span> Anuncios
+      </a>
+      <a href="#/insights" data-view="insights">
+        <span class="nav-num">04</span> Insights
+      </a>
+      <a href="#/historico" data-view="historico">
+        <span class="nav-num">05</span> Histórico
+      </a>
+    </nav>
+
+    <div class="meta">
+      <div class="meta-row"><span class="k">Generado</span><span class="v" id="meta-date">—</span></div>
+      <div class="meta-row"><span class="k">Ámbito</span><span class="v" id="meta-scope">—</span></div>
+      <div class="meta-row"><span class="k">Competidores</span><span class="v" id="meta-count">—</span></div>
+    </div>
+
+    <div class="sidebar-foot">
+      Datos: PageSpeed · OpenPageRank · GitHub · HN · Reddit · GDELT · Wayback · Meta Ads · Google Ads
+    </div>
+  </aside>
+
+  <!-- Main -->
+  <main class="main" id="main">
+    <div class="loading">
+      <div class="spinner"></div>
+      <span>Cargando datos competitivos...</span>
+    </div>
+  </main>
+</div>
+
+<!-- Modal de detalle -->
+<div class="modal-bg" id="modal-bg" hidden>
+  <div class="modal" id="modal">
+    <button class="modal-close" id="modal-close" aria-label="Cerrar">×</button>
+    <div id="modal-content"></div>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

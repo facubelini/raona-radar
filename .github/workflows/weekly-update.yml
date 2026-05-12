@@ -1,0 +1,86 @@
+name: Weekly competitive analysis
+
+on:
+  schedule:
+    # Cada lunes a las 8:00 UTC (5:00 hora Argentina, antes de empezar la semana)
+    - cron: '0 8 * * 1'
+  workflow_dispatch:    # permite correrlo a mano desde la pestaña Actions
+  push:
+    branches: [main]
+    paths:
+      - 'analyzer/**'
+      - 'webapp/**'
+      - '.github/workflows/weekly-update.yml'
+
+permissions:
+  contents: write     # para que el bot pueda commitear el JSON actualizado
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  analyze:
+    name: Run analyzer pipeline
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run pipeline
+        env:
+          SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
+          PAGESPEED_API_KEY: ${{ secrets.PAGESPEED_API_KEY }}
+          OPENPAGERANK_API_KEY: ${{ secrets.OPENPAGERANK_API_KEY }}
+          META_ACCESS_TOKEN: ${{ secrets.META_ACCESS_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          export GITHUB_TOKEN="$GH_TOKEN"   # evita choque con el GITHUB_TOKEN reservado de Actions
+          python -m analyzer.pipeline --verbose
+
+      - name: Commit updated data
+        run: |
+          git config user.name "raona-radar-bot"
+          git config user.email "bot@raona.com"
+          git add webapp/data/
+          if git diff --cached --quiet; then
+            echo "No hay cambios para commitear."
+          else
+            git commit -m "chore: weekly competitive data $(date -u +'%Y-%m-%d')"
+            git push
+          fi
+
+  deploy:
+    name: Deploy to GitHub Pages
+    needs: analyze
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main      # toma el commit que acaba de hacer el job anterior
+          fetch-depth: 0
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload webapp
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './webapp'
+
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4

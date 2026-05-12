@@ -1,0 +1,715 @@
+{
+  "generated_at": "2026-05-12T22:05:44.381062Z",
+  "scope_label": "Tech consulting · Argentina",
+  "country": "AR",
+  "own": {
+    "domain": "raona.com",
+    "name": "Raona",
+    "source": "self",
+    "url": "https://raona.com",
+    "title": "Raona: Coding Corporate Futures",
+    "snippet": "Consultora tech con 20+ años en Digital Workplace e intranets corporativas, oficinas en Buenos Aires y San Luis.",
+    "score": null,
+    "metrics": {
+      "pagespeed": {
+        "performance": 42,
+        "seo": 85,
+        "accessibility": 88,
+        "best_practices": 78
+      },
+      "pagerank": {
+        "page_rank": 4.8,
+        "rank": null
+      },
+      "age_years": 22,
+      "blog": {
+        "posts_last_90d": 14,
+        "feed_url": "https://raona.com/feed/",
+        "recent_titles": [
+          "Caso de éxito: digitalización en empresa LATAM",
+          "Tendencias en Modern Workplace para 2026",
+          "Implementación de Copilot Studio en clientes corporativos"
+        ]
+      },
+      "hn": {
+        "total": 3,
+        "hits": []
+      },
+      "reddit": {
+        "total": 2,
+        "hits": []
+      },
+      "gdelt": {
+        "total": 6,
+        "hits": []
+      },
+      "tech_stack": [
+        "WordPress",
+        "WP Rocket",
+        "Elementor",
+        "Cloudflare",
+        "Google Tag Manager",
+        "PHP",
+        "Meta Pixel"
+      ],
+      "github": null,
+      "wayback_first": null,
+      "meta_ads": {
+        "total": 2,
+        "ads": [],
+        "scope": "all_ads",
+        "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Raona&search_type=keyword_unordered&media_type=all"
+      },
+      "google_ads": {
+        "ads_visible": null,
+        "verified_advertiser": null,
+        "deep_link": "https://adstransparency.google.com/?region=AR&domain=raona.com"
+      }
+    },
+    "voice_total": 11,
+    "voice_share_pct": 2.2
+  },
+  "competitors": [
+    {
+      "domain": "baufest.com",
+      "name": "Baufest",
+      "source": "seed",
+      "url": "https://baufest.com",
+      "title": "",
+      "snippet": "",
+      "score": 1,
+      "note": "",
+      "metrics": {
+        "pagespeed": {
+          "performance": 58,
+          "seo": 91,
+          "accessibility": 86,
+          "best_practices": 84
+        },
+        "pagerank": {
+          "page_rank": 5.2,
+          "rank": null
+        },
+        "age_years": 32,
+        "blog": {
+          "posts_last_90d": 12,
+          "feed_url": "https://baufest.com/feed/",
+          "recent_titles": [
+            "Caso de éxito: digitalización en empresa LATAM",
+            "Tendencias en Modern Workplace para 2026",
+            "Implementación de Copilot Studio en clientes corporativos"
+          ]
+        },
+        "hn": {
+          "total": 4,
+          "hits": []
+        },
+        "reddit": {
+          "total": 3,
+          "hits": []
+        },
+        "gdelt": {
+          "total": 18,
+          "hits": []
+        },
+        "tech_stack": [
+          "WordPress",
+          "Cloudflare",
+          "Google Tag Manager",
+          "HubSpot",
+          "Hotjar",
+          "PHP",
+          "Meta Pixel"
+        ],
+        "github": {
+          "name": "Baufest",
+          "public_repos": 14,
+          "total_stars": 89,
+          "total_forks": 22,
+          "followers": 12,
+          "recent_active_repos": 3,
+          "top_languages": [
+            [
+              "JavaScript",
+              5
+            ],
+            [
+              "C#",
+              4
+            ]
+          ],
+          "created_at": "2014-03-12T00:00:00Z"
+        },
+        "wayback_first": null,
+        "meta_ads": {
+          "total": 8,
+          "ads": [],
+          "scope": "all_ads",
+          "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Baufest&search_type=keyword_unordered&media_type=all"
+        },
+        "google_ads": {
+          "ads_visible": 14,
+          "verified_advertiser": true,
+          "deep_link": "https://adstransparency.google.com/?region=AR&domain=baufest.com"
+        }
+      },
+      "voice_total": 25,
+      "voice_share_pct": 4.9
+    },
+    {
+      "domain": "snoopconsulting.com",
+      "name": "Snoop Consulting",
+      "source": "seed",
+      "url": "https://snoopconsulting.com",
+      "title": "",
+      "snippet": "",
+      "score": 1,
+      "note": "",
+      "metrics": {
+        "pagespeed": {
+          "performance": 54,
+          "seo": 88,
+          "accessibility": 81,
+          "best_practices": 79
+        },
+        "pagerank": {
+          "page_rank": 4.4,
+          "rank": null
+        },
+        "age_years": 17,
+        "blog": {
+          "posts_last_90d": 6,
+          "feed_url": "https://snoopconsulting.com/blog/feed/",
+          "recent_titles": [
+            "Caso de éxito: digitalización en empresa LATAM",
+            "Tendencias en Modern Workplace para 2026",
+            "Implementación de Copilot Studio en clientes corporativos"
+          ]
+        },
+        "hn": {
+          "total": 1,
+          "hits": []
+        },
+        "reddit": {
+          "total": 0,
+          "hits": []
+        },
+        "gdelt": {
+          "total": 4,
+          "hits": []
+        },
+        "tech_stack": [
+          "WordPress",
+          "Elementor",
+          "Cloudflare",
+          "Google Tag Manager",
+          "PHP"
+        ],
+        "github": null,
+        "wayback_first": null,
+        "meta_ads": {
+          "total": 3,
+          "ads": [],
+          "scope": "all_ads",
+          "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Snoop+Consulting&search_type=keyword_unordered&media_type=all"
+        },
+        "google_ads": {
+          "ads_visible": 2,
+          "verified_advertiser": true,
+          "deep_link": "https://adstransparency.google.com/?region=AR&domain=snoopconsulting.com"
+        }
+      },
+      "voice_total": 5,
+      "voice_share_pct": 1.0
+    },
+    {
+      "domain": "practia.global",
+      "name": "Practia",
+      "source": "seed",
+      "url": "https://practia.global",
+      "title": "",
+      "snippet": "",
+      "score": 1,
+      "note": "",
+      "metrics": {
+        "pagespeed": {
+          "performance": 63,
+          "seo": 89,
+          "accessibility": 85,
+          "best_practices": 82
+        },
+        "pagerank": {
+          "page_rank": 4.9,
+          "rank": null
+        },
+        "age_years": 24,
+        "blog": {
+          "posts_last_90d": 18,
+          "feed_url": "https://practia.global/feed/",
+          "recent_titles": [
+            "Caso de éxito: digitalización en empresa LATAM",
+            "Tendencias en Modern Workplace para 2026",
+            "Implementación de Copilot Studio en clientes corporativos"
+          ]
+        },
+        "hn": {
+          "total": 2,
+          "hits": []
+        },
+        "reddit": {
+          "total": 2,
+          "hits": []
+        },
+        "gdelt": {
+          "total": 11,
+          "hits": []
+        },
+        "tech_stack": [
+          "WordPress",
+          "Cloudflare",
+          "Google Tag Manager",
+          "HubSpot",
+          "PHP",
+          "LinkedIn Insight"
+        ],
+        "github": null,
+        "wayback_first": null,
+        "meta_ads": {
+          "total": 5,
+          "ads": [],
+          "scope": "all_ads",
+          "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Practia&search_type=keyword_unordered&media_type=all"
+        },
+        "google_ads": {
+          "ads_visible": 8,
+          "verified_advertiser": true,
+          "deep_link": "https://adstransparency.google.com/?region=AR&domain=practia.global"
+        }
+      },
+      "voice_total": 15,
+      "voice_share_pct": 2.9
+    },
+    {
+      "domain": "hexacta.com",
+      "name": "Hexacta",
+      "source": "seed",
+      "url": "https://hexacta.com",
+      "title": "",
+      "snippet": "",
+      "score": 1,
+      "note": "",
+      "metrics": {
+        "pagespeed": {
+          "performance": 67,
+          "seo": 87,
+          "accessibility": 88,
+          "best_practices": 85
+        },
+        "pagerank": {
+          "page_rank": 4.7,
+          "rank": null
+        },
+        "age_years": 26,
+        "blog": {
+          "posts_last_90d": 9,
+          "feed_url": "https://hexacta.com/feed/",
+          "recent_titles": [
+            "Caso de éxito: digitalización en empresa LATAM",
+            "Tendencias en Modern Workplace para 2026",
+            "Implementación de Copilot Studio en clientes corporativos"
+          ]
+        },
+        "hn": {
+          "total": 2,
+          "hits": []
+        },
+        "reddit": {
+          "total": 1,
+          "hits": []
+        },
+        "gdelt": {
+          "total": 7,
+          "hits": []
+        },
+        "tech_stack": [
+          "WordPress",
+          "Cloudflare",
+          "Google Tag Manager",
+          "PHP",
+          "HubSpot",
+          "Hotjar"
+        ],
+        "github": {
+          "name": "Hexacta",
+          "public_repos": 31,
+          "total_stars": 156,
+          "total_forks": 41,
+          "followers": 18,
+          "recent_active_repos": 6,
+          "top_languages": [
+            [
+              "JavaScript",
+              12
+            ],
+            [
+              "TypeScript",
+              7
+            ],
+            [
+              "Java",
+              5
+            ]
+          ],
+          "created_at": "2013-09-08T00:00:00Z"
+        },
+        "wayback_first": null,
+        "meta_ads": {
+          "total": 1,
+          "ads": [],
+          "scope": "all_ads",
+          "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Hexacta&search_type=keyword_unordered&media_type=all"
+        },
+        "google_ads": {
+          "ads_visible": 3,
+          "verified_advertiser": true,
+          "deep_link": "https://adstransparency.google.com/?region=AR&domain=hexacta.com"
+        }
+      },
+      "voice_total": 10,
+      "voice_share_pct": 2.0
+    },
+    {
+      "domain": "lagash.com",
+      "name": "Lagash",
+      "source": "seed",
+      "url": "https://lagash.com",
+      "title": "",
+      "snippet": "",
+      "score": 1,
+      "note": "",
+      "metrics": {
+        "pagespeed": {
+          "performance": 72,
+          "seo": 92,
+          "accessibility": 90,
+          "best_practices": 89
+        },
+        "pagerank": {
+          "page_rank": 5.3,
+          "rank": null
+        },
+        "age_years": 21,
+        "blog": {
+          "posts_last_90d": 21,
+          "feed_url": "https://lagash.com/feed/",
+          "recent_titles": [
+            "Caso de éxito: digitalización en empresa LATAM",
+            "Tendencias en Modern Workplace para 2026",
+            "Implementación de Copilot Studio en clientes corporativos"
+          ]
+        },
+        "hn": {
+          "total": 3,
+          "hits": []
+        },
+        "reddit": {
+          "total": 1,
+          "hits": []
+        },
+        "gdelt": {
+          "total": 14,
+          "hits": []
+        },
+        "tech_stack": [
+          "Next.js",
+          "React",
+          "Cloudflare",
+          "Google Tag Manager",
+          "HubSpot",
+          "Meta Pixel"
+        ],
+        "github": {
+          "name": "Lagash",
+          "public_repos": 8,
+          "total_stars": 42,
+          "total_forks": 11,
+          "followers": 9,
+          "recent_active_repos": 1,
+          "top_languages": [
+            [
+              "TypeScript",
+              4
+            ]
+          ],
+          "created_at": "2017-04-11T00:00:00Z"
+        },
+        "wayback_first": null,
+        "meta_ads": {
+          "total": 4,
+          "ads": [],
+          "scope": "all_ads",
+          "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Lagash&search_type=keyword_unordered&media_type=all"
+        },
+        "google_ads": {
+          "ads_visible": 6,
+          "verified_advertiser": true,
+          "deep_link": "https://adstransparency.google.com/?region=AR&domain=lagash.com"
+        }
+      },
+      "voice_total": 18,
+      "voice_share_pct": 3.5
+    },
+    {
+      "domain": "algeiba.com",
+      "name": "Algeiba",
+      "source": "seed",
+      "url": "https://algeiba.com",
+      "title": "",
+      "snippet": "",
+      "score": 1,
+      "note": "",
+      "metrics": {
+        "pagespeed": {
+          "performance": 48,
+          "seo": 84,
+          "accessibility": 78,
+          "best_practices": 76
+        },
+        "pagerank": {
+          "page_rank": 4.1,
+          "rank": null
+        },
+        "age_years": 19,
+        "blog": {
+          "posts_last_90d": 5,
+          "feed_url": "https://algeiba.com/feed/",
+          "recent_titles": [
+            "Caso de éxito: digitalización en empresa LATAM",
+            "Tendencias en Modern Workplace para 2026",
+            "Implementación de Copilot Studio en clientes corporativos"
+          ]
+        },
+        "hn": {
+          "total": 0,
+          "hits": []
+        },
+        "reddit": {
+          "total": 0,
+          "hits": []
+        },
+        "gdelt": {
+          "total": 3,
+          "hits": []
+        },
+        "tech_stack": [
+          "WordPress",
+          "Elementor",
+          "Cloudflare",
+          "PHP"
+        ],
+        "github": null,
+        "wayback_first": null,
+        "meta_ads": {
+          "total": 0,
+          "ads": [],
+          "scope": null,
+          "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Algeiba&search_type=keyword_unordered&media_type=all"
+        },
+        "google_ads": {
+          "ads_visible": null,
+          "verified_advertiser": null,
+          "deep_link": "https://adstransparency.google.com/?region=AR&domain=algeiba.com"
+        }
+      },
+      "voice_total": 3,
+      "voice_share_pct": 0.6
+    },
+    {
+      "domain": "globant.com",
+      "name": "Globant",
+      "source": "seed",
+      "url": "https://globant.com",
+      "title": "",
+      "snippet": "",
+      "score": 1,
+      "note": "",
+      "metrics": {
+        "pagespeed": {
+          "performance": 81,
+          "seo": 95,
+          "accessibility": 93,
+          "best_practices": 94
+        },
+        "pagerank": {
+          "page_rank": 7.1,
+          "rank": null
+        },
+        "age_years": 23,
+        "blog": {
+          "posts_last_90d": 47,
+          "feed_url": "https://stayrelevant.globant.com/en/feed/",
+          "recent_titles": [
+            "Caso de éxito: digitalización en empresa LATAM",
+            "Tendencias en Modern Workplace para 2026",
+            "Implementación de Copilot Studio en clientes corporativos"
+          ]
+        },
+        "hn": {
+          "total": 68,
+          "hits": []
+        },
+        "reddit": {
+          "total": 42,
+          "hits": []
+        },
+        "gdelt": {
+          "total": 312,
+          "hits": []
+        },
+        "tech_stack": [
+          "Next.js",
+          "React",
+          "Cloudflare",
+          "Google Tag Manager",
+          "HubSpot",
+          "Hotjar",
+          "LinkedIn Insight",
+          "Meta Pixel"
+        ],
+        "github": {
+          "name": "Globant",
+          "public_repos": 89,
+          "total_stars": 1840,
+          "total_forks": 412,
+          "followers": 84,
+          "recent_active_repos": 22,
+          "top_languages": [
+            [
+              "TypeScript",
+              32
+            ],
+            [
+              "JavaScript",
+              18
+            ],
+            [
+              "Python",
+              12
+            ],
+            [
+              "Java",
+              9
+            ]
+          ],
+          "created_at": "2011-02-14T00:00:00Z"
+        },
+        "wayback_first": null,
+        "meta_ads": {
+          "total": 24,
+          "ads": [],
+          "scope": "all_ads",
+          "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Globant&search_type=keyword_unordered&media_type=all"
+        },
+        "google_ads": {
+          "ads_visible": 67,
+          "verified_advertiser": true,
+          "deep_link": "https://adstransparency.google.com/?region=AR&domain=globant.com"
+        }
+      },
+      "voice_total": 422,
+      "voice_share_pct": 82.6
+    },
+    {
+      "domain": "intersystec.com",
+      "name": "Intersys",
+      "source": "seed",
+      "url": "https://intersystec.com",
+      "title": "",
+      "snippet": "",
+      "score": 1,
+      "note": "",
+      "metrics": {
+        "pagespeed": {
+          "performance": 51,
+          "seo": 82,
+          "accessibility": 79,
+          "best_practices": 75
+        },
+        "pagerank": {
+          "page_rank": 3.8,
+          "rank": null
+        },
+        "age_years": 12,
+        "blog": {
+          "posts_last_90d": 4,
+          "feed_url": null,
+          "recent_titles": [
+            "Caso de éxito: digitalización en empresa LATAM",
+            "Tendencias en Modern Workplace para 2026",
+            "Implementación de Copilot Studio en clientes corporativos"
+          ]
+        },
+        "hn": {
+          "total": 0,
+          "hits": []
+        },
+        "reddit": {
+          "total": 0,
+          "hits": []
+        },
+        "gdelt": {
+          "total": 2,
+          "hits": []
+        },
+        "tech_stack": [
+          "WordPress",
+          "Elementor",
+          "PHP",
+          "Google Tag Manager"
+        ],
+        "github": null,
+        "wayback_first": null,
+        "meta_ads": {
+          "total": 1,
+          "ads": [],
+          "scope": "all_ads",
+          "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Intersys&search_type=keyword_unordered&media_type=all"
+        },
+        "google_ads": {
+          "ads_visible": null,
+          "verified_advertiser": null,
+          "deep_link": "https://adstransparency.google.com/?region=AR&domain=intersystec.com"
+        }
+      },
+      "voice_total": 2,
+      "voice_share_pct": 0.4
+    }
+  ],
+  "insights": [
+    {
+      "title": "Performance Lighthouse en el cuartil inferior",
+      "body": "Tu Performance (42) es el más bajo del set. Lagash (72), Globant (81) y Hexacta (67) corren con stacks modernos (Next.js/React). El WordPress + WP Rocket + Elementor es un punto de fricción evidente para SEO técnico. Auditoría de Core Web Vitals es priorizable.",
+      "severity": "warning"
+    },
+    {
+      "title": "Globant marca el techo de share of voice, pero el resto está abierto",
+      "body": "Excluyendo a Globant (caso aparte, 422 menciones en 12m), el resto del cluster argentino vive entre 8 y 25 menciones. Es un terreno donde con 1-2 piezas de contenido bien posicionadas (por ej. un white paper sobre Copilot Studio o un caso de adopción en cliente grande) podrías saltar varias posiciones.",
+      "severity": "info"
+    },
+    {
+      "title": "Baufest y Globant están invirtiendo en Meta Ads",
+      "body": "Baufest tiene 8 anuncios activos en Meta y 14 en Google. Globant tiene 24 y 67. El resto del cluster casi no aparece en publicidad pagada — incluyendo Raona. Abrí el deep-link en la vista de Anuncios para ver qué mensajes están corriendo: te da pistas de qué audiencias persiguen.",
+      "severity": "info"
+    },
+    {
+      "title": "Velocidad de contenido: Globant te triplica, Practia te alcanza",
+      "body": "Globant publica ~47 posts cada 90 días, Practia ~18, vos ~14. En 12 meses son 188 vs 56 vs 188 piezas indexables. Para no quedar atrás del cluster medio (Practia, Lagash) hace falta acercarse a 25-30 posts trimestrales.",
+      "severity": "warning"
+    },
+    {
+      "title": "Hexacta y Globant tienen presencia visible en GitHub",
+      "body": "Hexacta (31 repos, 156★) y Globant (89 repos, 1.840★) muestran código abierto. Para venta tech-to-tech, especialmente con CTOs argentinos, un repo público con un par de acceleradores de Microsoft 365 o Power Platform abriría conversaciones que hoy no se abren.",
+      "severity": "info"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "own_company": {
+    "name": "Raona",
+    "domain": "raona.com",
+    "country": "AR",
+    "scope_label": "Tech consulting · Argentina"
+  },
+  "keywords": [
+    "intranet corporativa",
+    "digital workplace",
+    "consultoría Microsoft 365",
+    "IA generativa empresarial",
+    "Power Platform"
+  ],
+  "competitors": [
+    {
+      "domain": "baufest.com",
+      "name": "Baufest",
+      "note": "Consultora argentina con práctica de Modern Workplace y M365"
+    },
+    {
+      "domain": "snoopconsulting.com",
+      "name": "Snoop Consulting",
+      "note": "Microsoft Gold Partner en Argentina, foco Cloud y Workplace"
+    },
+    {
+      "domain": "practia.global",
+      "name": "Practia",
+      "note": "Consultora de origen argentino con presencia regional"
+    },
+    {
+      "domain": "hexacta.com",
+      "name": "Hexacta",
+      "note": "Software factory argentina con servicios M365 y custom dev"
+    },
+    {
+      "domain": "lagash.com",
+      "name": "Lagash",
+      "note": "LatAm tech consultancy con práctica Microsoft"
+    },
+    {
+      "domain": "algeiba.com",
+      "name": "Algeiba",
+      "note": "Microsoft Partner argentino, foco corporativo"
+    },
+    {
+      "domain": "globant.com",
+      "name": "Globant",
+      "note": "Player grande de referencia (no competidor directo pero marca el techo)"
+    },
+    {
+      "domain": "intersystec.com",
+      "name": "Intersys",
+      "note": "Microsoft Partner argentino"
+    }
+  ]
+}
