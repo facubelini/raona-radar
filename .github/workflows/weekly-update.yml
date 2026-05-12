@@ -52,12 +52,18 @@ jobs:
         run: |
           git config user.name "raona-radar-bot"
           git config user.email "bot@raona.com"
+          # Save freshly-generated data before resetting
+          cp -r webapp/data /tmp/fresh-data
+          # Reset to latest remote to avoid diverged-history conflicts
+          git fetch origin master
+          git reset --hard origin/master
+          # Restore fresh data on top of latest remote state
+          cp -r /tmp/fresh-data/. webapp/data/
           git add webapp/data/
           if git diff --cached --quiet; then
             echo "No hay cambios para commitear."
           else
             git commit -m "chore: weekly competitive data $(date -u +'%Y-%m-%d')"
-            git pull --rebase origin master
             git push
           fi
 
