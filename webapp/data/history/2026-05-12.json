@@ -1,136 +1,645 @@
 {
-  "generated_at": "2026-05-12T22:05:44.381062Z",
+  "generated_at": "2026-05-12T22:26:34.083713Z",
   "scope_label": "Tech consulting · Argentina",
   "country": "AR",
   "own": {
     "domain": "raona.com",
-    "name": "Raona",
+    "score": null,
+    "title": "",
+    "snippet": "",
     "source": "self",
     "url": "https://raona.com",
-    "title": "Raona: Coding Corporate Futures",
-    "snippet": "Consultora tech con 20+ años en Digital Workplace e intranets corporativas, oficinas en Buenos Aires y San Luis.",
-    "score": null,
+    "name": "Raona",
     "metrics": {
-      "pagespeed": {
-        "performance": 42,
-        "seo": 85,
-        "accessibility": 88,
-        "best_practices": 78
-      },
-      "pagerank": {
-        "page_rank": 4.8,
-        "rank": null
-      },
-      "age_years": 22,
-      "blog": {
-        "posts_last_90d": 14,
-        "feed_url": "https://raona.com/feed/",
-        "recent_titles": [
-          "Caso de éxito: digitalización en empresa LATAM",
-          "Tendencias en Modern Workplace para 2026",
-          "Implementación de Copilot Studio en clientes corporativos"
-        ]
-      },
-      "hn": {
-        "total": 3,
-        "hits": []
-      },
       "reddit": {
-        "total": 2,
+        "total": 0,
         "hits": []
       },
-      "gdelt": {
-        "total": 6,
-        "hits": []
-      },
-      "tech_stack": [
-        "WordPress",
-        "WP Rocket",
-        "Elementor",
-        "Cloudflare",
-        "Google Tag Manager",
-        "PHP",
-        "Meta Pixel"
-      ],
-      "github": null,
-      "wayback_first": null,
       "meta_ads": {
-        "total": 2,
+        "total": 0,
         "ads": [],
-        "scope": "all_ads",
+        "scope": null,
         "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Raona&search_type=keyword_unordered&media_type=all"
+      },
+      "pagespeed": {},
+      "hn": {
+        "total": 863,
+        "hits": [
+          {
+            "title": "US budget watchdog estimates Golden Dome will cost $1.2T",
+            "url": "",
+            "points": null,
+            "comments": null,
+            "date": "2026-05-12T20:52:44Z"
+          },
+          {
+            "title": "If AI writes your code, why use Python?",
+            "url": "",
+            "points": null,
+            "comments": null,
+            "date": "2026-05-12T11:23:36Z"
+          },
+          {
+            "title": "I have seen the dystopian future of elderly care",
+            "url": "",
+            "points": null,
+            "comments": null,
+            "date": "2026-05-10T18:32:51Z"
+          },
+          {
+            "title": "Ronald G. Wayne Is More Than Two Weeks at Apple",
+            "url": "https://tedium.co/2026/03/31/ronald-g-wayne-apple-interview/",
+            "points": 2,
+            "comments": 2,
+            "date": "2026-05-10T13:44:19Z"
+          },
+          {
+            "title": "I want to live like Costco people",
+            "url": "",
+            "points": null,
+            "comments": null,
+            "date": "2026-05-08T19:48:13Z"
+          },
+          {
+            "title": "Singapore introduces caning for boys who bully others at school",
+            "url": "",
+            "points": null,
+            "comments": null,
+            "date": "2026-05-08T16:42:36Z"
+          },
+          {
+            "title": "The Vatican's Website in Latin",
+            "url": "",
+            "points": null,
+            "comments": null,
+            "date": "2026-05-07T21:28:30Z"
+          },
+          {
+            "title": "The Vatican's Website in Latin",
+            "url": "",
+            "points": null,
+            "comments": null,
+            "date": "2026-05-07T15:31:23Z"
+          }
+        ]
       },
       "google_ads": {
         "ads_visible": null,
         "verified_advertiser": null,
         "deep_link": "https://adstransparency.google.com/?region=AR&domain=raona.com"
+      },
+      "github": {
+        "name": "Raona Enginyers, S.L.",
+        "public_repos": 8,
+        "followers": 0,
+        "total_stars": 2,
+        "total_forks": 8,
+        "recent_active_repos": 0,
+        "top_languages": [
+          [
+            "C#",
+            1
+          ],
+          [
+            "PowerShell",
+            1
+          ],
+          [
+            "HTML",
+            1
+          ]
+        ],
+        "created_at": "2019-07-16T10:28:58Z"
+      },
+      "feed_url": "https://raona.com/feed/",
+      "tech_stack": [
+        "Elementor",
+        "Google Tag Manager",
+        "HubSpot",
+        "Meta Pixel",
+        "Nginx",
+        "WP Rocket",
+        "WordPress"
+      ],
+      "gdelt": {
+        "total": 0,
+        "hits": []
+      },
+      "wayback_first": null,
+      "blog": {
+        "total_entries_in_feed": 10,
+        "posts_last_90d": 10,
+        "recent_titles": [
+          "Niveles de adopción de IA en desarrollo: en qué punto está tu equipo",
+          "6 errores comunes al usar IA en desarrollo",
+          "Agentizar Power Apps: Cómo dar más valor a las canvas apps existentes",
+          "Hablemos de abril 2026: el vertiginoso tsunami de modelos IA",
+          "Licenciamiento Microsoft hoy: más complejo de lo que parece",
+          "Telemetría en sistemas: cómo anticiparse a los errores antes de que ocurran",
+          "Microsoft redefine Power Platform: el salto hacia agentes de IA",
+          "Ciberseguridad y continuidad de negocio en PYMEs"
+        ],
+        "feed_url": "https://raona.com/feed/"
+      },
+      "age_years": null,
+      "pagerank": {
+        "page_rank": 2.61,
+        "rank": 11182152
       }
     },
-    "voice_total": 11,
-    "voice_share_pct": 2.2
+    "voice_total": 863,
+    "voice_share_pct": 1.0
   },
   "competitors": [
     {
       "domain": "baufest.com",
       "name": "Baufest",
+      "name_override": "Baufest",
+      "note": "Consultora argentina con práctica de Modern Workplace y M365",
       "source": "seed",
-      "url": "https://baufest.com",
+      "score": 1,
       "title": "",
       "snippet": "",
-      "score": 1,
-      "note": "",
+      "url": "https://baufest.com",
       "metrics": {
-        "pagespeed": {
-          "performance": 58,
-          "seo": 91,
-          "accessibility": 86,
-          "best_practices": 84
+        "reddit": {
+          "total": 0,
+          "hits": []
         },
-        "pagerank": {
-          "page_rank": 5.2,
-          "rank": null
+        "meta_ads": {
+          "total": 0,
+          "ads": [],
+          "scope": null,
+          "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Baufest&search_type=keyword_unordered&media_type=all"
         },
-        "age_years": 32,
-        "blog": {
-          "posts_last_90d": 12,
-          "feed_url": "https://baufest.com/feed/",
-          "recent_titles": [
-            "Caso de éxito: digitalización en empresa LATAM",
-            "Tendencias en Modern Workplace para 2026",
-            "Implementación de Copilot Studio en clientes corporativos"
+        "pagespeed": {},
+        "hn": {
+          "total": 175,
+          "hits": [
+            {
+              "title": "The Rise of the Bullshittery",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-12T20:11:31Z"
+            },
+            {
+              "title": "Software engineering may no longer be a lifetime career",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-12T16:56:10Z"
+            },
+            {
+              "title": "If AI writes your code, why use Python?",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-12T06:57:35Z"
+            },
+            {
+              "title": "Ask HN: Why do people hate using AI so much?",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-11T19:13:48Z"
+            },
+            {
+              "title": "Mythos Finds a Curl Vulnerability",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-11T17:09:00Z"
+            },
+            {
+              "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-11T13:19:17Z"
+            },
+            {
+              "title": "First tunnel element of the Fehmarnbelt Tunnel immersed",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-11T11:32:37Z"
+            },
+            {
+              "title": "Hardware Attestation as Monopoly Enabler",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-11T10:45:41Z"
+            }
           ]
         },
-        "hn": {
-          "total": 4,
-          "hits": []
+        "google_ads": {
+          "ads_visible": null,
+          "verified_advertiser": null,
+          "deep_link": "https://adstransparency.google.com/?region=AR&domain=baufest.com"
         },
-        "reddit": {
-          "total": 3,
-          "hits": []
-        },
-        "gdelt": {
-          "total": 18,
-          "hits": []
-        },
-        "tech_stack": [
-          "WordPress",
-          "Cloudflare",
-          "Google Tag Manager",
-          "HubSpot",
-          "Hotjar",
-          "PHP",
-          "Meta Pixel"
-        ],
         "github": {
           "name": "Baufest",
-          "public_repos": 14,
-          "total_stars": 89,
-          "total_forks": 22,
-          "followers": 12,
+          "public_repos": 4,
+          "followers": 41,
+          "total_stars": 0,
+          "total_forks": 1,
           "recent_active_repos": 3,
           "top_languages": [
             [
+              "Python",
+              1
+            ],
+            [
+              "Shell",
+              1
+            ],
+            [
+              "TypeScript",
+              1
+            ]
+          ],
+          "created_at": "2023-08-23T15:44:19Z"
+        },
+        "feed_url": "https://baufest.com/feed/",
+        "tech_stack": [
+          "Elementor",
+          "LinkedIn Insight",
+          "Meta Pixel",
+          "Nginx",
+          "PHP",
+          "WordPress"
+        ],
+        "gdelt": {
+          "total": 0,
+          "hits": []
+        },
+        "wayback_first": null,
+        "blog": {
+          "total_entries_in_feed": 10,
+          "posts_last_90d": 9,
+          "recent_titles": [
+            "La organización inteligente: reinventando la forma de trabajar en la era de la IA",
+            "INVAP | REINGENIERÍA DE CONSOLAS PARA RADARES CIVILES Y MILITARES",
+            "FinOps: transformar el gasto de la nube en una inversión estratégica",
+            "La banca en la era de los agentes de IA: del canal digital al banco autónomo",
+            "El corazón de la innovación: la importancia de una plataforma de datos sólida y moderna",
+            "Baufest potencia su estrategia global en IA e innovación con el nombramiento de Ángel Limas como Head de Quality Engineering",
+            "Casos de estudio, innovación y el futuro de las empresas: lo más destacado del AI Tour México 2026",
+            "Cómo dejar atrás el monitoreo fragmentado y reactivo para construir una capacidad estratégica de observabilidad"
+          ],
+          "feed_url": "https://baufest.com/feed/"
+        },
+        "age_years": null,
+        "pagerank": {
+          "page_rank": 3.49,
+          "rank": 1788236
+        }
+      },
+      "voice_total": 175,
+      "voice_share_pct": 0.2
+    },
+    {
+      "domain": "snoopconsulting.com",
+      "name": "Snoop Consulting",
+      "name_override": "Snoop Consulting",
+      "note": "Microsoft Gold Partner en Argentina, foco Cloud y Workplace",
+      "source": "seed",
+      "score": 1,
+      "title": "",
+      "snippet": "",
+      "url": "https://snoopconsulting.com",
+      "metrics": {
+        "reddit": {
+          "total": 0,
+          "hits": []
+        },
+        "meta_ads": {
+          "total": 0,
+          "ads": [],
+          "scope": null,
+          "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Snoop+Consulting&search_type=keyword_unordered&media_type=all"
+        },
+        "pagespeed": {},
+        "github": null,
+        "feed_url": "https://snoopconsulting.com/feed/",
+        "tech_stack": [
+          "Google Tag Manager",
+          "Nginx",
+          "WordPress"
+        ],
+        "hn": {
+          "total": 4,
+          "hits": [
+            {
+              "title": "Meta's embrace of AI is making its employees miserable",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-10T00:15:54Z"
+            },
+            {
+              "title": "Show HN: I built another to do list. But it does a lot",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-04-30T17:13:51Z"
+            },
+            {
+              "title": "Kernighan's Lever",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2025-12-22T03:44:16Z"
+            },
+            {
+              "title": "The ‘white-collar bloodbath’ is all part of the AI hype machine",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2025-05-31T05:58:56Z"
+            }
+          ]
+        },
+        "google_ads": {
+          "ads_visible": null,
+          "verified_advertiser": null,
+          "deep_link": "https://adstransparency.google.com/?region=AR&domain=snoopconsulting.com"
+        },
+        "gdelt": {
+          "total": 0,
+          "hits": []
+        },
+        "wayback_first": null,
+        "blog": {
+          "total_entries_in_feed": 10,
+          "posts_last_90d": 3,
+          "recent_titles": [
+            "De buscar productos a resolver necesidades: El fin del carrito de compras tradicional",
+            "Más de la mitad de las empresas se arrepiente de reemplazar humanos con IA",
+            "¿Tu empresa depende de personas o de procesos?",
+            "Automatización y chatbots: cuando el canal también resuelve",
+            "Billeteras digitales en auge: cómo la confianza impulsa el crecimiento del eCommerce",
+            "Omnicanalidad sin fricciones: el nuevo estándar del eCommerce",
+            "La era del marketing ciego: consumidores más cautos, marcas más desafiadas",
+            "La máquina que trabaja CON vos (y no  pide café ni vacaciones)"
+          ],
+          "feed_url": "https://snoopconsulting.com/feed/"
+        },
+        "age_years": null,
+        "pagerank": {
+          "page_rank": 1.4,
+          "rank": 94482272
+        }
+      },
+      "voice_total": 4,
+      "voice_share_pct": 0.0
+    },
+    {
+      "domain": "practia.global",
+      "name": "Practia",
+      "name_override": "Practia",
+      "note": "Consultora de origen argentino con presencia regional",
+      "source": "seed",
+      "score": 1,
+      "title": "",
+      "snippet": "",
+      "url": "https://practia.global",
+      "metrics": {
+        "reddit": {
+          "total": 0,
+          "hits": []
+        },
+        "meta_ads": {
+          "total": 0,
+          "ads": [],
+          "scope": null,
+          "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Practia&search_type=keyword_unordered&media_type=all"
+        },
+        "pagespeed": {},
+        "hn": {
+          "total": 58545,
+          "hits": [
+            {
+              "title": "Is this why science advances one funeral at a time?",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-12T22:20:26Z"
+            },
+            {
+              "title": "GitLab announces workforce reduction and end of their CREDIT values",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-12T22:19:07Z"
+            },
+            {
+              "title": "The Surprisingly Long Life of the Vacuum Tube",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-12T22:17:10Z"
+            },
+            {
+              "title": "EU to crack down on TikTok, Instagram's 'addictive design' targeting kids",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-12T22:10:53Z"
+            },
+            {
+              "title": "Bambu Lab is abusing the open source social contract",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-12T22:01:26Z"
+            },
+            {
+              "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-12T22:00:09Z"
+            },
+            {
+              "title": "Dead.Letter (CVE-2026-45185) – How XBOW found an unauthenticated RCE on Exim",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-12T21:59:26Z"
+            },
+            {
+              "title": "Reimagining the mouse pointer for the AI era",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-12T21:56:29Z"
+            }
+          ]
+        },
+        "google_ads": {
+          "ads_visible": null,
+          "verified_advertiser": null,
+          "deep_link": "https://adstransparency.google.com/?region=AR&domain=practia.global"
+        },
+        "github": {
+          "name": "Practia",
+          "public_repos": 0,
+          "followers": 0,
+          "total_stars": 0,
+          "total_forks": 0,
+          "recent_active_repos": 0,
+          "top_languages": [],
+          "created_at": "2018-10-31T12:21:42Z"
+        },
+        "feed_url": "https://practia.global/feed/",
+        "tech_stack": [
+          "Elementor",
+          "WordPress"
+        ],
+        "gdelt": {
+          "total": 0,
+          "hits": []
+        },
+        "wayback_first": "20161117063710",
+        "blog": {
+          "total_entries_in_feed": 10,
+          "posts_last_90d": 7,
+          "recent_titles": [
+            "IA e produtividade: a mudança que as empresas já estão vivendo",
+            "UiPath – Tendência 1 – A disrupção da IA e a reinvenção das organizações",
+            "Insight Anual 2026: quando a tecnologia deixa de acompanhar e passa a definir o negócio",
+            "Equipes humano–máquina: por que a IA está redefinindo (e não substituindo) o trabalho em equipe?",
+            "A evolução do Shadow AI: de ameaça a ativo estratégico",
+            "Hoje a tecnologia já não apoia mais o negócio: hoje ela o define.",
+            "Governar a Inteligência Artificial: o desafio estratégico que não pode esperar",
+            "Tecnología con propósito: lo que el sector salud puede enseñarle al resto de las industrias"
+          ],
+          "feed_url": "https://practia.global/feed/"
+        },
+        "age_years": 10.4,
+        "pagerank": {
+          "page_rank": 2.27,
+          "rank": 28930495
+        }
+      },
+      "voice_total": 58545,
+      "voice_share_pct": 66.1
+    },
+    {
+      "domain": "hexacta.com",
+      "name": "Hexacta",
+      "name_override": "Hexacta",
+      "note": "Software factory argentina con servicios M365 y custom dev",
+      "source": "seed",
+      "score": 1,
+      "title": "",
+      "snippet": "",
+      "url": "https://hexacta.com",
+      "metrics": {
+        "tech_stack": [],
+        "meta_ads": {
+          "total": 0,
+          "ads": [],
+          "scope": null,
+          "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Hexacta&search_type=keyword_unordered&media_type=all"
+        },
+        "feed_url": null,
+        "reddit": {
+          "total": 0,
+          "hits": []
+        },
+        "pagespeed": {},
+        "hn": {
+          "total": 1145,
+          "hits": [
+            {
+              "title": "When life gives you lemons, write better error messages",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-12T22:15:15Z"
+            },
+            {
+              "title": "EU to crack down on TikTok, Instagram's 'addictive design' targeting kids",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-12T22:10:53Z"
+            },
+            {
+              "title": "Googlebook",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-12T22:10:13Z"
+            },
+            {
+              "title": "The rise and fall of snake oil",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-12T22:09:07Z"
+            },
+            {
+              "title": "Meta employees protest against mouse tracking tech at US offices",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-12T22:07:45Z"
+            },
+            {
+              "title": "Meta employees protest against mouse tracking tech at US offices",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-12T22:06:14Z"
+            },
+            {
+              "title": "Show HN: Statewright – Visual state machines that make AI agents reliable",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-12T21:59:48Z"
+            },
+            {
+              "title": "The Future of Obsidian Plugins",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-12T21:56:35Z"
+            }
+          ]
+        },
+        "google_ads": {
+          "ads_visible": null,
+          "verified_advertiser": null,
+          "deep_link": "https://adstransparency.google.com/?region=AR&domain=hexacta.com"
+        },
+        "github": {
+          "name": "Hexacta",
+          "public_repos": 68,
+          "followers": 3,
+          "total_stars": 183,
+          "total_forks": 56,
+          "recent_active_repos": 0,
+          "top_languages": [
+            [
               "JavaScript",
+              26
+            ],
+            [
+              "Python",
+              5
+            ],
+            [
+              "Java",
+              5
+            ],
+            [
+              "Ruby",
               5
             ],
             [
@@ -138,577 +647,460 @@
               4
             ]
           ],
-          "created_at": "2014-03-12T00:00:00Z"
+          "created_at": "2011-12-05T13:07:48Z"
         },
-        "wayback_first": null,
-        "meta_ads": {
-          "total": 8,
-          "ads": [],
-          "scope": "all_ads",
-          "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Baufest&search_type=keyword_unordered&media_type=all"
-        },
-        "google_ads": {
-          "ads_visible": 14,
-          "verified_advertiser": true,
-          "deep_link": "https://adstransparency.google.com/?region=AR&domain=baufest.com"
-        }
-      },
-      "voice_total": 25,
-      "voice_share_pct": 4.9
-    },
-    {
-      "domain": "snoopconsulting.com",
-      "name": "Snoop Consulting",
-      "source": "seed",
-      "url": "https://snoopconsulting.com",
-      "title": "",
-      "snippet": "",
-      "score": 1,
-      "note": "",
-      "metrics": {
-        "pagespeed": {
-          "performance": 54,
-          "seo": 88,
-          "accessibility": 81,
-          "best_practices": 79
-        },
-        "pagerank": {
-          "page_rank": 4.4,
-          "rank": null
-        },
-        "age_years": 17,
-        "blog": {
-          "posts_last_90d": 6,
-          "feed_url": "https://snoopconsulting.com/blog/feed/",
-          "recent_titles": [
-            "Caso de éxito: digitalización en empresa LATAM",
-            "Tendencias en Modern Workplace para 2026",
-            "Implementación de Copilot Studio en clientes corporativos"
-          ]
-        },
-        "hn": {
-          "total": 1,
-          "hits": []
-        },
-        "reddit": {
+        "gdelt": {
           "total": 0,
           "hits": []
         },
-        "gdelt": {
-          "total": 4,
-          "hits": []
-        },
-        "tech_stack": [
-          "WordPress",
-          "Elementor",
-          "Cloudflare",
-          "Google Tag Manager",
-          "PHP"
-        ],
-        "github": null,
         "wayback_first": null,
-        "meta_ads": {
-          "total": 3,
-          "ads": [],
-          "scope": "all_ads",
-          "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Snoop+Consulting&search_type=keyword_unordered&media_type=all"
-        },
-        "google_ads": {
-          "ads_visible": 2,
-          "verified_advertiser": true,
-          "deep_link": "https://adstransparency.google.com/?region=AR&domain=snoopconsulting.com"
-        }
-      },
-      "voice_total": 5,
-      "voice_share_pct": 1.0
-    },
-    {
-      "domain": "practia.global",
-      "name": "Practia",
-      "source": "seed",
-      "url": "https://practia.global",
-      "title": "",
-      "snippet": "",
-      "score": 1,
-      "note": "",
-      "metrics": {
-        "pagespeed": {
-          "performance": 63,
-          "seo": 89,
-          "accessibility": 85,
-          "best_practices": 82
-        },
+        "blog": {},
+        "age_years": null,
         "pagerank": {
-          "page_rank": 4.9,
-          "rank": null
-        },
-        "age_years": 24,
-        "blog": {
-          "posts_last_90d": 18,
-          "feed_url": "https://practia.global/feed/",
-          "recent_titles": [
-            "Caso de éxito: digitalización en empresa LATAM",
-            "Tendencias en Modern Workplace para 2026",
-            "Implementación de Copilot Studio en clientes corporativos"
-          ]
-        },
-        "hn": {
-          "total": 2,
-          "hits": []
-        },
-        "reddit": {
-          "total": 2,
-          "hits": []
-        },
-        "gdelt": {
-          "total": 11,
-          "hits": []
-        },
-        "tech_stack": [
-          "WordPress",
-          "Cloudflare",
-          "Google Tag Manager",
-          "HubSpot",
-          "PHP",
-          "LinkedIn Insight"
-        ],
-        "github": null,
-        "wayback_first": null,
-        "meta_ads": {
-          "total": 5,
-          "ads": [],
-          "scope": "all_ads",
-          "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Practia&search_type=keyword_unordered&media_type=all"
-        },
-        "google_ads": {
-          "ads_visible": 8,
-          "verified_advertiser": true,
-          "deep_link": "https://adstransparency.google.com/?region=AR&domain=practia.global"
+          "page_rank": 1.76,
+          "rank": 70557605
         }
       },
-      "voice_total": 15,
-      "voice_share_pct": 2.9
-    },
-    {
-      "domain": "hexacta.com",
-      "name": "Hexacta",
-      "source": "seed",
-      "url": "https://hexacta.com",
-      "title": "",
-      "snippet": "",
-      "score": 1,
-      "note": "",
-      "metrics": {
-        "pagespeed": {
-          "performance": 67,
-          "seo": 87,
-          "accessibility": 88,
-          "best_practices": 85
-        },
-        "pagerank": {
-          "page_rank": 4.7,
-          "rank": null
-        },
-        "age_years": 26,
-        "blog": {
-          "posts_last_90d": 9,
-          "feed_url": "https://hexacta.com/feed/",
-          "recent_titles": [
-            "Caso de éxito: digitalización en empresa LATAM",
-            "Tendencias en Modern Workplace para 2026",
-            "Implementación de Copilot Studio en clientes corporativos"
-          ]
-        },
-        "hn": {
-          "total": 2,
-          "hits": []
-        },
-        "reddit": {
-          "total": 1,
-          "hits": []
-        },
-        "gdelt": {
-          "total": 7,
-          "hits": []
-        },
-        "tech_stack": [
-          "WordPress",
-          "Cloudflare",
-          "Google Tag Manager",
-          "PHP",
-          "HubSpot",
-          "Hotjar"
-        ],
-        "github": {
-          "name": "Hexacta",
-          "public_repos": 31,
-          "total_stars": 156,
-          "total_forks": 41,
-          "followers": 18,
-          "recent_active_repos": 6,
-          "top_languages": [
-            [
-              "JavaScript",
-              12
-            ],
-            [
-              "TypeScript",
-              7
-            ],
-            [
-              "Java",
-              5
-            ]
-          ],
-          "created_at": "2013-09-08T00:00:00Z"
-        },
-        "wayback_first": null,
-        "meta_ads": {
-          "total": 1,
-          "ads": [],
-          "scope": "all_ads",
-          "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Hexacta&search_type=keyword_unordered&media_type=all"
-        },
-        "google_ads": {
-          "ads_visible": 3,
-          "verified_advertiser": true,
-          "deep_link": "https://adstransparency.google.com/?region=AR&domain=hexacta.com"
-        }
-      },
-      "voice_total": 10,
-      "voice_share_pct": 2.0
+      "voice_total": 1145,
+      "voice_share_pct": 1.3
     },
     {
       "domain": "lagash.com",
       "name": "Lagash",
+      "name_override": "Lagash",
+      "note": "LatAm tech consultancy con práctica Microsoft",
       "source": "seed",
-      "url": "https://lagash.com",
+      "score": 1,
       "title": "",
       "snippet": "",
-      "score": 1,
-      "note": "",
+      "url": "https://lagash.com",
       "metrics": {
-        "pagespeed": {
-          "performance": 72,
-          "seo": 92,
-          "accessibility": 90,
-          "best_practices": 89
-        },
-        "pagerank": {
-          "page_rank": 5.3,
-          "rank": null
-        },
-        "age_years": 21,
-        "blog": {
-          "posts_last_90d": 21,
-          "feed_url": "https://lagash.com/feed/",
-          "recent_titles": [
-            "Caso de éxito: digitalización en empresa LATAM",
-            "Tendencias en Modern Workplace para 2026",
-            "Implementación de Copilot Studio en clientes corporativos"
-          ]
-        },
-        "hn": {
-          "total": 3,
-          "hits": []
-        },
         "reddit": {
-          "total": 1,
+          "total": 0,
           "hits": []
         },
-        "gdelt": {
-          "total": 14,
-          "hits": []
-        },
-        "tech_stack": [
-          "Next.js",
-          "React",
-          "Cloudflare",
-          "Google Tag Manager",
-          "HubSpot",
-          "Meta Pixel"
-        ],
-        "github": {
-          "name": "Lagash",
-          "public_repos": 8,
-          "total_stars": 42,
-          "total_forks": 11,
-          "followers": 9,
-          "recent_active_repos": 1,
-          "top_languages": [
-            [
-              "TypeScript",
-              4
-            ]
-          ],
-          "created_at": "2017-04-11T00:00:00Z"
-        },
-        "wayback_first": null,
         "meta_ads": {
-          "total": 4,
+          "total": 0,
           "ads": [],
-          "scope": "all_ads",
+          "scope": null,
           "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Lagash&search_type=keyword_unordered&media_type=all"
         },
+        "github": null,
+        "tech_stack": [],
+        "hn": {
+          "total": 3,
+          "hits": [
+            {
+              "title": "My Impressions of the MacBook Pro M4",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2025-11-01T04:51:59Z"
+            },
+            {
+              "title": "Show HN: I'm building an open source discussion forum for latest ArXiv papers",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2025-10-21T18:05:06Z"
+            },
+            {
+              "title": "The story behind Caesar salad",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2025-07-08T18:11:46Z"
+            }
+          ]
+        },
+        "pagespeed": {},
         "google_ads": {
-          "ads_visible": 6,
-          "verified_advertiser": true,
+          "ads_visible": null,
+          "verified_advertiser": null,
           "deep_link": "https://adstransparency.google.com/?region=AR&domain=lagash.com"
+        },
+        "feed_url": null,
+        "gdelt": {
+          "total": 0,
+          "hits": []
+        },
+        "wayback_first": null,
+        "blog": {},
+        "age_years": null,
+        "pagerank": {
+          "page_rank": 2.25,
+          "rank": 30295948
         }
       },
-      "voice_total": 18,
-      "voice_share_pct": 3.5
+      "voice_total": 3,
+      "voice_share_pct": 0.0
     },
     {
       "domain": "algeiba.com",
       "name": "Algeiba",
+      "name_override": "Algeiba",
+      "note": "Microsoft Partner argentino, foco corporativo",
       "source": "seed",
-      "url": "https://algeiba.com",
+      "score": 1,
       "title": "",
       "snippet": "",
-      "score": 1,
-      "note": "",
+      "url": "https://algeiba.com",
       "metrics": {
-        "pagespeed": {
-          "performance": 48,
-          "seo": 84,
-          "accessibility": 78,
-          "best_practices": 76
-        },
-        "pagerank": {
-          "page_rank": 4.1,
-          "rank": null
-        },
-        "age_years": 19,
-        "blog": {
-          "posts_last_90d": 5,
-          "feed_url": "https://algeiba.com/feed/",
-          "recent_titles": [
-            "Caso de éxito: digitalización en empresa LATAM",
-            "Tendencias en Modern Workplace para 2026",
-            "Implementación de Copilot Studio en clientes corporativos"
-          ]
-        },
-        "hn": {
-          "total": 0,
-          "hits": []
-        },
         "reddit": {
           "total": 0,
           "hits": []
         },
-        "gdelt": {
-          "total": 3,
-          "hits": []
-        },
-        "tech_stack": [
-          "WordPress",
-          "Elementor",
-          "Cloudflare",
-          "PHP"
-        ],
-        "github": null,
-        "wayback_first": null,
         "meta_ads": {
           "total": 0,
           "ads": [],
           "scope": null,
           "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Algeiba&search_type=keyword_unordered&media_type=all"
         },
+        "pagespeed": {},
+        "hn": {
+          "total": 51,
+          "hits": [
+            {
+              "title": "Interaction Models",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-12T17:40:55Z"
+            },
+            {
+              "title": "Reverse Engineering Mersenne Twister with Linear Algebra",
+              "url": "https://www.johndcook.com/blog/2026/05/10/reverse-mersenne-twister/",
+              "points": 4,
+              "comments": 0,
+              "date": "2026-05-12T15:57:46Z"
+            },
+            {
+              "title": "Learning Software Architecture",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-12T11:42:21Z"
+            },
+            {
+              "title": "Learning Software Architecture",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-12T11:27:11Z"
+            },
+            {
+              "title": "Learning Software Architecture",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-12T10:41:17Z"
+            },
+            {
+              "title": "Think Linear Algebra (2023)",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-12T09:58:14Z"
+            },
+            {
+              "title": "A lost ancient script reveals how writing as we know it began",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-12T08:14:58Z"
+            },
+            {
+              "title": "Fastmail Down?",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-12T07:13:54Z"
+            }
+          ]
+        },
         "google_ads": {
           "ads_visible": null,
           "verified_advertiser": null,
           "deep_link": "https://adstransparency.google.com/?region=AR&domain=algeiba.com"
+        },
+        "github": {
+          "name": "Algeiba",
+          "public_repos": 2,
+          "followers": 0,
+          "total_stars": 0,
+          "total_forks": 0,
+          "recent_active_repos": 0,
+          "top_languages": [],
+          "created_at": "2016-07-22T13:05:11Z"
+        },
+        "tech_stack": [
+          "Elementor",
+          "React"
+        ],
+        "feed_url": null,
+        "gdelt": {
+          "total": 0,
+          "hits": []
+        },
+        "wayback_first": null,
+        "blog": {},
+        "age_years": null,
+        "pagerank": {
+          "page_rank": 1.58,
+          "rank": 80426027
         }
       },
-      "voice_total": 3,
-      "voice_share_pct": 0.6
+      "voice_total": 51,
+      "voice_share_pct": 0.1
     },
     {
       "domain": "globant.com",
       "name": "Globant",
+      "name_override": "Globant",
+      "note": "Player grande de referencia (no competidor directo pero marca el techo)",
       "source": "seed",
-      "url": "https://globant.com",
+      "score": 1,
       "title": "",
       "snippet": "",
-      "score": 1,
-      "note": "",
+      "url": "https://globant.com",
       "metrics": {
-        "pagespeed": {
-          "performance": 81,
-          "seo": 95,
-          "accessibility": 93,
-          "best_practices": 94
+        "reddit": {
+          "total": 0,
+          "hits": []
         },
-        "pagerank": {
-          "page_rank": 7.1,
-          "rank": null
+        "meta_ads": {
+          "total": 0,
+          "ads": [],
+          "scope": null,
+          "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Globant&search_type=keyword_unordered&media_type=all"
         },
-        "age_years": 23,
-        "blog": {
-          "posts_last_90d": 47,
-          "feed_url": "https://stayrelevant.globant.com/en/feed/",
-          "recent_titles": [
-            "Caso de éxito: digitalización en empresa LATAM",
-            "Tendencias en Modern Workplace para 2026",
-            "Implementación de Copilot Studio en clientes corporativos"
+        "pagespeed": {},
+        "hn": {
+          "total": 26558,
+          "hits": [
+            {
+              "title": "Meta employees protest against mouse tracking tech at US offices",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-12T22:16:53Z"
+            },
+            {
+              "title": "Show HN: Agentic interface for mainframes and COBOL",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-12T21:53:42Z"
+            },
+            {
+              "title": "Googlebook",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-12T21:50:58Z"
+            },
+            {
+              "title": "The Rise of the Bullshittery",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-12T20:58:42Z"
+            },
+            {
+              "title": "Unauthorized Anthropic stock sales and investment scams",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-12T20:21:40Z"
+            },
+            {
+              "title": "Ask HN: How to separate agent harness from code repo?",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-12T20:04:33Z"
+            },
+            {
+              "title": "Googlebook",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-12T19:56:13Z"
+            },
+            {
+              "title": "The Rise of the Bullshittery",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-12T19:48:52Z"
+            }
           ]
         },
-        "hn": {
-          "total": 68,
-          "hits": []
-        },
-        "reddit": {
-          "total": 42,
-          "hits": []
-        },
-        "gdelt": {
-          "total": 312,
-          "hits": []
+        "google_ads": {
+          "ads_visible": null,
+          "verified_advertiser": null,
+          "deep_link": "https://adstransparency.google.com/?region=AR&domain=globant.com"
         },
         "tech_stack": [
-          "Next.js",
-          "React",
-          "Cloudflare",
-          "Google Tag Manager",
-          "HubSpot",
-          "Hotjar",
-          "LinkedIn Insight",
-          "Meta Pixel"
+          "Drupal",
+          "Google Tag Manager"
         ],
         "github": {
           "name": "Globant",
-          "public_repos": 89,
-          "total_stars": 1840,
-          "total_forks": 412,
-          "followers": 84,
-          "recent_active_repos": 22,
+          "public_repos": 1,
+          "followers": 62,
+          "total_stars": 0,
+          "total_forks": 0,
+          "recent_active_repos": 0,
           "top_languages": [
             [
-              "TypeScript",
-              32
-            ],
-            [
-              "JavaScript",
-              18
-            ],
-            [
               "Python",
-              12
-            ],
-            [
-              "Java",
-              9
+              1
             ]
           ],
-          "created_at": "2011-02-14T00:00:00Z"
+          "created_at": "2010-09-15T21:16:05Z"
+        },
+        "feed_url": "https://globant.com/rss.xml",
+        "gdelt": {
+          "total": 0,
+          "hits": []
         },
         "wayback_first": null,
-        "meta_ads": {
-          "total": 24,
-          "ads": [],
-          "scope": "all_ads",
-          "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Globant&search_type=keyword_unordered&media_type=all"
+        "blog": {
+          "total_entries_in_feed": 10,
+          "posts_last_90d": 7,
+          "recent_titles": [
+            "This is Globant 2017",
+            "Introduction to Agile Pods Journey",
+            "Sentinel Report \"Cross Industry Strategies\" Q2 2016",
+            "Globant Named Adobe Customer Experience Orchestration Partner of the Year for LATAM",
+            "Globant Wins 2026 Google Cloud Country Partner of the Year Award For Argentina",
+            "Globant ranks among the Leaders in the IDC MarketScape for Worldwide Experience Build Services 2025.",
+            "Globant is positioned as a Leader in the IDC MarketScape for Worldwide Experience Design Services 2025.",
+            "Globant has received the SAP Partner Excellence Award 2025 for Delivery Quality."
+          ],
+          "feed_url": "https://globant.com/rss.xml"
         },
-        "google_ads": {
-          "ads_visible": 67,
-          "verified_advertiser": true,
-          "deep_link": "https://adstransparency.google.com/?region=AR&domain=globant.com"
+        "age_years": null,
+        "pagerank": {
+          "page_rank": 3.44,
+          "rank": 2145774
         }
       },
-      "voice_total": 422,
-      "voice_share_pct": 82.6
+      "voice_total": 26558,
+      "voice_share_pct": 30.0
     },
     {
       "domain": "intersystec.com",
       "name": "Intersys",
+      "name_override": "Intersys",
+      "note": "Microsoft Partner argentino",
       "source": "seed",
-      "url": "https://intersystec.com",
+      "score": 1,
       "title": "",
       "snippet": "",
-      "score": 1,
-      "note": "",
+      "url": "https://intersystec.com",
       "metrics": {
-        "pagespeed": {
-          "performance": 51,
-          "seo": 82,
-          "accessibility": 79,
-          "best_practices": 75
-        },
-        "pagerank": {
-          "page_rank": 3.8,
-          "rank": null
-        },
-        "age_years": 12,
-        "blog": {
-          "posts_last_90d": 4,
-          "feed_url": null,
-          "recent_titles": [
-            "Caso de éxito: digitalización en empresa LATAM",
-            "Tendencias en Modern Workplace para 2026",
-            "Implementación de Copilot Studio en clientes corporativos"
-          ]
-        },
-        "hn": {
+        "feed_url": null,
+        "meta_ads": {
           "total": 0,
-          "hits": []
+          "ads": [],
+          "scope": null,
+          "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Intersys&search_type=keyword_unordered&media_type=all"
         },
+        "tech_stack": [],
         "reddit": {
           "total": 0,
           "hits": []
         },
-        "gdelt": {
-          "total": 2,
-          "hits": []
-        },
-        "tech_stack": [
-          "WordPress",
-          "Elementor",
-          "PHP",
-          "Google Tag Manager"
-        ],
         "github": null,
-        "wayback_first": null,
-        "meta_ads": {
-          "total": 1,
-          "ads": [],
-          "scope": "all_ads",
-          "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Intersys&search_type=keyword_unordered&media_type=all"
+        "pagespeed": {},
+        "hn": {
+          "total": 1243,
+          "hits": [
+            {
+              "title": "EU to crack down on TikTok, Instagram's 'addictive design' targeting kids",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-12T22:20:08Z"
+            },
+            {
+              "title": "Googlebook",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-12T22:13:49Z"
+            },
+            {
+              "title": "EU to crack down on TikTok, Instagram's 'addictive design' targeting kids",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-12T22:10:53Z"
+            },
+            {
+              "title": "Googlebook",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-12T22:08:31Z"
+            },
+            {
+              "title": "Canada’s Bill C-22 Is a Repackaged Version of Last Year’s Surveillance Nightmare",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-12T22:07:27Z"
+            },
+            {
+              "title": "Bambu Lab is abusing the open source social contract",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-12T22:07:25Z"
+            },
+            {
+              "title": "Show HN: Statewright – Visual state machines that make AI agents reliable",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-12T21:59:48Z"
+            },
+            {
+              "title": "Ask HN: What are you working on? (May 2026)",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-12T21:56:48Z"
+            }
+          ]
         },
         "google_ads": {
           "ads_visible": null,
           "verified_advertiser": null,
           "deep_link": "https://adstransparency.google.com/?region=AR&domain=intersystec.com"
+        },
+        "gdelt": {
+          "total": 0,
+          "hits": []
+        },
+        "wayback_first": null,
+        "blog": {},
+        "age_years": null,
+        "pagerank": {
+          "page_rank": 0.0,
+          "rank": null
         }
       },
-      "voice_total": 2,
-      "voice_share_pct": 0.4
+      "voice_total": 1243,
+      "voice_share_pct": 1.4
     }
   ],
   "insights": [
     {
-      "title": "Performance Lighthouse en el cuartil inferior",
-      "body": "Tu Performance (42) es el más bajo del set. Lagash (72), Globant (81) y Hexacta (67) corren con stacks modernos (Next.js/React). El WordPress + WP Rocket + Elementor es un punto de fricción evidente para SEO técnico. Auditoría de Core Web Vitals es priorizable.",
-      "severity": "warning"
-    },
-    {
-      "title": "Globant marca el techo de share of voice, pero el resto está abierto",
-      "body": "Excluyendo a Globant (caso aparte, 422 menciones en 12m), el resto del cluster argentino vive entre 8 y 25 menciones. Es un terreno donde con 1-2 piezas de contenido bien posicionadas (por ej. un white paper sobre Copilot Studio o un caso de adopción en cliente grande) podrías saltar varias posiciones.",
-      "severity": "info"
-    },
-    {
-      "title": "Baufest y Globant están invirtiendo en Meta Ads",
-      "body": "Baufest tiene 8 anuncios activos en Meta y 14 en Google. Globant tiene 24 y 67. El resto del cluster casi no aparece en publicidad pagada — incluyendo Raona. Abrí el deep-link en la vista de Anuncios para ver qué mensajes están corriendo: te da pistas de qué audiencias persiguen.",
-      "severity": "info"
-    },
-    {
-      "title": "Velocidad de contenido: Globant te triplica, Practia te alcanza",
-      "body": "Globant publica ~47 posts cada 90 días, Practia ~18, vos ~14. En 12 meses son 188 vs 56 vs 188 piezas indexables. Para no quedar atrás del cluster medio (Practia, Lagash) hace falta acercarse a 25-30 posts trimestrales.",
-      "severity": "warning"
-    },
-    {
-      "title": "Hexacta y Globant tienen presencia visible en GitHub",
-      "body": "Hexacta (31 repos, 156★) y Globant (89 repos, 1.840★) muestran código abierto. Para venta tech-to-tech, especialmente con CTOs argentinos, un repo público con un par de acceleradores de Microsoft 365 o Power Platform abriría conversaciones que hoy no se abren.",
+      "title": "Share of voice bajo (posición #5)",
+      "body": "Los tres líderes —Practia, Globant, Intersys— concentran la conversación en HN + Reddit + prensa global.",
       "severity": "info"
     }
   ]
