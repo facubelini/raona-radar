@@ -57,6 +57,7 @@ jobs:
             echo "No hay cambios para commitear."
           else
             git commit -m "chore: weekly competitive data $(date -u +'%Y-%m-%d')"
+            git pull --rebase origin master
             git push
           fi
 
