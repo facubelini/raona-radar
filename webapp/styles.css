@@ -669,6 +669,8 @@ button { font-family: inherit; cursor: pointer; border: none; background: none; 
 /* ===========================================================
    Modal de detalle
    =========================================================== */
+[hidden] { display: none !important; }
+
 .modal-bg {
   position: fixed;
   inset: 0;
