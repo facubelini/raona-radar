@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T22:55:18.461001Z",
+  "generated_at": "2026-05-12T22:58:31.120795Z",
   "scope_label": "Tech consulting · Argentina",
   "country": "AR",
   "own": {
@@ -11,19 +11,24 @@
     "url": "https://raona.com",
     "name": "Raona",
     "metrics": {
-      "pagespeed": {},
+      "reddit": {
+        "total": 0,
+        "hits": []
+      },
       "meta_ads": {
         "total": 0,
         "ads": [],
         "scope": null,
         "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Raona&search_type=keyword_unordered&media_type=all"
       },
-      "reddit": {
-        "total": 0,
-        "hits": []
+      "pagespeed": {},
+      "google_ads": {
+        "ads_visible": null,
+        "verified_advertiser": null,
+        "deep_link": "https://adstransparency.google.com/?region=AR&domain=raona.com"
       },
       "hn": {
-        "total": 863,
+        "total": 853,
         "hits": [
           {
             "title": "US budget watchdog estimates Golden Dome will cost $1.2T",
@@ -82,11 +87,6 @@
             "date": "2026-05-07T15:31:23Z"
           }
         ]
-      },
-      "google_ads": {
-        "ads_visible": null,
-        "verified_advertiser": null,
-        "deep_link": "https://adstransparency.google.com/?region=AR&domain=raona.com"
       },
       "github": {
         "name": "Raona Enginyers, S.L.",
@@ -147,8 +147,8 @@
         "rank": 11182152
       }
     },
-    "voice_total": 863,
-    "voice_share_pct": 0.4
+    "voice_total": 853,
+    "voice_share_pct": 1.4
   },
   "competitors": [
     {
@@ -162,47 +162,19 @@
       "snippet": "",
       "url": "https://baufest.com",
       "metrics": {
-        "pagespeed": {},
+        "reddit": {
+          "total": 0,
+          "hits": []
+        },
         "meta_ads": {
           "total": 0,
           "ads": [],
           "scope": null,
           "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Baufest&search_type=keyword_unordered&media_type=all"
         },
-        "reddit": {
-          "total": 0,
-          "hits": []
-        },
-        "google_ads": {
-          "ads_visible": null,
-          "verified_advertiser": null,
-          "deep_link": "https://adstransparency.google.com/?region=AR&domain=baufest.com"
-        },
-        "github": {
-          "name": "Baufest",
-          "public_repos": 4,
-          "followers": 41,
-          "total_stars": 0,
-          "total_forks": 1,
-          "recent_active_repos": 3,
-          "top_languages": [
-            [
-              "Python",
-              1
-            ],
-            [
-              "Shell",
-              1
-            ],
-            [
-              "TypeScript",
-              1
-            ]
-          ],
-          "created_at": "2023-08-23T15:44:19Z"
-        },
+        "pagespeed": {},
         "hn": {
-          "total": 84,
+          "total": 14,
           "hits": [
             {
               "title": "The Rise of the Bullshittery",
@@ -262,6 +234,34 @@
             }
           ]
         },
+        "google_ads": {
+          "ads_visible": null,
+          "verified_advertiser": null,
+          "deep_link": "https://adstransparency.google.com/?region=AR&domain=baufest.com"
+        },
+        "github": {
+          "name": "Baufest",
+          "public_repos": 4,
+          "followers": 41,
+          "total_stars": 0,
+          "total_forks": 1,
+          "recent_active_repos": 3,
+          "top_languages": [
+            [
+              "Python",
+              1
+            ],
+            [
+              "Shell",
+              1
+            ],
+            [
+              "TypeScript",
+              1
+            ]
+          ],
+          "created_at": "2023-08-23T15:44:19Z"
+        },
         "feed_url": "https://baufest.com/feed/",
         "tech_stack": [
           "Elementor",
@@ -271,11 +271,11 @@
           "PHP",
           "WordPress"
         ],
+        "wayback_first": null,
         "gdelt": {
           "total": 0,
           "hits": []
         },
-        "wayback_first": null,
         "blog": {
           "total_entries_in_feed": 10,
           "posts_last_90d": 9,
@@ -297,7 +297,7 @@
           "rank": 1788236
         }
       },
-      "voice_total": 84,
+      "voice_total": 14,
       "voice_share_pct": 0.0
     },
     {
@@ -311,29 +311,24 @@
       "snippet": "",
       "url": "https://snoopconsulting.com",
       "metrics": {
-        "pagespeed": {},
+        "reddit": {
+          "total": 0,
+          "hits": []
+        },
         "meta_ads": {
           "total": 0,
           "ads": [],
           "scope": null,
           "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Snoop+Consulting&search_type=keyword_unordered&media_type=all"
         },
-        "github": null,
-        "reddit": {
-          "total": 0,
-          "hits": []
-        },
+        "pagespeed": {},
         "tech_stack": [
           "Google Tag Manager",
           "Nginx",
           "WordPress"
         ],
         "feed_url": "https://snoopconsulting.com/feed/",
-        "google_ads": {
-          "ads_visible": null,
-          "verified_advertiser": null,
-          "deep_link": "https://adstransparency.google.com/?region=AR&domain=snoopconsulting.com"
-        },
+        "github": null,
         "hn": {
           "total": 12,
           "hits": [
@@ -395,11 +390,16 @@
             }
           ]
         },
+        "google_ads": {
+          "ads_visible": null,
+          "verified_advertiser": null,
+          "deep_link": "https://adstransparency.google.com/?region=AR&domain=snoopconsulting.com"
+        },
         "gdelt": {
           "total": 0,
           "hits": []
         },
-        "wayback_first": "20040226155141",
+        "wayback_first": null,
         "blog": {
           "total_entries_in_feed": 10,
           "posts_last_90d": 3,
@@ -415,7 +415,7 @@
           ],
           "feed_url": "https://snoopconsulting.com/feed/"
         },
-        "age_years": 22.4,
+        "age_years": null,
         "pagerank": {
           "page_rank": 1.4,
           "rank": 94482272
@@ -435,27 +435,17 @@
       "snippet": "",
       "url": "https://practia.global",
       "metrics": {
-        "pagespeed": {},
+        "reddit": {
+          "total": 0,
+          "hits": []
+        },
         "meta_ads": {
           "total": 0,
           "ads": [],
           "scope": null,
           "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Practia&search_type=keyword_unordered&media_type=all"
         },
-        "reddit": {
-          "total": 0,
-          "hits": []
-        },
-        "github": {
-          "name": "Practia",
-          "public_repos": 0,
-          "followers": 0,
-          "total_stars": 0,
-          "total_forks": 0,
-          "recent_active_repos": 0,
-          "top_languages": [],
-          "created_at": "2018-10-31T12:21:42Z"
-        },
+        "pagespeed": {},
         "hn": {
           "total": 58545,
           "hits": [
@@ -522,16 +512,26 @@
           "verified_advertiser": null,
           "deep_link": "https://adstransparency.google.com/?region=AR&domain=practia.global"
         },
-        "feed_url": "https://practia.global/feed/",
+        "github": {
+          "name": "Practia",
+          "public_repos": 0,
+          "followers": 0,
+          "total_stars": 0,
+          "total_forks": 0,
+          "recent_active_repos": 0,
+          "top_languages": [],
+          "created_at": "2018-10-31T12:21:42Z"
+        },
         "tech_stack": [
           "Elementor",
           "WordPress"
         ],
-        "wayback_first": null,
+        "feed_url": "https://practia.global/feed/",
         "gdelt": {
           "total": 0,
           "hits": []
         },
+        "wayback_first": null,
         "blog": {
           "total_entries_in_feed": 10,
           "posts_last_90d": 7,
@@ -554,7 +554,7 @@
         }
       },
       "voice_total": 58545,
-      "voice_share_pct": 26.4
+      "voice_share_pct": 94.8
     },
     {
       "domain": "hexacta.com",
@@ -567,7 +567,10 @@
       "snippet": "",
       "url": "https://hexacta.com",
       "metrics": {
-        "tech_stack": [],
+        "reddit": {
+          "total": 0,
+          "hits": []
+        },
         "meta_ads": {
           "total": 0,
           "ads": [],
@@ -575,18 +578,10 @@
           "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Hexacta&search_type=keyword_unordered&media_type=all"
         },
         "feed_url": null,
+        "tech_stack": [],
         "pagespeed": {},
-        "reddit": {
-          "total": 0,
-          "hits": []
-        },
-        "google_ads": {
-          "ads_visible": null,
-          "verified_advertiser": null,
-          "deep_link": "https://adstransparency.google.com/?region=AR&domain=hexacta.com"
-        },
         "hn": {
-          "total": 1153,
+          "total": 786,
           "hits": [
             {
               "title": "Googlebook",
@@ -646,6 +641,11 @@
             }
           ]
         },
+        "google_ads": {
+          "ads_visible": null,
+          "verified_advertiser": null,
+          "deep_link": "https://adstransparency.google.com/?region=AR&domain=hexacta.com"
+        },
         "github": {
           "name": "Hexacta",
           "public_repos": 68,
@@ -689,8 +689,8 @@
           "rank": 70557605
         }
       },
-      "voice_total": 1153,
-      "voice_share_pct": 0.5
+      "voice_total": 786,
+      "voice_share_pct": 1.3
     },
     {
       "domain": "lagash.com",
@@ -703,19 +703,19 @@
       "snippet": "",
       "url": "https://lagash.com",
       "metrics": {
-        "pagespeed": {},
+        "reddit": {
+          "total": 0,
+          "hits": []
+        },
         "meta_ads": {
           "total": 0,
           "ads": [],
           "scope": null,
           "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Lagash&search_type=keyword_unordered&media_type=all"
         },
-        "github": null,
-        "reddit": {
-          "total": 0,
-          "hits": []
-        },
         "tech_stack": [],
+        "github": null,
+        "pagespeed": {},
         "hn": {
           "total": 3,
           "hits": [
@@ -774,22 +774,17 @@
       "snippet": "",
       "url": "https://algeiba.com",
       "metrics": {
-        "pagespeed": {},
+        "reddit": {
+          "total": 0,
+          "hits": []
+        },
         "meta_ads": {
           "total": 0,
           "ads": [],
           "scope": null,
           "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Algeiba&search_type=keyword_unordered&media_type=all"
         },
-        "reddit": {
-          "total": 0,
-          "hits": []
-        },
-        "google_ads": {
-          "ads_visible": null,
-          "verified_advertiser": null,
-          "deep_link": "https://adstransparency.google.com/?region=AR&domain=algeiba.com"
-        },
+        "pagespeed": {},
         "hn": {
           "total": 52,
           "hits": [
@@ -851,6 +846,11 @@
             }
           ]
         },
+        "google_ads": {
+          "ads_visible": null,
+          "verified_advertiser": null,
+          "deep_link": "https://adstransparency.google.com/?region=AR&domain=algeiba.com"
+        },
         "github": {
           "name": "Algeiba",
           "public_repos": 2,
@@ -879,7 +879,7 @@
         }
       },
       "voice_total": 52,
-      "voice_share_pct": 0.0
+      "voice_share_pct": 0.1
     },
     {
       "domain": "globant.com",
@@ -892,19 +892,19 @@
       "snippet": "",
       "url": "https://globant.com",
       "metrics": {
-        "pagespeed": {},
+        "reddit": {
+          "total": 0,
+          "hits": []
+        },
         "meta_ads": {
           "total": 0,
           "ads": [],
           "scope": null,
           "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Globant&search_type=keyword_unordered&media_type=all"
         },
-        "reddit": {
-          "total": 0,
-          "hits": []
-        },
+        "pagespeed": {},
         "hn": {
-          "total": 26560,
+          "total": 261,
           "hits": [
             {
               "title": "We accidentally recreated old Facebook",
@@ -964,6 +964,10 @@
             }
           ]
         },
+        "tech_stack": [
+          "Drupal",
+          "Google Tag Manager"
+        ],
         "google_ads": {
           "ads_visible": null,
           "verified_advertiser": null,
@@ -984,12 +988,8 @@
           ],
           "created_at": "2010-09-15T21:16:05Z"
         },
-        "tech_stack": [
-          "Drupal",
-          "Google Tag Manager"
-        ],
         "feed_url": "https://globant.com/rss.xml",
-        "wayback_first": "20010720182509",
+        "wayback_first": null,
         "gdelt": {
           "total": 0,
           "hits": []
@@ -1009,14 +1009,14 @@
           ],
           "feed_url": "https://globant.com/rss.xml"
         },
-        "age_years": 25.4,
+        "age_years": null,
         "pagerank": {
           "page_rank": 3.44,
           "rank": 2145774
         }
       },
-      "voice_total": 26560,
-      "voice_share_pct": 12.0
+      "voice_total": 261,
+      "voice_share_pct": 0.4
     },
     {
       "domain": "intersystec.com",
@@ -1029,27 +1029,22 @@
       "snippet": "",
       "url": "https://intersystec.com",
       "metrics": {
-        "pagespeed": {},
+        "feed_url": null,
         "meta_ads": {
           "total": 0,
           "ads": [],
           "scope": null,
           "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Intersys&search_type=keyword_unordered&media_type=all"
         },
-        "feed_url": null,
         "tech_stack": [],
         "reddit": {
           "total": 0,
           "hits": []
         },
+        "pagespeed": {},
         "github": null,
-        "google_ads": {
-          "ads_visible": null,
-          "verified_advertiser": null,
-          "deep_link": "https://adstransparency.google.com/?region=AR&domain=intersystec.com"
-        },
         "hn": {
-          "total": 134148,
+          "total": 1249,
           "hits": [
             {
               "title": "We accidentally recreated old Facebook",
@@ -1109,11 +1104,16 @@
             }
           ]
         },
-        "wayback_first": null,
+        "google_ads": {
+          "ads_visible": null,
+          "verified_advertiser": null,
+          "deep_link": "https://adstransparency.google.com/?region=AR&domain=intersystec.com"
+        },
         "gdelt": {
           "total": 0,
           "hits": []
         },
+        "wayback_first": null,
         "blog": {},
         "age_years": null,
         "pagerank": {
@@ -1121,15 +1121,9 @@
           "rank": null
         }
       },
-      "voice_total": 134148,
-      "voice_share_pct": 60.6
+      "voice_total": 1249,
+      "voice_share_pct": 2.0
     }
   ],
-  "insights": [
-    {
-      "title": "Share of voice bajo (posición #5)",
-      "body": "Los tres líderes —Intersys, Practia, Globant— concentran la conversación en HN + Reddit + prensa global.",
-      "severity": "info"
-    }
-  ]
+  "insights": []
 }
