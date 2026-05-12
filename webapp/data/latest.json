@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T22:26:34.083713Z",
+  "generated_at": "2026-05-12T22:31:56.985892Z",
   "scope_label": "Tech consulting · Argentina",
   "country": "AR",
   "own": {
@@ -11,17 +11,17 @@
     "url": "https://raona.com",
     "name": "Raona",
     "metrics": {
-      "reddit": {
-        "total": 0,
-        "hits": []
-      },
+      "pagespeed": {},
       "meta_ads": {
         "total": 0,
         "ads": [],
         "scope": null,
         "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Raona&search_type=keyword_unordered&media_type=all"
       },
-      "pagespeed": {},
+      "reddit": {
+        "total": 0,
+        "hits": []
+      },
       "hn": {
         "total": 863,
         "hits": [
@@ -121,11 +121,11 @@
         "WP Rocket",
         "WordPress"
       ],
+      "wayback_first": null,
       "gdelt": {
         "total": 0,
         "hits": []
       },
-      "wayback_first": null,
       "blog": {
         "total_entries_in_feed": 10,
         "posts_last_90d": 10,
@@ -148,7 +148,7 @@
       }
     },
     "voice_total": 863,
-    "voice_share_pct": 1.0
+    "voice_share_pct": 1.1
   },
   "competitors": [
     {
@@ -174,7 +174,7 @@
         },
         "pagespeed": {},
         "hn": {
-          "total": 175,
+          "total": 229,
           "hits": [
             {
               "title": "The Rise of the Bullshittery",
@@ -234,11 +234,6 @@
             }
           ]
         },
-        "google_ads": {
-          "ads_visible": null,
-          "verified_advertiser": null,
-          "deep_link": "https://adstransparency.google.com/?region=AR&domain=baufest.com"
-        },
         "github": {
           "name": "Baufest",
           "public_repos": 4,
@@ -262,7 +257,15 @@
           ],
           "created_at": "2023-08-23T15:44:19Z"
         },
-        "feed_url": "https://baufest.com/feed/",
+        "google_ads": {
+          "ads_visible": null,
+          "verified_advertiser": null,
+          "deep_link": "https://adstransparency.google.com/?region=AR&domain=baufest.com"
+        },
+        "gdelt": {
+          "total": 0,
+          "hits": []
+        },
         "tech_stack": [
           "Elementor",
           "LinkedIn Insight",
@@ -271,10 +274,7 @@
           "PHP",
           "WordPress"
         ],
-        "gdelt": {
-          "total": 0,
-          "hits": []
-        },
+        "feed_url": "https://baufest.com/feed/",
         "wayback_first": null,
         "blog": {
           "total_entries_in_feed": 10,
@@ -297,8 +297,8 @@
           "rank": 1788236
         }
       },
-      "voice_total": 175,
-      "voice_share_pct": 0.2
+      "voice_total": 229,
+      "voice_share_pct": 0.3
     },
     {
       "domain": "snoopconsulting.com",
@@ -311,24 +311,24 @@
       "snippet": "",
       "url": "https://snoopconsulting.com",
       "metrics": {
-        "reddit": {
-          "total": 0,
-          "hits": []
-        },
+        "pagespeed": {},
         "meta_ads": {
           "total": 0,
           "ads": [],
           "scope": null,
           "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Snoop+Consulting&search_type=keyword_unordered&media_type=all"
         },
-        "pagespeed": {},
-        "github": null,
+        "reddit": {
+          "total": 0,
+          "hits": []
+        },
         "feed_url": "https://snoopconsulting.com/feed/",
         "tech_stack": [
           "Google Tag Manager",
           "Nginx",
           "WordPress"
         ],
+        "github": null,
         "hn": {
           "total": 4,
           "hits": [
@@ -407,19 +407,34 @@
       "snippet": "",
       "url": "https://practia.global",
       "metrics": {
-        "reddit": {
-          "total": 0,
-          "hits": []
-        },
+        "pagespeed": {},
         "meta_ads": {
           "total": 0,
           "ads": [],
           "scope": null,
           "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Practia&search_type=keyword_unordered&media_type=all"
         },
-        "pagespeed": {},
+        "reddit": {
+          "total": 0,
+          "hits": []
+        },
+        "google_ads": {
+          "ads_visible": null,
+          "verified_advertiser": null,
+          "deep_link": "https://adstransparency.google.com/?region=AR&domain=practia.global"
+        },
+        "github": {
+          "name": "Practia",
+          "public_repos": 0,
+          "followers": 0,
+          "total_stars": 0,
+          "total_forks": 0,
+          "recent_active_repos": 0,
+          "top_languages": [],
+          "created_at": "2018-10-31T12:21:42Z"
+        },
         "hn": {
-          "total": 58545,
+          "total": 58546,
           "hits": [
             {
               "title": "Is this why science advances one funeral at a time?",
@@ -479,31 +494,16 @@
             }
           ]
         },
-        "google_ads": {
-          "ads_visible": null,
-          "verified_advertiser": null,
-          "deep_link": "https://adstransparency.google.com/?region=AR&domain=practia.global"
-        },
-        "github": {
-          "name": "Practia",
-          "public_repos": 0,
-          "followers": 0,
-          "total_stars": 0,
-          "total_forks": 0,
-          "recent_active_repos": 0,
-          "top_languages": [],
-          "created_at": "2018-10-31T12:21:42Z"
-        },
-        "feed_url": "https://practia.global/feed/",
         "tech_stack": [
           "Elementor",
           "WordPress"
         ],
+        "feed_url": "https://practia.global/feed/",
         "gdelt": {
           "total": 0,
           "hits": []
         },
-        "wayback_first": "20161117063710",
+        "wayback_first": null,
         "blog": {
           "total_entries_in_feed": 10,
           "posts_last_90d": 7,
@@ -519,14 +519,14 @@
           ],
           "feed_url": "https://practia.global/feed/"
         },
-        "age_years": 10.4,
+        "age_years": null,
         "pagerank": {
           "page_rank": 2.27,
           "rank": 28930495
         }
       },
-      "voice_total": 58545,
-      "voice_share_pct": 66.1
+      "voice_total": 58546,
+      "voice_share_pct": 77.7
     },
     {
       "domain": "hexacta.com",
@@ -547,14 +547,21 @@
           "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Hexacta&search_type=keyword_unordered&media_type=all"
         },
         "feed_url": null,
+        "pagespeed": {},
         "reddit": {
           "total": 0,
           "hits": []
         },
-        "pagespeed": {},
         "hn": {
-          "total": 1145,
+          "total": 1146,
           "hits": [
+            {
+              "title": "Show HN: Statewright – Visual state machines that make AI agents reliable",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-12T22:29:13Z"
+            },
             {
               "title": "When life gives you lemons, write better error messages",
               "url": "",
@@ -603,13 +610,6 @@
               "points": null,
               "comments": null,
               "date": "2026-05-12T21:59:48Z"
-            },
-            {
-              "title": "The Future of Obsidian Plugins",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2026-05-12T21:56:35Z"
             }
           ]
         },
@@ -661,8 +661,8 @@
           "rank": 70557605
         }
       },
-      "voice_total": 1145,
-      "voice_share_pct": 1.3
+      "voice_total": 1146,
+      "voice_share_pct": 1.5
     },
     {
       "domain": "lagash.com",
@@ -675,18 +675,18 @@
       "snippet": "",
       "url": "https://lagash.com",
       "metrics": {
-        "reddit": {
-          "total": 0,
-          "hits": []
-        },
+        "pagespeed": {},
         "meta_ads": {
           "total": 0,
           "ads": [],
           "scope": null,
           "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Lagash&search_type=keyword_unordered&media_type=all"
         },
+        "reddit": {
+          "total": 0,
+          "hits": []
+        },
         "github": null,
-        "tech_stack": [],
         "hn": {
           "total": 3,
           "hits": [
@@ -713,7 +713,7 @@
             }
           ]
         },
-        "pagespeed": {},
+        "tech_stack": [],
         "google_ads": {
           "ads_visible": null,
           "verified_advertiser": null,
@@ -758,7 +758,7 @@
         },
         "pagespeed": {},
         "hn": {
-          "total": 51,
+          "total": 4176,
           "hits": [
             {
               "title": "Interaction Models",
@@ -823,6 +823,10 @@
           "verified_advertiser": null,
           "deep_link": "https://adstransparency.google.com/?region=AR&domain=algeiba.com"
         },
+        "tech_stack": [
+          "Elementor",
+          "React"
+        ],
         "github": {
           "name": "Algeiba",
           "public_repos": 2,
@@ -833,16 +837,12 @@
           "top_languages": [],
           "created_at": "2016-07-22T13:05:11Z"
         },
-        "tech_stack": [
-          "Elementor",
-          "React"
-        ],
         "feed_url": null,
+        "wayback_first": null,
         "gdelt": {
           "total": 0,
           "hits": []
         },
-        "wayback_first": null,
         "blog": {},
         "age_years": null,
         "pagerank": {
@@ -850,8 +850,8 @@
           "rank": 80426027
         }
       },
-      "voice_total": 51,
-      "voice_share_pct": 0.1
+      "voice_total": 4176,
+      "voice_share_pct": 5.5
     },
     {
       "domain": "globant.com",
@@ -875,8 +875,13 @@
           "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Globant&search_type=keyword_unordered&media_type=all"
         },
         "pagespeed": {},
+        "google_ads": {
+          "ads_visible": null,
+          "verified_advertiser": null,
+          "deep_link": "https://adstransparency.google.com/?region=AR&domain=globant.com"
+        },
         "hn": {
-          "total": 26558,
+          "total": 9120,
           "hits": [
             {
               "title": "Meta employees protest against mouse tracking tech at US offices",
@@ -936,11 +941,6 @@
             }
           ]
         },
-        "google_ads": {
-          "ads_visible": null,
-          "verified_advertiser": null,
-          "deep_link": "https://adstransparency.google.com/?region=AR&domain=globant.com"
-        },
         "tech_stack": [
           "Drupal",
           "Google Tag Manager"
@@ -987,8 +987,8 @@
           "rank": 2145774
         }
       },
-      "voice_total": 26558,
-      "voice_share_pct": 30.0
+      "voice_total": 9120,
+      "voice_share_pct": 12.1
     },
     {
       "domain": "intersystec.com",
@@ -1009,22 +1009,15 @@
           "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Intersys&search_type=keyword_unordered&media_type=all"
         },
         "tech_stack": [],
+        "pagespeed": {},
         "reddit": {
           "total": 0,
           "hits": []
         },
         "github": null,
-        "pagespeed": {},
         "hn": {
-          "total": 1243,
+          "total": 1242,
           "hits": [
-            {
-              "title": "EU to crack down on TikTok, Instagram's 'addictive design' targeting kids",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2026-05-12T22:20:08Z"
-            },
             {
               "title": "Googlebook",
               "url": "",
@@ -1073,6 +1066,13 @@
               "points": null,
               "comments": null,
               "date": "2026-05-12T21:56:48Z"
+            },
+            {
+              "title": "Meta's embrace of AI is making its employees miserable",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-12T21:56:09Z"
             }
           ]
         },
@@ -1093,14 +1093,14 @@
           "rank": null
         }
       },
-      "voice_total": 1243,
-      "voice_share_pct": 1.4
+      "voice_total": 1242,
+      "voice_share_pct": 1.6
     }
   ],
   "insights": [
     {
-      "title": "Share of voice bajo (posición #5)",
-      "body": "Los tres líderes —Practia, Globant, Intersys— concentran la conversación en HN + Reddit + prensa global.",
+      "title": "Share of voice bajo (posición #6)",
+      "body": "Los tres líderes —Practia, Globant, Algeiba— concentran la conversación en HN + Reddit + prensa global.",
       "severity": "info"
     }
   ]
