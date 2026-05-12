@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T22:38:21.549221Z",
+  "generated_at": "2026-05-12T22:45:35.526115Z",
   "scope_label": "Tech consulting · Argentina",
   "country": "AR",
   "own": {
@@ -11,17 +11,17 @@
     "url": "https://raona.com",
     "name": "Raona",
     "metrics": {
-      "reddit": {
-        "total": 0,
-        "hits": []
-      },
+      "pagespeed": {},
       "meta_ads": {
         "total": 0,
         "ads": [],
         "scope": null,
         "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Raona&search_type=keyword_unordered&media_type=all"
       },
-      "pagespeed": {},
+      "reddit": {
+        "total": 0,
+        "hits": []
+      },
       "google_ads": {
         "ads_visible": null,
         "verified_advertiser": null,
@@ -111,7 +111,6 @@
         ],
         "created_at": "2019-07-16T10:28:58Z"
       },
-      "feed_url": "https://raona.com/feed/",
       "tech_stack": [
         "Elementor",
         "Google Tag Manager",
@@ -121,6 +120,7 @@
         "WP Rocket",
         "WordPress"
       ],
+      "feed_url": "https://raona.com/feed/",
       "gdelt": {
         "total": 0,
         "hits": []
@@ -148,7 +148,7 @@
       }
     },
     "voice_total": 863,
-    "voice_share_pct": 1.2
+    "voice_share_pct": 0.4
   },
   "competitors": [
     {
@@ -162,24 +162,19 @@
       "snippet": "",
       "url": "https://baufest.com",
       "metrics": {
-        "reddit": {
-          "total": 0,
-          "hits": []
-        },
+        "pagespeed": {},
         "meta_ads": {
           "total": 0,
           "ads": [],
           "scope": null,
           "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Baufest&search_type=keyword_unordered&media_type=all"
         },
-        "pagespeed": {},
-        "google_ads": {
-          "ads_visible": null,
-          "verified_advertiser": null,
-          "deep_link": "https://adstransparency.google.com/?region=AR&domain=baufest.com"
+        "reddit": {
+          "total": 0,
+          "hits": []
         },
         "hn": {
-          "total": 84,
+          "total": 90,
           "hits": [
             {
               "title": "The Rise of the Bullshittery",
@@ -239,6 +234,11 @@
             }
           ]
         },
+        "google_ads": {
+          "ads_visible": null,
+          "verified_advertiser": null,
+          "deep_link": "https://adstransparency.google.com/?region=AR&domain=baufest.com"
+        },
         "github": {
           "name": "Baufest",
           "public_repos": 4,
@@ -262,6 +262,7 @@
           ],
           "created_at": "2023-08-23T15:44:19Z"
         },
+        "feed_url": "https://baufest.com/feed/",
         "tech_stack": [
           "Elementor",
           "LinkedIn Insight",
@@ -270,12 +271,11 @@
           "PHP",
           "WordPress"
         ],
-        "feed_url": "https://baufest.com/feed/",
         "gdelt": {
           "total": 0,
           "hits": []
         },
-        "wayback_first": null,
+        "wayback_first": "19980123020759",
         "blog": {
           "total_entries_in_feed": 10,
           "posts_last_90d": 9,
@@ -291,14 +291,14 @@
           ],
           "feed_url": "https://baufest.com/feed/"
         },
-        "age_years": null,
+        "age_years": 28.4,
         "pagerank": {
           "page_rank": 3.49,
           "rank": 1788236
         }
       },
-      "voice_total": 84,
-      "voice_share_pct": 0.1
+      "voice_total": 90,
+      "voice_share_pct": 0.0
     },
     {
       "domain": "snoopconsulting.com",
@@ -311,15 +311,16 @@
       "snippet": "",
       "url": "https://snoopconsulting.com",
       "metrics": {
-        "reddit": {
-          "total": 0,
-          "hits": []
-        },
+        "pagespeed": {},
         "meta_ads": {
           "total": 0,
           "ads": [],
           "scope": null,
           "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Snoop+Consulting&search_type=keyword_unordered&media_type=all"
+        },
+        "reddit": {
+          "total": 0,
+          "hits": []
         },
         "github": null,
         "feed_url": "https://snoopconsulting.com/feed/",
@@ -328,14 +329,8 @@
           "Nginx",
           "WordPress"
         ],
-        "pagespeed": {},
-        "google_ads": {
-          "ads_visible": null,
-          "verified_advertiser": null,
-          "deep_link": "https://adstransparency.google.com/?region=AR&domain=snoopconsulting.com"
-        },
         "hn": {
-          "total": 12,
+          "total": 4,
           "hits": [
             {
               "title": "Meta's embrace of AI is making its employees miserable",
@@ -345,32 +340,11 @@
               "date": "2026-05-10T00:15:54Z"
             },
             {
-              "title": "Ask HN: Who wants to be hired? (May 2026)",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2026-05-04T03:38:35Z"
-            },
-            {
               "title": "Show HN: I built another to do list. But it does a lot",
               "url": "",
               "points": null,
               "comments": null,
               "date": "2026-04-30T17:13:51Z"
-            },
-            {
-              "title": "Five years of running a systems reading group at Microsoft",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2026-03-23T13:50:53Z"
-            },
-            {
-              "title": "Ask HN: Who wants to be hired? (March 2026)",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2026-03-04T00:23:33Z"
             },
             {
               "title": "Kernighan's Lever",
@@ -380,22 +354,20 @@
               "date": "2025-12-22T03:44:16Z"
             },
             {
-              "title": "EFF launches Age Verification Hub",
+              "title": "The ‘white-collar bloodbath’ is all part of the AI hype machine",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2025-12-11T22:20:49Z"
-            },
-            {
-              "title": "Oracle hit hard in Wall Street's tech sell-off over its AI bet",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2025-11-14T16:29:16Z"
+              "date": "2025-05-31T05:58:56Z"
             }
           ]
         },
-        "wayback_first": "20040226155141",
+        "google_ads": {
+          "ads_visible": null,
+          "verified_advertiser": null,
+          "deep_link": "https://adstransparency.google.com/?region=AR&domain=snoopconsulting.com"
+        },
+        "wayback_first": null,
         "gdelt": {
           "total": 0,
           "hits": []
@@ -415,13 +387,13 @@
           ],
           "feed_url": "https://snoopconsulting.com/feed/"
         },
-        "age_years": 22.4,
+        "age_years": null,
         "pagerank": {
           "page_rank": 1.4,
           "rank": 94482272
         }
       },
-      "voice_total": 12,
+      "voice_total": 4,
       "voice_share_pct": 0.0
     },
     {
@@ -435,21 +407,16 @@
       "snippet": "",
       "url": "https://practia.global",
       "metrics": {
-        "reddit": {
-          "total": 0,
-          "hits": []
-        },
+        "pagespeed": {},
         "meta_ads": {
           "total": 0,
           "ads": [],
           "scope": null,
           "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Practia&search_type=keyword_unordered&media_type=all"
         },
-        "pagespeed": {},
-        "google_ads": {
-          "ads_visible": null,
-          "verified_advertiser": null,
-          "deep_link": "https://adstransparency.google.com/?region=AR&domain=practia.global"
+        "reddit": {
+          "total": 0,
+          "hits": []
         },
         "github": {
           "name": "Practia",
@@ -464,6 +431,13 @@
         "hn": {
           "total": 58547,
           "hits": [
+            {
+              "title": "EU to crack down on TikTok, Instagram's 'addictive design' targeting kids",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-12T22:42:34Z"
+            },
             {
               "title": "Googlebook",
               "url": "",
@@ -512,21 +486,19 @@
               "points": null,
               "comments": null,
               "date": "2026-05-12T22:00:09Z"
-            },
-            {
-              "title": "Dead.Letter (CVE-2026-45185) – How XBOW found an unauthenticated RCE on Exim",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2026-05-12T21:59:26Z"
             }
           ]
         },
-        "feed_url": "https://practia.global/feed/",
+        "google_ads": {
+          "ads_visible": null,
+          "verified_advertiser": null,
+          "deep_link": "https://adstransparency.google.com/?region=AR&domain=practia.global"
+        },
         "tech_stack": [
           "Elementor",
           "WordPress"
         ],
+        "feed_url": "https://practia.global/feed/",
         "gdelt": {
           "total": 0,
           "hits": []
@@ -554,7 +526,7 @@
         }
       },
       "voice_total": 58547,
-      "voice_share_pct": 81.2
+      "voice_share_pct": 26.3
     },
     {
       "domain": "hexacta.com",
@@ -567,7 +539,7 @@
       "snippet": "",
       "url": "https://hexacta.com",
       "metrics": {
-        "feed_url": null,
+        "pagespeed": {},
         "meta_ads": {
           "total": 0,
           "ads": [],
@@ -575,19 +547,33 @@
           "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Hexacta&search_type=keyword_unordered&media_type=all"
         },
         "tech_stack": [],
+        "feed_url": null,
         "reddit": {
           "total": 0,
           "hits": []
         },
-        "pagespeed": {},
         "google_ads": {
           "ads_visible": null,
           "verified_advertiser": null,
           "deep_link": "https://adstransparency.google.com/?region=AR&domain=hexacta.com"
         },
         "hn": {
-          "total": 789,
+          "total": 1149,
           "hits": [
+            {
+              "title": "Houses are for living, not for speculation",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-12T22:42:02Z"
+            },
+            {
+              "title": "Googlebook",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-12T22:40:38Z"
+            },
             {
               "title": "Bliss (Photograph)",
               "url": "",
@@ -629,20 +615,6 @@
               "points": null,
               "comments": null,
               "date": "2026-05-12T22:09:07Z"
-            },
-            {
-              "title": "Meta employees protest against mouse tracking tech at US offices",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2026-05-12T22:07:45Z"
-            },
-            {
-              "title": "Meta employees protest against mouse tracking tech at US offices",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2026-05-12T22:06:14Z"
             }
           ]
         },
@@ -677,20 +649,20 @@
           ],
           "created_at": "2011-12-05T13:07:48Z"
         },
+        "wayback_first": "20001019064911",
         "gdelt": {
           "total": 0,
           "hits": []
         },
-        "wayback_first": null,
         "blog": {},
-        "age_years": null,
+        "age_years": 26.4,
         "pagerank": {
           "page_rank": 1.76,
           "rank": 70557605
         }
       },
-      "voice_total": 789,
-      "voice_share_pct": 1.1
+      "voice_total": 1149,
+      "voice_share_pct": 0.5
     },
     {
       "domain": "lagash.com",
@@ -703,10 +675,7 @@
       "snippet": "",
       "url": "https://lagash.com",
       "metrics": {
-        "reddit": {
-          "total": 0,
-          "hits": []
-        },
+        "pagespeed": {},
         "meta_ads": {
           "total": 0,
           "ads": [],
@@ -714,6 +683,11 @@
           "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Lagash&search_type=keyword_unordered&media_type=all"
         },
         "github": null,
+        "reddit": {
+          "total": 0,
+          "hits": []
+        },
+        "tech_stack": [],
         "hn": {
           "total": 3,
           "hits": [
@@ -740,19 +714,17 @@
             }
           ]
         },
-        "tech_stack": [],
-        "pagespeed": {},
         "google_ads": {
           "ads_visible": null,
           "verified_advertiser": null,
           "deep_link": "https://adstransparency.google.com/?region=AR&domain=lagash.com"
         },
         "feed_url": null,
+        "wayback_first": null,
         "gdelt": {
           "total": 0,
           "hits": []
         },
-        "wayback_first": null,
         "blog": {},
         "age_years": null,
         "pagerank": {
@@ -774,24 +746,19 @@
       "snippet": "",
       "url": "https://algeiba.com",
       "metrics": {
-        "reddit": {
-          "total": 0,
-          "hits": []
-        },
+        "pagespeed": {},
         "meta_ads": {
           "total": 0,
           "ads": [],
           "scope": null,
           "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Algeiba&search_type=keyword_unordered&media_type=all"
         },
-        "pagespeed": {},
-        "google_ads": {
-          "ads_visible": null,
-          "verified_advertiser": null,
-          "deep_link": "https://adstransparency.google.com/?region=AR&domain=algeiba.com"
+        "reddit": {
+          "total": 0,
+          "hits": []
         },
         "hn": {
-          "total": 1479,
+          "total": 1400,
           "hits": [
             {
               "title": "Interaction Models",
@@ -861,16 +828,21 @@
           "top_languages": [],
           "created_at": "2016-07-22T13:05:11Z"
         },
+        "google_ads": {
+          "ads_visible": null,
+          "verified_advertiser": null,
+          "deep_link": "https://adstransparency.google.com/?region=AR&domain=algeiba.com"
+        },
         "tech_stack": [
           "Elementor",
           "React"
         ],
         "feed_url": null,
+        "wayback_first": null,
         "gdelt": {
           "total": 0,
           "hits": []
         },
-        "wayback_first": null,
         "blog": {},
         "age_years": null,
         "pagerank": {
@@ -878,8 +850,8 @@
           "rank": 80426027
         }
       },
-      "voice_total": 1479,
-      "voice_share_pct": 2.1
+      "voice_total": 1400,
+      "voice_share_pct": 0.6
     },
     {
       "domain": "globant.com",
@@ -892,24 +864,19 @@
       "snippet": "",
       "url": "https://globant.com",
       "metrics": {
-        "reddit": {
-          "total": 0,
-          "hits": []
-        },
+        "pagespeed": {},
         "meta_ads": {
           "total": 0,
           "ads": [],
           "scope": null,
           "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Globant&search_type=keyword_unordered&media_type=all"
         },
-        "pagespeed": {},
-        "google_ads": {
-          "ads_visible": null,
-          "verified_advertiser": null,
-          "deep_link": "https://adstransparency.google.com/?region=AR&domain=globant.com"
+        "reddit": {
+          "total": 0,
+          "hits": []
         },
         "hn": {
-          "total": 9121,
+          "total": 26559,
           "hits": [
             {
               "title": "US inflation jumps to 3.8% as energy costs surge from Iran war",
@@ -969,6 +936,11 @@
             }
           ]
         },
+        "google_ads": {
+          "ads_visible": null,
+          "verified_advertiser": null,
+          "deep_link": "https://adstransparency.google.com/?region=AR&domain=globant.com"
+        },
         "github": {
           "name": "Globant",
           "public_repos": 1,
@@ -1015,8 +987,8 @@
           "rank": 2145774
         }
       },
-      "voice_total": 9121,
-      "voice_share_pct": 12.6
+      "voice_total": 26559,
+      "voice_share_pct": 11.9
     },
     {
       "domain": "intersystec.com",
@@ -1029,28 +1001,35 @@
       "snippet": "",
       "url": "https://intersystec.com",
       "metrics": {
-        "reddit": {
-          "total": 0,
-          "hits": []
-        },
+        "tech_stack": [],
         "meta_ads": {
           "total": 0,
           "ads": [],
           "scope": null,
           "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Intersys&search_type=keyword_unordered&media_type=all"
         },
-        "tech_stack": [],
+        "pagespeed": {},
         "feed_url": null,
         "github": null,
-        "pagespeed": {},
+        "reddit": {
+          "total": 0,
+          "hits": []
+        },
         "google_ads": {
           "ads_visible": null,
           "verified_advertiser": null,
           "deep_link": "https://adstransparency.google.com/?region=AR&domain=intersystec.com"
         },
         "hn": {
-          "total": 1244,
+          "total": 134148,
           "hits": [
+            {
+              "title": "Local AI needs to be the norm",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-12T22:40:59Z"
+            },
             {
               "title": "Bambu Lab is abusing the open source social contract",
               "url": "",
@@ -1099,13 +1078,6 @@
               "points": null,
               "comments": null,
               "date": "2026-05-12T22:07:25Z"
-            },
-            {
-              "title": "Show HN: Statewright – Visual state machines that make AI agents reliable",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2026-05-12T21:59:48Z"
             }
           ]
         },
@@ -1121,14 +1093,14 @@
           "rank": null
         }
       },
-      "voice_total": 1244,
-      "voice_share_pct": 1.7
+      "voice_total": 134148,
+      "voice_share_pct": 60.2
     }
   ],
   "insights": [
     {
-      "title": "Share of voice bajo (posición #5)",
-      "body": "Los tres líderes —Practia, Globant, Algeiba— concentran la conversación en HN + Reddit + prensa global.",
+      "title": "Share of voice bajo (posición #6)",
+      "body": "Los tres líderes —Intersys, Practia, Globant— concentran la conversación en HN + Reddit + prensa global.",
       "severity": "info"
     }
   ]
