@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T16:33:57.367906Z",
+  "generated_at": "2026-10-12T17:07:52.501911Z",
   "scope_label": "Tech consulting · Argentina",
   "country": "AR",
   "own": {
@@ -23,63 +23,63 @@
         "hits": []
       },
       "hn": {
-        "total": 877,
+        "total": 873,
         "hits": [
           {
-            "title": "Replacement of petroleum based products with plant-based materials (2025)",
+            "title": "Fable Took My Job",
             "url": "",
             "points": null,
             "comments": null,
-            "date": "2026-10-05T06:42:35Z"
+            "date": "2026-10-12T10:51:29Z"
           },
           {
-            "title": "A map of every lighthouse",
-            "url": "",
-            "points": null,
-            "comments": null,
-            "date": "2026-10-04T19:34:25Z"
+            "title": "Native HTML and CSS Features That Replaced JavaScript",
+            "url": "https://ronaldsvilcins.com/2026/08/30/native-html-and-css-features-that-replaced-javascript/",
+            "points": 3,
+            "comments": 0,
+            "date": "2026-10-11T16:33:14Z"
           },
           {
-            "title": "What Meta got right with Muse",
-            "url": "",
-            "points": null,
-            "comments": null,
-            "date": "2026-10-04T12:35:00Z"
-          },
-          {
-            "title": "US tells France and Germany to release diesel stocks or face US export ban",
-            "url": "",
-            "points": null,
-            "comments": null,
-            "date": "2026-10-03T06:08:55Z"
-          },
-          {
-            "title": "Frog and Toad and the Increasingly Capable Machines",
-            "url": "",
-            "points": null,
-            "comments": null,
-            "date": "2026-10-02T16:35:55Z"
-          },
-          {
-            "title": "Knowledge platform powered by agents demonstration",
-            "url": "https://github.com/rajatrao/ai-knowledge-platform",
+            "title": "Show HN: Write once. Explain well. Publish on the web and on paper",
+            "url": "https://github.com/insanai/guidedog",
             "points": 1,
             "comments": 0,
-            "date": "2026-10-02T15:17:43Z"
+            "date": "2026-10-11T15:59:52Z"
           },
           {
-            "title": "Fuck Android Developer Verification Program",
+            "title": "3rd Yandex Cloud Data Center Was Hit",
             "url": "",
             "points": null,
             "comments": null,
-            "date": "2026-10-01T07:48:16Z"
+            "date": "2026-10-11T09:20:12Z"
           },
           {
-            "title": "Prompt Injection Firewall for AI APIs and Agent Tool Calls",
-            "url": "https://github.com/rajatrao/jevshield",
-            "points": 1,
-            "comments": 0,
-            "date": "2026-10-01T01:33:38Z"
+            "title": "Ask HN: Why aren't Americans rising up against tipping?",
+            "url": "",
+            "points": null,
+            "comments": null,
+            "date": "2026-10-11T02:32:08Z"
+          },
+          {
+            "title": "Ask HN: What's your favorite children's books?",
+            "url": "",
+            "points": null,
+            "comments": null,
+            "date": "2026-10-10T23:47:12Z"
+          },
+          {
+            "title": "What a 2 MB Page Costs Your Visitors",
+            "url": "https://ronaldsvilcins.com/2026/10/07/what-a-2-mb-page-costs-your-visitors/",
+            "points": 3,
+            "comments": 1,
+            "date": "2026-10-10T12:46:20Z"
+          },
+          {
+            "title": "Visa, Mastercard, major banks facing new litigation over 'anticompetitive' fees",
+            "url": "",
+            "points": null,
+            "comments": null,
+            "date": "2026-10-09T12:58:28Z"
           }
         ]
       },
@@ -88,6 +88,7 @@
         "verified_advertiser": null,
         "deep_link": "https://adstransparency.google.com/?region=AR&domain=raona.com"
       },
+      "feed_url": "https://raona.com/feed/",
       "tech_stack": [
         "Elementor",
         "Google Tag Manager",
@@ -97,7 +98,6 @@
         "WP Rocket",
         "WordPress"
       ],
-      "feed_url": "https://raona.com/feed/",
       "github": {
         "name": "Raona Enginyers, S.L.",
         "public_repos": 8,
@@ -130,21 +130,21 @@
         "total_entries_in_feed": 10,
         "posts_last_90d": 10,
         "recent_titles": [
+          "Windows Server 2016 llega a su fin",
+          "Tú, la IA o ambos: cómo repartir el trabajo",
+          "Hablemos de HydraFusion: elegir un solo modelo de IA sin sentido",
+          "Qué preguntas hago antes de empezar cualquier proyecto de Transformación Digital",
+          "¿Tu intranet sigue viva o solo sigue encendida?",
+          "Agentic AI en Power Platform: cuándo tiene sentido de verdad",
           "Hablemos de AI Search: pensar menos significa buscar mejor",
-          "Hablemos de MAI-Code: el modelo de código propio de Microsoft",
-          "Hablemos de Qwen-Image-2.1 y la generación de imágenes con IA",
-          "Intranet corporativa: qué es, para qué sirve y cómo conseguir que tu equipo la use de verdad",
-          "Claude Opus 5.5: rinde como Fable 5.1 y cuesta un 40 % menos",
-          "GPT-6 Sol y Luna: qué traen, cuánto cuestan ahora y cuál te conviene",
-          "Hablemos de IA en el sector energético: impacto y retorno",
-          "No todos quieren mutar: el verdadero desafío de la adopción digital"
+          "Hablemos de MAI-Code: el modelo de código propio de Microsoft"
         ],
         "feed_url": "https://raona.com/feed/"
       },
       "age_years": null
     },
-    "voice_total": 877,
-    "voice_share_pct": 0.9
+    "voice_total": 873,
+    "voice_share_pct": 0.4
   },
   "competitors": [
     {
@@ -170,63 +170,63 @@
         },
         "pagespeed": {},
         "hn": {
-          "total": 165,
+          "total": 16,
           "hits": [
             {
-              "title": "Metacognitive Agents (2025) [video]",
-              "url": "https://www.youtube.com/watch?v=mE28UJ3tkos",
+              "title": "Hole on the Moon may open into a giant cave",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261003234013.htm",
               "points": 1,
               "comments": 0,
-              "date": "2026-10-05T12:40:37Z"
+              "date": "2026-10-12T17:01:23Z"
             },
             {
-              "title": "So you think you could be an electrician?",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2026-10-04T22:49:04Z"
-            },
-            {
-              "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2026-10-04T18:47:04Z"
-            },
-            {
-              "title": "GrapheneOS has fixed the Android 17 QPR1 kernel performance regression",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2026-10-04T13:54:58Z"
-            },
-            {
-              "title": "Arliss",
-              "url": "https://en.wikipedia.org/wiki/Arliss_(TV_series)",
-              "points": 1,
-              "comments": 0,
-              "date": "2026-10-04T13:48:59Z"
-            },
-            {
-              "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2026-10-04T06:47:10Z"
-            },
-            {
-              "title": "Zadar Cow from Hell",
-              "url": "https://en.wikipedia.org/wiki/Zadar!_Cow_from_Hell",
+              "title": "Why Language Models Are So Hard to Understand",
+              "url": "https://www.quantamagazine.org/why-language-models-are-so-hard-to-understand-20250430/",
               "points": 3,
               "comments": 0,
-              "date": "2026-10-04T06:36:55Z"
+              "date": "2026-10-12T16:39:11Z"
             },
             {
-              "title": "Ammonium perchlorate composite propellant",
-              "url": "https://rocketry.fandom.com/wiki/Ammonium_perchlorate_composite_propellant",
-              "points": 2,
+              "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-10-12T13:30:10Z"
+            },
+            {
+              "title": "Dont Observe – Audit Your AI Agent",
+              "url": "https://db.zizka.ai/",
+              "points": 1,
               "comments": 0,
-              "date": "2026-10-04T06:25:06Z"
+              "date": "2026-10-12T12:08:29Z"
+            },
+            {
+              "title": "Rare Chinese calligraphy scroll resurfaces after 81 years, sells for US$22.6M",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-10-12T11:05:29Z"
+            },
+            {
+              "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-10-12T10:10:42Z"
+            },
+            {
+              "title": "Fable Took My Job",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-10-12T10:08:17Z"
+            },
+            {
+              "title": "Zen Browser",
+              "url": "https://zen-browser.app/",
+              "points": 2,
+              "comments": 1,
+              "date": "2026-10-12T09:46:09Z"
             }
           ]
         },
@@ -244,7 +244,7 @@
           "followers": 61,
           "total_stars": 0,
           "total_forks": 1,
-          "recent_active_repos": 6,
+          "recent_active_repos": 5,
           "top_languages": [
             [
               "Python",
@@ -262,16 +262,16 @@
           "created_at": "2023-08-23T15:44:19Z"
         },
         "feed_url": null,
+        "wayback_first": null,
         "gdelt": {
           "total": 0,
           "hits": []
         },
-        "wayback_first": null,
         "blog": {},
         "age_years": null
       },
-      "voice_total": 165,
-      "voice_share_pct": 0.2
+      "voice_total": 16,
+      "voice_share_pct": 0.0
     },
     {
       "domain": "snoopconsulting.com",
@@ -284,24 +284,24 @@
       "snippet": "",
       "url": "https://snoopconsulting.com",
       "metrics": {
-        "reddit": {
-          "total": 0,
-          "hits": []
-        },
+        "pagespeed": {},
         "meta_ads": {
           "total": 0,
           "ads": [],
           "scope": null,
           "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Snoop+Consulting&search_type=keyword_unordered&media_type=all"
         },
-        "pagespeed": {},
-        "tech_stack": [
-          "Google Tag Manager",
-          "Nginx",
-          "WordPress"
-        ],
+        "reddit": {
+          "total": 0,
+          "hits": []
+        },
+        "google_ads": {
+          "ads_visible": null,
+          "verified_advertiser": null,
+          "deep_link": "https://adstransparency.google.com/?region=AR&domain=snoopconsulting.com"
+        },
         "hn": {
-          "total": 7,
+          "total": 17,
           "hits": [
             {
               "title": "Anthropic candidates face blunt money question",
@@ -332,34 +332,41 @@
               "date": "2026-07-28T17:22:33Z"
             },
             {
+              "title": "Passkeys were invented by engineers with zero understanding of consumer brain",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-07-22T15:40:48Z"
+            },
+            {
+              "title": "This blog is written in en-GB",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-07-02T13:33:13Z"
+            },
+            {
+              "title": "Investigating how prompt politeness affects LLM accuracy (2025)",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-29T07:35:40Z"
+            },
+            {
               "title": "Meta's embrace of AI is making its employees miserable",
               "url": "",
               "points": null,
               "comments": null,
               "date": "2026-05-10T00:15:54Z"
-            },
-            {
-              "title": "Show HN: I built another to do list. But it does a lot",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2026-04-30T17:13:51Z"
-            },
-            {
-              "title": "Kernighan's Lever",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2025-12-22T03:44:16Z"
             }
           ]
         },
         "feed_url": "https://snoopconsulting.com/feed/",
-        "google_ads": {
-          "ads_visible": null,
-          "verified_advertiser": null,
-          "deep_link": "https://adstransparency.google.com/?region=AR&domain=snoopconsulting.com"
-        },
+        "tech_stack": [
+          "Google Tag Manager",
+          "Nginx",
+          "WordPress"
+        ],
         "github": {
           "name": "Snoop-Consulting",
           "public_repos": 0,
@@ -370,14 +377,14 @@
           "top_languages": [],
           "created_at": "2026-09-22T17:13:31Z"
         },
-        "wayback_first": "20040226155141",
         "gdelt": {
           "total": 0,
           "hits": []
         },
+        "wayback_first": null,
         "blog": {
           "total_entries_in_feed": 10,
-          "posts_last_90d": 8,
+          "posts_last_90d": 7,
           "recent_titles": [
             "Mano a mano con Adam Smith: «El mercado se olvidó de la ética, la justicia y el propósito»",
             "¿Tu empresa está atrapada en la «Trampa del Acuerdo»? Descubrí cómo Docusign IAM revoluciona la gestión de contratos",
@@ -390,9 +397,9 @@
           ],
           "feed_url": "https://snoopconsulting.com/feed/"
         },
-        "age_years": 22.8
+        "age_years": null
       },
-      "voice_total": 7,
+      "voice_total": 17,
       "voice_share_pct": 0.0
     },
     {
@@ -406,87 +413,87 @@
       "snippet": "",
       "url": "https://practia.global",
       "metrics": {
-        "reddit": {
-          "total": 0,
-          "hits": []
-        },
+        "pagespeed": {},
         "meta_ads": {
           "total": 0,
           "ads": [],
           "scope": null,
           "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Practia&search_type=keyword_unordered&media_type=all"
         },
-        "pagespeed": {},
+        "reddit": {
+          "total": 0,
+          "hits": []
+        },
+        "feed_url": "https://practia.global/feed/",
         "tech_stack": [
           "Elementor",
           "WordPress"
         ],
-        "feed_url": "https://practia.global/feed/",
-        "google_ads": {
-          "ads_visible": null,
-          "verified_advertiser": null,
-          "deep_link": "https://adstransparency.google.com/?region=AR&domain=practia.global"
-        },
         "hn": {
-          "total": 58126,
+          "total": 58016,
           "hits": [
             {
-              "title": "Tell HN: Uceprotect is extorting website owners",
+              "title": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-05T16:31:04Z"
+              "date": "2026-10-12T17:05:41Z"
             },
             {
-              "title": "Web Search API",
+              "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-05T16:29:05Z"
+              "date": "2026-10-12T17:02:36Z"
             },
             {
-              "title": "\"I'm Embarrassed on Behalf of the Tech Industry\"",
+              "title": "QGIS bans AI assisted contributions",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-05T16:24:30Z"
+              "date": "2026-10-12T17:00:29Z"
             },
             {
-              "title": "So you think you could be an electrician?",
+              "title": "GLM-Legal: Advancing Agentic Legal Intelligence",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-05T16:23:03Z"
+              "date": "2026-10-12T16:59:12Z"
             },
             {
-              "title": "RuneScape's Position on Gen AI",
+              "title": "The gap in shared understanding of LLM capability is widening",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-05T16:18:37Z"
+              "date": "2026-10-12T16:55:27Z"
             },
             {
-              "title": "ADHD, autism or complex trauma? [pdf]",
+              "title": "QGIS bans AI assisted contributions",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-05T16:14:53Z"
+              "date": "2026-10-12T16:49:04Z"
+            },
+            {
+              "title": "GLM-Legal: Advancing Agentic Legal Intelligence",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-10-12T16:46:04Z"
             },
             {
               "title": "Ask HN: Who wants to be hired? (October 2026)",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-05T16:05:34Z"
-            },
-            {
-              "title": "macOS ProactiveHarvesting and AppleIntelligenceReportingSELFIngestor",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2026-10-05T16:04:35Z"
+              "date": "2026-10-12T16:45:15Z"
             }
           ]
+        },
+        "google_ads": {
+          "ads_visible": null,
+          "verified_advertiser": null,
+          "deep_link": "https://adstransparency.google.com/?region=AR&domain=practia.global"
         },
         "github": {
           "name": "Practia",
@@ -520,8 +527,8 @@
         },
         "age_years": null
       },
-      "voice_total": 58126,
-      "voice_share_pct": 62.1
+      "voice_total": 58016,
+      "voice_share_pct": 27.5
     },
     {
       "domain": "hexacta.com",
@@ -534,77 +541,77 @@
       "snippet": "",
       "url": "https://hexacta.com",
       "metrics": {
-        "reddit": {
-          "total": 0,
-          "hits": []
-        },
+        "pagespeed": {},
         "meta_ads": {
           "total": 0,
           "ads": [],
           "scope": null,
           "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Hexacta&search_type=keyword_unordered&media_type=all"
         },
-        "tech_stack": [],
         "feed_url": null,
-        "pagespeed": {},
+        "tech_stack": [],
+        "reddit": {
+          "total": 0,
+          "hits": []
+        },
         "hn": {
-          "total": 829,
+          "total": 789,
           "hits": [
             {
-              "title": "Type Safe Generic Data Structures in C",
+              "title": "Living in the Weimar Era of Ruby",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-05T16:31:47Z"
+              "date": "2026-10-12T17:04:57Z"
             },
             {
-              "title": "RuneScape's Position on Gen AI",
+              "title": "Food processing influences metabolism and brain activity",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-05T16:29:39Z"
+              "date": "2026-10-12T17:04:48Z"
             },
             {
-              "title": "ADHD, autism or complex trauma? [pdf]",
+              "title": "The Making Of Super Mario 64 – full Giles Goddard interview (2001)",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-05T16:26:44Z"
+              "date": "2026-10-12T17:00:52Z"
             },
             {
-              "title": "Type Safe Generic Data Structures in C",
+              "title": "QGIS bans AI assisted contributions",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-05T16:13:09Z"
+              "date": "2026-10-12T16:56:48Z"
             },
             {
-              "title": "Differences Between `Foldl` and `Foldr`",
+              "title": "Why aren't AI companies being charged for hacking?",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-05T16:01:10Z"
+              "date": "2026-10-12T16:51:37Z"
             },
             {
-              "title": "The Tao of Backup",
+              "title": "The gap in shared understanding of LLM capability is widening",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-05T15:59:20Z"
+              "date": "2026-10-12T16:49:13Z"
             },
             {
-              "title": "\"I'm Embarrassed on Behalf of the Tech Industry\"",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2026-10-05T15:57:49Z"
+              "title": "Show HN: Authrot – extract your story elements out of chapters and graph them",
+              "url": "https://authrot.app",
+              "points": 1,
+              "comments": 0,
+              "date": "2026-10-12T16:47:13Z"
             },
             {
-              "title": "ArtCraft Apps – open-source Adobe compatible suite written in Rust",
+              "title": "Google Data Centers around the world",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-05T15:55:14Z"
+              "date": "2026-10-12T16:41:37Z"
             }
           ]
         },
@@ -644,16 +651,16 @@
           ],
           "created_at": "2011-12-05T13:07:48Z"
         },
-        "wayback_first": null,
         "gdelt": {
           "total": 0,
           "hits": []
         },
+        "wayback_first": null,
         "blog": {},
         "age_years": null
       },
-      "voice_total": 829,
-      "voice_share_pct": 0.9
+      "voice_total": 789,
+      "voice_share_pct": 0.4
     },
     {
       "domain": "lagash.com",
@@ -676,8 +683,9 @@
           "scope": null,
           "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Lagash&search_type=keyword_unordered&media_type=all"
         },
-        "tech_stack": [],
+        "pagespeed": {},
         "github": null,
+        "tech_stack": [],
         "hn": {
           "total": 7,
           "hits": [
@@ -732,18 +740,17 @@
             }
           ]
         },
-        "pagespeed": {},
         "google_ads": {
           "ads_visible": null,
           "verified_advertiser": null,
           "deep_link": "https://adstransparency.google.com/?region=AR&domain=lagash.com"
         },
         "feed_url": null,
-        "wayback_first": null,
         "gdelt": {
           "total": 0,
           "hits": []
         },
+        "wayback_first": null,
         "blog": {},
         "age_years": null
       },
@@ -761,85 +768,85 @@
       "snippet": "",
       "url": "https://algeiba.com",
       "metrics": {
-        "reddit": {
-          "total": 0,
-          "hits": []
-        },
+        "pagespeed": {},
         "meta_ads": {
           "total": 0,
           "ads": [],
           "scope": null,
           "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Algeiba&search_type=keyword_unordered&media_type=all"
         },
-        "tech_stack": [],
-        "feed_url": null,
-        "github": null,
-        "pagespeed": {},
-        "hn": {
-          "total": 4589,
-          "hits": [
-            {
-              "title": "What is going on with ceiling fans",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2026-10-05T13:50:04Z"
-            },
-            {
-              "title": "Gods in the Classroom: Religion and Education in First Millennium BCE Babylonia",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2026-10-05T13:04:13Z"
-            },
-            {
-              "title": "Web Search API",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2026-10-05T13:00:16Z"
-            },
-            {
-              "title": "Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2026-10-05T10:54:32Z"
-            },
-            {
-              "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2026-10-04T22:03:03Z"
-            },
-            {
-              "title": "What Meta got right with Muse",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2026-10-04T18:46:00Z"
-            },
-            {
-              "title": "Math's pedagogical curse – Grant Sanderson [video] (2023)",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2026-10-04T17:37:41Z"
-            },
-            {
-              "title": "What Meta got right with Muse",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2026-10-04T17:24:02Z"
-            }
-          ]
+        "reddit": {
+          "total": 0,
+          "hits": []
         },
+        "feed_url": null,
+        "tech_stack": [],
+        "github": null,
         "google_ads": {
           "ads_visible": null,
           "verified_advertiser": null,
           "deep_link": "https://adstransparency.google.com/?region=AR&domain=algeiba.com"
+        },
+        "hn": {
+          "total": 1987,
+          "hits": [
+            {
+              "title": "The Making Of Super Mario 64 – full Giles Goddard interview (2001)",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-10-12T13:59:59Z"
+            },
+            {
+              "title": "Deloitte falsified documents to evade tax on Abramovich's wealth",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-10-12T13:55:57Z"
+            },
+            {
+              "title": "QGIS bans AI assisted contributions",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-10-12T13:50:18Z"
+            },
+            {
+              "title": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-10-12T10:19:36Z"
+            },
+            {
+              "title": "No portable way to detect string-to-float conversion errors in standard C",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-10-12T09:08:17Z"
+            },
+            {
+              "title": "Fingerprints are the new cookies",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-10-12T08:26:35Z"
+            },
+            {
+              "title": "Calculus with Julia",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-10-12T06:57:19Z"
+            },
+            {
+              "title": "FlowCE: Calculus on your TI-84 Plus CE",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-10-12T04:35:54Z"
+            }
+          ]
         },
         "gdelt": {
           "total": 0,
@@ -849,8 +856,8 @@
         "blog": {},
         "age_years": null
       },
-      "voice_total": 4589,
-      "voice_share_pct": 4.9
+      "voice_total": 1987,
+      "voice_share_pct": 0.9
     },
     {
       "domain": "globant.com",
@@ -863,82 +870,82 @@
       "snippet": "",
       "url": "https://globant.com",
       "metrics": {
-        "reddit": {
-          "total": 0,
-          "hits": []
-        },
+        "pagespeed": {},
         "meta_ads": {
           "total": 0,
           "ads": [],
           "scope": null,
           "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Globant&search_type=keyword_unordered&media_type=all"
         },
-        "tech_stack": [],
+        "reddit": {
+          "total": 0,
+          "hits": []
+        },
         "feed_url": null,
-        "pagespeed": {},
+        "tech_stack": [],
         "google_ads": {
           "ads_visible": null,
           "verified_advertiser": null,
           "deep_link": "https://adstransparency.google.com/?region=AR&domain=globant.com"
         },
         "hn": {
-          "total": 28156,
+          "total": 9490,
           "hits": [
             {
-              "title": "Germany’s RobCo hits $1B valuation",
+              "title": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-05T16:15:51Z"
+              "date": "2026-10-12T17:05:41Z"
             },
             {
-              "title": "The technology to eradicate mosquito-borne disease exists",
+              "title": "How to Build Wealth as a Career Person",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-05T16:09:06Z"
+              "date": "2026-10-12T16:37:50Z"
             },
             {
-              "title": "Jonathan Haidt: AI Is the 'Neutron Bomb for Education' [video]",
+              "title": "Discover vibe-coded alternatives to popular software",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-05T15:53:29Z"
+              "date": "2026-10-12T16:15:25Z"
             },
             {
-              "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+              "title": "Incident with Actions, Pull Requests and Issues",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-05T15:51:16Z"
+              "date": "2026-10-12T16:03:13Z"
             },
             {
-              "title": "Oxford Economics 2026 Global Cities Index",
-              "url": "https://www.oxfordeconomics.com/global-cities-index/",
-              "points": 2,
-              "comments": 1,
-              "date": "2026-10-05T15:28:06Z"
-            },
-            {
-              "title": "The technology to eradicate mosquito-borne disease exists",
+              "title": "Deloitte falsified documents to evade tax on Abramovich's wealth",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-05T15:26:17Z"
+              "date": "2026-10-12T15:56:17Z"
             },
             {
-              "title": "What is going on with ceiling fans",
+              "title": "Parsing JSON at gigabytes per second in Python",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-05T15:20:28Z"
+              "date": "2026-10-12T15:55:35Z"
             },
             {
-              "title": "The technology to eradicate mosquito-borne disease exists",
+              "title": "Incident with Actions, Pull Requests and Issues",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-05T15:19:21Z"
+              "date": "2026-10-12T15:26:50Z"
+            },
+            {
+              "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-10-12T15:14:04Z"
             }
           ]
         },
@@ -957,16 +964,16 @@
           ],
           "created_at": "2010-09-15T21:16:05Z"
         },
-        "wayback_first": null,
         "gdelt": {
           "total": 0,
           "hits": []
         },
+        "wayback_first": null,
         "blog": {},
         "age_years": null
       },
-      "voice_total": 28156,
-      "voice_share_pct": 30.1
+      "voice_total": 9490,
+      "voice_share_pct": 4.5
     },
     {
       "domain": "intersystec.com",
@@ -979,19 +986,19 @@
       "snippet": "",
       "url": "https://intersystec.com",
       "metrics": {
-        "tech_stack": [],
+        "pagespeed": {},
         "meta_ads": {
           "total": 0,
           "ads": [],
           "scope": null,
           "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Intersys&search_type=keyword_unordered&media_type=all"
         },
+        "tech_stack": [],
         "feed_url": null,
         "reddit": {
           "total": 0,
           "hits": []
         },
-        "pagespeed": {},
         "github": null,
         "google_ads": {
           "ads_visible": null,
@@ -999,63 +1006,63 @@
           "deep_link": "https://adstransparency.google.com/?region=AR&domain=intersystec.com"
         },
         "hn": {
-          "total": 898,
+          "total": 140113,
           "hits": [
             {
-              "title": "The future of independence is interdependence",
+              "title": "I Found a $90k Remote Code Execution Vulnerability in Google",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-05T16:32:59Z"
+              "date": "2026-10-12T17:05:15Z"
             },
             {
-              "title": "Borland Turbo Basic",
+              "title": "GLM-Legal: Advancing Agentic Legal Intelligence",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-05T16:32:39Z"
+              "date": "2026-10-12T17:04:31Z"
             },
             {
-              "title": "Show HN: Era – Complete Simulated Companies for Your Agents",
+              "title": "Living in the Weimar Era of Ruby",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-05T16:31:06Z"
+              "date": "2026-10-12T17:03:49Z"
             },
             {
-              "title": "Ask HN: Who is hiring? (October 2026)",
+              "title": "GLM-Legal: Advancing Agentic Legal Intelligence",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-05T16:29:47Z"
+              "date": "2026-10-12T16:59:53Z"
             },
             {
-              "title": "Jonathan Haidt: AI Is the 'Neutron Bomb for Education' [video]",
+              "title": "GLM-Legal: Advancing Agentic Legal Intelligence",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-05T16:29:10Z"
+              "date": "2026-10-12T16:57:42Z"
             },
             {
-              "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+              "title": "Fable Took My Job",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-05T16:28:41Z"
+              "date": "2026-10-12T16:57:29Z"
             },
             {
-              "title": "Florida woman arrested for allegedly making threats in an AI chat",
+              "title": "A Modern Web App in C",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-05T16:27:28Z"
+              "date": "2026-10-12T16:56:04Z"
             },
             {
-              "title": "Ask HN: What are you reading to your kids?",
+              "title": "The Making Of Super Mario 64 – full Giles Goddard interview (2001)",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-05T16:23:07Z"
+              "date": "2026-10-12T16:55:40Z"
             }
           ]
         },
@@ -1067,14 +1074,14 @@
         "blog": {},
         "age_years": null
       },
-      "voice_total": 898,
-      "voice_share_pct": 1.0
+      "voice_total": 140113,
+      "voice_share_pct": 66.3
     }
   ],
   "insights": [
     {
       "title": "Share of voice bajo (posición #5)",
-      "body": "Los tres líderes —Practia, Globant, Algeiba— concentran la conversación en HN + Reddit + prensa global.",
+      "body": "Los tres líderes —Intersys, Practia, Globant— concentran la conversación en HN + Reddit + prensa global.",
       "severity": "info"
     }
   ]
