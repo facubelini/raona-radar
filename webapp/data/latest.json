@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T14:39:47.398377Z",
+  "generated_at": "2026-11-02T17:32:58.690732Z",
   "scope_label": "Tech consulting · Argentina",
   "country": "AR",
   "own": {
@@ -27,64 +27,66 @@
         "verified_advertiser": null,
         "deep_link": "https://adstransparency.google.com/?region=AR&domain=raona.com"
       },
+      "wayback_first": "20030305165433",
+      "feed_url": "https://raona.com/feed/",
       "hn": {
-        "total": 864,
+        "total": 853,
         "hits": [
           {
-            "title": "Serbia's Vucic concedes election defeat in historic win for student movement",
+            "title": "Ask HN: Who wants to be hired? (November 2026)",
             "url": "",
             "points": null,
             "comments": null,
-            "date": "2026-10-26T01:42:14Z"
+            "date": "2026-11-02T16:02:36Z"
           },
           {
-            "title": "Serbia's Vucic concedes election defeat in historic win for student movement",
+            "title": "Radiation Map of the World",
             "url": "",
             "points": null,
             "comments": null,
-            "date": "2026-10-25T23:42:08Z"
+            "date": "2026-11-01T21:59:03Z"
           },
           {
-            "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+            "title": "Patrick Stewart taught us what good men do with power",
             "url": "",
             "points": null,
             "comments": null,
-            "date": "2026-10-25T23:40:01Z"
+            "date": "2026-11-01T19:36:46Z"
           },
           {
-            "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
-            "url": "",
-            "points": null,
-            "comments": null,
-            "date": "2026-10-25T04:02:13Z"
-          },
-          {
-            "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-            "url": "",
-            "points": null,
-            "comments": null,
-            "date": "2026-10-25T03:43:42Z"
-          },
-          {
-            "title": "Takeda Hideo credits Ronald Searle, not Yakuza, for his absurdist art",
-            "url": "https://intojapanwaraku.com/culture/245517/",
-            "points": 2,
+            "title": "The Golden Age",
+            "url": "https://dark.ronacher.eu/2026/10/31/golden-age/",
+            "points": 5,
             "comments": 0,
-            "date": "2026-10-24T02:44:45Z"
+            "date": "2026-10-31T20:10:23Z"
           },
           {
-            "title": "\"counting bumblebees one by one\": California's demands for the bullet train",
+            "title": "Intel plunges 25%, triggers global chip rout on bleak outlook",
             "url": "",
             "points": null,
             "comments": null,
-            "date": "2026-10-23T12:25:11Z"
+            "date": "2026-10-30T14:07:23Z"
           },
           {
-            "title": "Jailbreaking the Switch 2",
+            "title": "Evidence of a spying operation by ICE against left-wing social movements",
             "url": "",
             "points": null,
             "comments": null,
-            "date": "2026-10-22T21:16:45Z"
+            "date": "2026-10-28T16:47:22Z"
+          },
+          {
+            "title": "Wikipedia's Cleanup of AI-Generated Content",
+            "url": "",
+            "points": null,
+            "comments": null,
+            "date": "2026-10-27T15:27:13Z"
+          },
+          {
+            "title": "Three new discoveries in mathematics, computer science, and physics",
+            "url": "",
+            "points": null,
+            "comments": null,
+            "date": "2026-10-27T09:50:35Z"
           }
         ]
       },
@@ -97,7 +99,6 @@
         "WP Rocket",
         "WordPress"
       ],
-      "feed_url": "https://raona.com/feed/",
       "github": {
         "name": "Raona Enginyers, S.L.",
         "public_repos": 8,
@@ -121,7 +122,6 @@
         ],
         "created_at": "2019-07-16T10:28:58Z"
       },
-      "wayback_first": "20030305165433",
       "gdelt": {
         "total": 0,
         "hits": []
@@ -130,21 +130,21 @@
         "total_entries_in_feed": 10,
         "posts_last_90d": 10,
         "recent_titles": [
+          "GPT-6.1 Terra en Microsoft Foundry: el agente que mira la pantalla baja de precio",
+          "Copilot en SharePoint: el 1 de noviembre dejan de aplicarse tus exclusiones por PowerShell",
+          "Power Apps endurece el control de licencias en 2027",
           "Hablemos de Gemini 4 Argon: IA para agentes complejos",
           "¿Qué es Digital Workplace y para qué sirve?",
           "Hablemos de adopción de IA: más allá de las licencias",
           "¿Tienes 20 agentes funcionando… o no?",
-          "Raona AI Frontier: impulsando la transformación empresarial con IA",
-          "El «Prompt Engineering» para UX Designers: Diseñando flujos de trabajo accesibles con IA en herramientas internas",
-          "Windows Server 2016 llega a su fin",
-          "Tú, la IA o ambos: cómo repartir el trabajo"
+          "Raona AI Frontier: impulsando la transformación empresarial con IA"
         ],
         "feed_url": "https://raona.com/feed/"
       },
-      "age_years": 23.8
+      "age_years": 23.9
     },
-    "voice_total": 864,
-    "voice_share_pct": 1.4
+    "voice_total": 853,
+    "voice_share_pct": 0.5
   },
   "competitors": [
     {
@@ -158,17 +158,78 @@
       "snippet": "",
       "url": "https://baufest.com",
       "metrics": {
-        "reddit": {
-          "total": 0,
-          "hits": []
-        },
+        "pagespeed": {},
         "meta_ads": {
           "total": 0,
           "ads": [],
           "scope": null,
           "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Baufest&search_type=keyword_unordered&media_type=all"
         },
-        "pagespeed": {},
+        "reddit": {
+          "total": 0,
+          "hits": []
+        },
+        "hn": {
+          "total": 1281,
+          "hits": [
+            {
+              "title": "Postgres 19 is late because so many more bugs are being found now",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-02T16:37:56Z"
+            },
+            {
+              "title": "Last night an AI agent performed brain surgery on a mouse",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-02T16:17:39Z"
+            },
+            {
+              "title": "Nine killed as small jet crashes on Florida street",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-02T14:53:14Z"
+            },
+            {
+              "title": "Electrification Could Cut Global Energy Use in Half",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-02T02:21:05Z"
+            },
+            {
+              "title": "Stackless Python is an enhanced version of the Python programming language",
+              "url": "https://github.com/stackless-dev/stackless/wiki/",
+              "points": 2,
+              "comments": 0,
+              "date": "2026-11-01T23:05:28Z"
+            },
+            {
+              "title": "Are We All Too Cynical for Star Trek?",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-01T21:55:49Z"
+            },
+            {
+              "title": "Star Trek Writers' Guides. (2024)",
+              "url": "https://pervocracy.com/pdf-hobby/star-trek-writers-guides/",
+              "points": 5,
+              "comments": 0,
+              "date": "2026-11-01T21:20:55Z"
+            },
+            {
+              "title": "Are We All Too Cynical for Star Trek?",
+              "url": "https://www.thebulwark.com/p/are-we-all-too-cynical-for-star-trek",
+              "points": 8,
+              "comments": 5,
+              "date": "2026-11-01T20:11:50Z"
+            }
+          ]
+        },
         "google_ads": {
           "ads_visible": null,
           "verified_advertiser": null,
@@ -177,74 +238,13 @@
         "tech_stack": [
           "Next.js"
         ],
-        "hn": {
-          "total": 609,
-          "hits": [
-            {
-              "title": "We should be more ambitious with the software we build",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2026-10-26T12:50:08Z"
-            },
-            {
-              "title": "The Coligny Calendar",
-              "url": "https://gaulishpolytheism.com/the-coligny-calendar/",
-              "points": 1,
-              "comments": 0,
-              "date": "2026-10-26T10:15:30Z"
-            },
-            {
-              "title": "Who Is AI Native Foundation (AINF)?",
-              "url": "https://ainativefoundation.org/who-we-are/",
-              "points": 1,
-              "comments": 0,
-              "date": "2026-10-26T09:39:19Z"
-            },
-            {
-              "title": "Increasing transparency and trust in language models with OLMoTrace",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2026-10-26T09:21:44Z"
-            },
-            {
-              "title": "Increasing transparency and trust in language models with OLMoTrace",
-              "url": "https://allenai.org/blog/olmotrace",
-              "points": 2,
-              "comments": 1,
-              "date": "2026-10-26T09:18:08Z"
-            },
-            {
-              "title": "Scaling Unbounded N-Gram Language Models to a Trillion Tokens",
-              "url": "https://infini-gram.io/",
-              "points": 1,
-              "comments": 0,
-              "date": "2026-10-26T09:12:03Z"
-            },
-            {
-              "title": "\"This American Life\" Reveals Coca-Cola's Secret Recipe (Ingredient List) (2011)",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2026-10-26T09:04:49Z"
-            },
-            {
-              "title": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2026-10-25T23:12:21Z"
-            }
-          ]
-        },
         "github": {
           "name": "Baufest",
-          "public_repos": 11,
+          "public_repos": 12,
           "followers": 61,
           "total_stars": 0,
           "total_forks": 1,
-          "recent_active_repos": 3,
+          "recent_active_repos": 2,
           "top_languages": [
             [
               "Python",
@@ -253,6 +253,10 @@
             [
               "TypeScript",
               2
+            ],
+            [
+              "JavaScript",
+              1
             ],
             [
               "HTML",
@@ -268,10 +272,10 @@
           "hits": []
         },
         "blog": {},
-        "age_years": 28.8
+        "age_years": 28.9
       },
-      "voice_total": 609,
-      "voice_share_pct": 1.0
+      "voice_total": 1281,
+      "voice_share_pct": 0.7
     },
     {
       "domain": "snoopconsulting.com",
@@ -284,38 +288,31 @@
       "snippet": "",
       "url": "https://snoopconsulting.com",
       "metrics": {
-        "reddit": {
-          "total": 0,
-          "hits": []
-        },
+        "pagespeed": {},
         "meta_ads": {
           "total": 0,
           "ads": [],
           "scope": null,
           "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Snoop+Consulting&search_type=keyword_unordered&media_type=all"
         },
-        "feed_url": "https://snoopconsulting.com/feed/",
+        "reddit": {
+          "total": 0,
+          "hits": []
+        },
         "tech_stack": [
           "Google Tag Manager",
           "Nginx",
           "WordPress"
         ],
-        "pagespeed": {},
+        "feed_url": "https://snoopconsulting.com/feed/",
         "google_ads": {
           "ads_visible": null,
           "verified_advertiser": null,
           "deep_link": "https://adstransparency.google.com/?region=AR&domain=snoopconsulting.com"
         },
         "hn": {
-          "total": 13,
+          "total": 3,
           "hits": [
-            {
-              "title": "Anthropic candidates face blunt money question",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2026-08-24T12:14:36Z"
-            },
             {
               "title": "New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]",
               "url": "",
@@ -324,46 +321,18 @@
               "date": "2026-08-19T03:19:41Z"
             },
             {
-              "title": "Nashville uses eminent domain to block data center near zoo",
+              "title": "Show HN: I built another to do list. But it does a lot",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-08-06T12:24:44Z"
+              "date": "2026-04-30T17:13:51Z"
             },
             {
-              "title": "Protesting Flock, Arizona Man Presents Plan to Surveil Government Officials",
+              "title": "Kernighan's Lever",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-07-28T17:22:33Z"
-            },
-            {
-              "title": "Passkeys were invented by engineers with zero understanding of consumer brain",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2026-07-22T15:40:48Z"
-            },
-            {
-              "title": "This blog is written in en-GB",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2026-07-02T13:33:13Z"
-            },
-            {
-              "title": "Investigating how prompt politeness affects LLM accuracy (2025)",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2026-05-29T07:35:40Z"
-            },
-            {
-              "title": "Meta's embrace of AI is making its employees miserable",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2026-05-10T00:15:54Z"
+              "date": "2025-12-22T03:44:16Z"
             }
           ]
         },
@@ -384,7 +353,7 @@
         },
         "blog": {
           "total_entries_in_feed": 10,
-          "posts_last_90d": 7,
+          "posts_last_90d": 6,
           "recent_titles": [
             "Snoop Consulting fue elegida finalista en dos categorías de los Premios Sadosky 2026",
             "Mano a mano con Adam Smith: «El mercado se olvidó de la ética, la justicia y el propósito»",
@@ -397,9 +366,9 @@
           ],
           "feed_url": "https://snoopconsulting.com/feed/"
         },
-        "age_years": 22.8
+        "age_years": 22.9
       },
-      "voice_total": 13,
+      "voice_total": 3,
       "voice_share_pct": 0.0
     },
     {
@@ -435,67 +404,66 @@
           "WordPress"
         ],
         "hn": {
-          "total": 58203,
+          "total": 58115,
           "hits": [
             {
-              "title": "Ask HN: Are tab completion models dead?",
+              "title": "Proton's AI manifesto for software engineering",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-26T14:37:00Z"
+              "date": "2026-11-02T17:27:06Z"
             },
             {
-              "title": "Anthropic S-1",
+              "title": "Why are Soviet math textbooks so hardcore in comparison to US textbooks? (2017)",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-26T14:36:05Z"
+              "date": "2026-11-02T17:26:10Z"
             },
             {
-              "title": "Anthropic S-1",
+              "title": "Last night an AI agent performed brain surgery on a mouse",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-26T14:36:01Z"
+              "date": "2026-11-02T17:26:06Z"
             },
             {
-              "title": "Anthropic S-1",
+              "title": "Anthropic reports $17B in Q3 revenue, commitments of $895B in revised S-1",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-26T14:33:37Z"
+              "date": "2026-11-02T17:26:04Z"
             },
             {
-              "title": "Hacker leaks 281 GB of data from Germany's far-right AfD party",
+              "title": "GPT-Rosalind-6 System Card Addendum",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-26T14:29:27Z"
+              "date": "2026-11-02T17:23:31Z"
             },
             {
-              "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2026-10-26T14:28:13Z"
+              "title": "Partial Operator Precedence",
+              "url": "https://ziglang.org/devlog/2026/#2026-10-24",
+              "points": 2,
+              "comments": 0,
+              "date": "2026-11-02T17:22:20Z"
             },
             {
-              "title": "OLED iPad Mini",
+              "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-26T14:23:12Z"
+              "date": "2026-11-02T17:21:49Z"
             },
             {
-              "title": "Anthropic S-1",
+              "title": "Ask HN: Who wants to be hired? (November 2026)",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-26T14:21:04Z"
+              "date": "2026-11-02T17:21:04Z"
             }
           ]
         },
-        "wayback_first": "20161117063710",
         "github": {
           "name": "Practia",
           "public_repos": 0,
@@ -506,29 +474,30 @@
           "top_languages": [],
           "created_at": "2018-10-31T12:21:42Z"
         },
+        "wayback_first": "20161117063710",
         "gdelt": {
           "total": 0,
           "hits": []
         },
         "blog": {
           "total_entries_in_feed": 10,
-          "posts_last_90d": 8,
+          "posts_last_90d": 10,
           "recent_titles": [
+            "Equipes adaptativas: a melhor alternativa para cada desafio",
+            "Gestão adaptativa: o melhor do gerenciamento de projetos e os benefícios da agilidade",
             "A evolução das PMOs na era da IA",
             "[Opinião] Daniel Yankelevich «Precisávamos de uma nova engenharia de software. E ela já está surgindo.»",
             "[Opinião] Carlos Lacchini «Ninguém assinou: quanta autonomia tem a sua inteligência artificial?»",
             "[Opinião] Gilberto Straffacci: “O que acontece quando não contamos com governança de IA em nossa empresa”",
             "[Caso Mutual de Seguridad] Andrea Bergeret comentou sobre a jornada de transformação digital da Mutual de Seguridad",
-            "[Entrevista] Boris Bustos: “A IA é um ativo de transformação do modelo operacional da minha organização”",
-            "Perspectiva Setorial: Eficiência em céus abertos: Desafios da Indústria Aeronáutica na América Latina",
-            "Qual é o segredo dos 5% das empresas que deram certo com Inteligência Artificial?"
+            "[Entrevista] Boris Bustos: “A IA é um ativo de transformação do modelo operacional da minha organização”"
           ],
           "feed_url": "https://practia.global/feed/"
         },
-        "age_years": 10.8
+        "age_years": 10.9
       },
-      "voice_total": 58203,
-      "voice_share_pct": 91.6
+      "voice_total": 58115,
+      "voice_share_pct": 31.6
     },
     {
       "domain": "hexacta.com",
@@ -541,86 +510,86 @@
       "snippet": "",
       "url": "https://hexacta.com",
       "metrics": {
-        "feed_url": null,
+        "tech_stack": [],
         "meta_ads": {
           "total": 0,
           "ads": [],
           "scope": null,
           "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Hexacta&search_type=keyword_unordered&media_type=all"
         },
-        "tech_stack": [],
-        "pagespeed": {},
+        "feed_url": null,
         "reddit": {
           "total": 0,
           "hits": []
         },
+        "pagespeed": {},
         "google_ads": {
           "ads_visible": null,
           "verified_advertiser": null,
           "deep_link": "https://adstransparency.google.com/?region=AR&domain=hexacta.com"
         },
+        "wayback_first": "20001019064911",
         "hn": {
-          "total": 264,
+          "total": 722,
           "hits": [
             {
-              "title": "Peter Thiel, the tech oligarch who believes in the Antichrist",
+              "title": "BioWare co-founder: game execs \"have never made a game\" and don't get it",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-26T14:34:29Z"
+              "date": "2026-11-02T17:24:13Z"
             },
             {
-              "title": "AmiJa, a cycle-exact Amiga emulator written in Java",
-              "url": "https://www.reddit.com/r/amiga/comments/1xftc5s/amija_amiga_emulator_in_java/",
-              "points": 1,
-              "comments": 0,
-              "date": "2026-10-26T14:32:11Z"
-            },
-            {
-              "title": "Websites Should Be Printable",
+              "title": "WTF Ubuntu?",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-26T14:28:07Z"
+              "date": "2026-11-02T17:18:12Z"
             },
             {
-              "title": "Birdwatching rewires the brain and slows cognitive decline",
+              "title": "Show HN: VHS Camera – Run your camera or videos through a simulated VHS signal",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-26T14:16:18Z"
+              "date": "2026-11-02T17:16:54Z"
             },
             {
-              "title": "Anthropic S-1",
+              "title": "The AI cost of JavaScript frameworks",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-26T14:15:18Z"
+              "date": "2026-11-02T17:04:40Z"
             },
             {
-              "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+              "title": "Ask HN: Who is hiring? (November 2026)",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-26T14:12:15Z"
+              "date": "2026-11-02T17:03:38Z"
             },
             {
-              "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+              "title": "Anthropic reports $17B in Q3 revenue, commitments of $895B in revised S-1",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-26T14:09:57Z"
+              "date": "2026-11-02T16:52:01Z"
             },
             {
-              "title": "Anthropic S-1",
+              "title": "OccupySaaS",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-26T14:06:06Z"
+              "date": "2026-11-02T16:50:48Z"
+            },
+            {
+              "title": "Moving our warehouse off DuckDB",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-02T16:45:28Z"
             }
           ]
         },
-        "wayback_first": "20001019064911",
         "github": {
           "name": "Hexacta",
           "public_repos": 68,
@@ -657,9 +626,9 @@
           "hits": []
         },
         "blog": {},
-        "age_years": 26.8
+        "age_years": 26.9
       },
-      "voice_total": 264,
+      "voice_total": 722,
       "voice_share_pct": 0.4
     },
     {
@@ -683,16 +652,11 @@
           "scope": null,
           "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Lagash&search_type=keyword_unordered&media_type=all"
         },
-        "pagespeed": {},
         "tech_stack": [],
         "github": null,
-        "google_ads": {
-          "ads_visible": null,
-          "verified_advertiser": null,
-          "deep_link": "https://adstransparency.google.com/?region=AR&domain=lagash.com"
-        },
+        "pagespeed": {},
         "hn": {
-          "total": 6,
+          "total": 5,
           "hits": [
             {
               "title": "Don't be the out of touch Kung Fu master",
@@ -728,15 +692,13 @@
               "points": null,
               "comments": null,
               "date": "2026-07-24T13:47:42Z"
-            },
-            {
-              "title": "My Impressions of the MacBook Pro M4",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2025-11-01T04:51:59Z"
             }
           ]
+        },
+        "google_ads": {
+          "ads_visible": null,
+          "verified_advertiser": null,
+          "deep_link": "https://adstransparency.google.com/?region=AR&domain=lagash.com"
         },
         "wayback_first": "20010201083400",
         "feed_url": null,
@@ -745,9 +707,9 @@
           "hits": []
         },
         "blog": {},
-        "age_years": 25.8
+        "age_years": 25.9
       },
-      "voice_total": 6,
+      "voice_total": 5,
       "voice_share_pct": 0.0
     },
     {
@@ -761,10 +723,7 @@
       "snippet": "",
       "url": "https://algeiba.com",
       "metrics": {
-        "reddit": {
-          "total": 0,
-          "hits": []
-        },
+        "feed_url": null,
         "meta_ads": {
           "total": 0,
           "ads": [],
@@ -772,85 +731,88 @@
           "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Algeiba&search_type=keyword_unordered&media_type=all"
         },
         "tech_stack": [],
-        "feed_url": null,
+        "reddit": {
+          "total": 0,
+          "hits": []
+        },
         "pagespeed": {},
+        "github": null,
         "google_ads": {
           "ads_visible": null,
           "verified_advertiser": null,
           "deep_link": "https://adstransparency.google.com/?region=AR&domain=algeiba.com"
         },
         "hn": {
-          "total": 3009,
+          "total": 1533,
           "hits": [
             {
-              "title": "Vegemite is not a human right",
+              "title": "Why are Soviet math textbooks so hardcore in comparison to US textbooks? (2017)",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-26T14:32:19Z"
+              "date": "2026-11-02T16:55:33Z"
             },
             {
-              "title": "The new iPad mini",
+              "title": "Why are Soviet math textbooks so hardcore in comparison to US textbooks? (2017)",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-26T14:21:55Z"
+              "date": "2026-11-02T16:37:21Z"
             },
             {
-              "title": "Anthropic S-1",
+              "title": "Why are Soviet math textbooks so hardcore in comparison to US textbooks? (2017)",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-26T14:09:44Z"
+              "date": "2026-11-02T16:25:15Z"
             },
             {
-              "title": "No signs of AI payoff outside the tech sector",
+              "title": "Ask HN: Who wants to be hired? (November 2026)",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-26T08:38:32Z"
+              "date": "2026-11-02T16:16:04Z"
             },
             {
-              "title": "Show HN: TitleArt – Make text like it's 1997",
+              "title": "Why are Soviet math textbooks so hardcore in comparison to US textbooks? (2017)",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-26T07:57:40Z"
+              "date": "2026-11-02T15:56:09Z"
             },
             {
-              "title": "IBM CEO says open weight models are now good and cheap on-prem",
+              "title": "BioWare co-founder: game execs \"have never made a game\" and don't get it",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-26T04:31:14Z"
+              "date": "2026-11-02T15:45:23Z"
             },
             {
-              "title": "Why I Am a Programmer",
+              "title": "School has given straight-A grades to the student, who can't do masic math",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-25T22:11:19Z"
+              "date": "2026-11-02T15:40:29Z"
             },
             {
-              "title": "I don't understand quantum physics (2018)",
+              "title": "Why are Soviet math textbooks so hardcore in comparison to US textbooks? (2017)",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-25T21:16:02Z"
+              "date": "2026-11-02T15:32:14Z"
             }
           ]
         },
-        "github": null,
         "wayback_first": "20140517015820",
         "gdelt": {
           "total": 0,
           "hits": []
         },
         "blog": {},
-        "age_years": 12.8
+        "age_years": 12.9
       },
-      "voice_total": 3009,
-      "voice_share_pct": 4.7
+      "voice_total": 1533,
+      "voice_share_pct": 0.8
     },
     {
       "domain": "globant.com",
@@ -873,6 +835,7 @@
           "scope": null,
           "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Globant&search_type=keyword_unordered&media_type=all"
         },
+        "tech_stack": [],
         "pagespeed": {},
         "feed_url": null,
         "google_ads": {
@@ -880,65 +843,64 @@
           "verified_advertiser": null,
           "deep_link": "https://adstransparency.google.com/?region=AR&domain=globant.com"
         },
-        "tech_stack": [],
         "hn": {
-          "total": 136,
+          "total": 27885,
           "hits": [
             {
-              "title": "Anthropic S-1",
+              "title": "Ask HN: Who is hiring? (November 2026)",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-26T14:13:38Z"
+              "date": "2026-11-02T17:26:48Z"
             },
             {
-              "title": "Switzerland. Block by block. At 1:1 scale",
+              "title": "Ask HN: Who wants to be hired? (November 2026)",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-26T14:04:55Z"
+              "date": "2026-11-02T17:21:44Z"
             },
             {
-              "title": "Lula wins election after final votes tallied",
+              "title": "Ask HN: Who wants to be hired? (November 2026)",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-26T14:00:38Z"
+              "date": "2026-11-02T16:57:25Z"
             },
             {
-              "title": "Anthropic S-1",
+              "title": "Ask HN: Who is hiring? (November 2026)",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-26T13:35:12Z"
+              "date": "2026-11-02T16:56:19Z"
             },
             {
-              "title": "Anthropic S-1",
+              "title": "Ask HN: Who is hiring? (November 2026)",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-26T13:25:31Z"
+              "date": "2026-11-02T16:55:37Z"
             },
             {
-              "title": "Lula wins election after final votes tallied",
+              "title": "Show HN: Wrapped – your neighborhood's year in complaints",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-26T13:18:02Z"
+              "date": "2026-11-02T16:53:05Z"
             },
             {
-              "title": "Anthropic S-1",
+              "title": "Anthropic reports $17B in Q3 revenue, commitments of $895B in revised S-1",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-26T13:16:32Z"
+              "date": "2026-11-02T16:48:08Z"
             },
             {
-              "title": "Show HN: LiveWorldTrends – Real-time 3D globe of global trends and crisis radar",
-              "url": "https://liveworldtrends.com",
+              "title": "The Rise of Electrostates Could Redraw the Global Economy",
+              "url": "https://time.com/article/2026/10/27/electrostates-global-economy/",
               "points": 1,
-              "comments": 1,
-              "date": "2026-10-26T13:11:29Z"
+              "comments": 0,
+              "date": "2026-11-02T16:37:27Z"
             }
           ]
         },
@@ -963,10 +925,10 @@
           "hits": []
         },
         "blog": {},
-        "age_years": 25.8
+        "age_years": 25.9
       },
-      "voice_total": 136,
-      "voice_share_pct": 0.2
+      "voice_total": 27885,
+      "voice_share_pct": 15.1
     },
     {
       "domain": "intersystec.com",
@@ -998,78 +960,84 @@
           "verified_advertiser": null,
           "deep_link": "https://adstransparency.google.com/?region=AR&domain=intersystec.com"
         },
+        "wayback_first": "20011203045021",
         "hn": {
-          "total": 405,
+          "total": 93776,
           "hits": [
             {
-              "title": "Anthropic S-1",
+              "title": "Why are Soviet math textbooks so hardcore in comparison to US textbooks? (2017)",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-26T14:31:47Z"
+              "date": "2026-11-02T17:31:57Z"
             },
             {
-              "title": "Anthropic S-1",
+              "title": "Show HN: Subvocal – Talk to your computer without making noise",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-26T14:27:26Z"
+              "date": "2026-11-02T17:31:53Z"
             },
             {
-              "title": "The result of the C++26 DIS ballot",
+              "title": "Ask HN: Who wants to be hired? (November 2026)",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-26T14:26:32Z"
+              "date": "2026-11-02T17:31:28Z"
             },
             {
-              "title": "Anthropic S-1",
+              "title": "Ask HN: Who wants to be hired? (November 2026)",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-26T14:26:12Z"
+              "date": "2026-11-02T17:29:32Z"
             },
             {
-              "title": "Peter Thiel, the tech oligarch who believes in the Antichrist",
+              "title": "Anthropic reports $17B in Q3 revenue, commitments of $895B in revised S-1",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-26T14:25:50Z"
+              "date": "2026-11-02T17:27:26Z"
             },
             {
-              "title": "Superhuman Hardware Design Is the Easy Part",
+              "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-26T14:21:29Z"
+              "date": "2026-11-02T17:27:20Z"
             },
             {
-              "title": "Anthropic S-1",
+              "title": "Ask HN: Who wants to be hired? (November 2026)",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-26T14:16:10Z"
+              "date": "2026-11-02T17:21:44Z"
             },
             {
-              "title": "It's time to come back to Firefox [video]",
+              "title": "Ask HN: Who wants to be hired? (November 2026)",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-10-26T14:14:20Z"
+              "date": "2026-11-02T17:18:07Z"
             }
           ]
         },
-        "wayback_first": "20011203045021",
         "gdelt": {
           "total": 0,
           "hits": []
         },
         "blog": {},
-        "age_years": 25.8
+        "age_years": 25.9
       },
-      "voice_total": 405,
-      "voice_share_pct": 0.6
+      "voice_total": 93776,
+      "voice_share_pct": 50.9
     }
   ],
-  "insights": []
+  "insights": [
+    {
+      "title": "Share of voice bajo (posición #6)",
+      "body": "Los tres líderes —Intersys, Practia, Globant— concentran la conversación en HN + Reddit + prensa global.",
+      "severity": "info"
+    }
+  ]
 }

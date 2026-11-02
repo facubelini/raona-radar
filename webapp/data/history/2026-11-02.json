@@ -1,0 +1,1043 @@
+{
+  "generated_at": "2026-11-02T17:32:58.690732Z",
+  "scope_label": "Tech consulting · Argentina",
+  "country": "AR",
+  "own": {
+    "domain": "raona.com",
+    "score": null,
+    "title": "",
+    "snippet": "",
+    "source": "self",
+    "url": "https://raona.com",
+    "name": "Raona",
+    "metrics": {
+      "reddit": {
+        "total": 0,
+        "hits": []
+      },
+      "meta_ads": {
+        "total": 0,
+        "ads": [],
+        "scope": null,
+        "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Raona&search_type=keyword_unordered&media_type=all"
+      },
+      "pagespeed": {},
+      "google_ads": {
+        "ads_visible": null,
+        "verified_advertiser": null,
+        "deep_link": "https://adstransparency.google.com/?region=AR&domain=raona.com"
+      },
+      "wayback_first": "20030305165433",
+      "feed_url": "https://raona.com/feed/",
+      "hn": {
+        "total": 853,
+        "hits": [
+          {
+            "title": "Ask HN: Who wants to be hired? (November 2026)",
+            "url": "",
+            "points": null,
+            "comments": null,
+            "date": "2026-11-02T16:02:36Z"
+          },
+          {
+            "title": "Radiation Map of the World",
+            "url": "",
+            "points": null,
+            "comments": null,
+            "date": "2026-11-01T21:59:03Z"
+          },
+          {
+            "title": "Patrick Stewart taught us what good men do with power",
+            "url": "",
+            "points": null,
+            "comments": null,
+            "date": "2026-11-01T19:36:46Z"
+          },
+          {
+            "title": "The Golden Age",
+            "url": "https://dark.ronacher.eu/2026/10/31/golden-age/",
+            "points": 5,
+            "comments": 0,
+            "date": "2026-10-31T20:10:23Z"
+          },
+          {
+            "title": "Intel plunges 25%, triggers global chip rout on bleak outlook",
+            "url": "",
+            "points": null,
+            "comments": null,
+            "date": "2026-10-30T14:07:23Z"
+          },
+          {
+            "title": "Evidence of a spying operation by ICE against left-wing social movements",
+            "url": "",
+            "points": null,
+            "comments": null,
+            "date": "2026-10-28T16:47:22Z"
+          },
+          {
+            "title": "Wikipedia's Cleanup of AI-Generated Content",
+            "url": "",
+            "points": null,
+            "comments": null,
+            "date": "2026-10-27T15:27:13Z"
+          },
+          {
+            "title": "Three new discoveries in mathematics, computer science, and physics",
+            "url": "",
+            "points": null,
+            "comments": null,
+            "date": "2026-10-27T09:50:35Z"
+          }
+        ]
+      },
+      "tech_stack": [
+        "Elementor",
+        "Google Tag Manager",
+        "HubSpot",
+        "Meta Pixel",
+        "Nginx",
+        "WP Rocket",
+        "WordPress"
+      ],
+      "github": {
+        "name": "Raona Enginyers, S.L.",
+        "public_repos": 8,
+        "followers": 1,
+        "total_stars": 2,
+        "total_forks": 8,
+        "recent_active_repos": 0,
+        "top_languages": [
+          [
+            "C#",
+            1
+          ],
+          [
+            "PowerShell",
+            1
+          ],
+          [
+            "HTML",
+            1
+          ]
+        ],
+        "created_at": "2019-07-16T10:28:58Z"
+      },
+      "gdelt": {
+        "total": 0,
+        "hits": []
+      },
+      "blog": {
+        "total_entries_in_feed": 10,
+        "posts_last_90d": 10,
+        "recent_titles": [
+          "GPT-6.1 Terra en Microsoft Foundry: el agente que mira la pantalla baja de precio",
+          "Copilot en SharePoint: el 1 de noviembre dejan de aplicarse tus exclusiones por PowerShell",
+          "Power Apps endurece el control de licencias en 2027",
+          "Hablemos de Gemini 4 Argon: IA para agentes complejos",
+          "¿Qué es Digital Workplace y para qué sirve?",
+          "Hablemos de adopción de IA: más allá de las licencias",
+          "¿Tienes 20 agentes funcionando… o no?",
+          "Raona AI Frontier: impulsando la transformación empresarial con IA"
+        ],
+        "feed_url": "https://raona.com/feed/"
+      },
+      "age_years": 23.9
+    },
+    "voice_total": 853,
+    "voice_share_pct": 0.5
+  },
+  "competitors": [
+    {
+      "domain": "baufest.com",
+      "name": "Baufest",
+      "name_override": "Baufest",
+      "note": "Consultora argentina con práctica de Modern Workplace y M365",
+      "source": "seed",
+      "score": 1,
+      "title": "",
+      "snippet": "",
+      "url": "https://baufest.com",
+      "metrics": {
+        "pagespeed": {},
+        "meta_ads": {
+          "total": 0,
+          "ads": [],
+          "scope": null,
+          "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Baufest&search_type=keyword_unordered&media_type=all"
+        },
+        "reddit": {
+          "total": 0,
+          "hits": []
+        },
+        "hn": {
+          "total": 1281,
+          "hits": [
+            {
+              "title": "Postgres 19 is late because so many more bugs are being found now",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-02T16:37:56Z"
+            },
+            {
+              "title": "Last night an AI agent performed brain surgery on a mouse",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-02T16:17:39Z"
+            },
+            {
+              "title": "Nine killed as small jet crashes on Florida street",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-02T14:53:14Z"
+            },
+            {
+              "title": "Electrification Could Cut Global Energy Use in Half",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-02T02:21:05Z"
+            },
+            {
+              "title": "Stackless Python is an enhanced version of the Python programming language",
+              "url": "https://github.com/stackless-dev/stackless/wiki/",
+              "points": 2,
+              "comments": 0,
+              "date": "2026-11-01T23:05:28Z"
+            },
+            {
+              "title": "Are We All Too Cynical for Star Trek?",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-01T21:55:49Z"
+            },
+            {
+              "title": "Star Trek Writers' Guides. (2024)",
+              "url": "https://pervocracy.com/pdf-hobby/star-trek-writers-guides/",
+              "points": 5,
+              "comments": 0,
+              "date": "2026-11-01T21:20:55Z"
+            },
+            {
+              "title": "Are We All Too Cynical for Star Trek?",
+              "url": "https://www.thebulwark.com/p/are-we-all-too-cynical-for-star-trek",
+              "points": 8,
+              "comments": 5,
+              "date": "2026-11-01T20:11:50Z"
+            }
+          ]
+        },
+        "google_ads": {
+          "ads_visible": null,
+          "verified_advertiser": null,
+          "deep_link": "https://adstransparency.google.com/?region=AR&domain=baufest.com"
+        },
+        "tech_stack": [
+          "Next.js"
+        ],
+        "github": {
+          "name": "Baufest",
+          "public_repos": 12,
+          "followers": 61,
+          "total_stars": 0,
+          "total_forks": 1,
+          "recent_active_repos": 2,
+          "top_languages": [
+            [
+              "Python",
+              5
+            ],
+            [
+              "TypeScript",
+              2
+            ],
+            [
+              "JavaScript",
+              1
+            ],
+            [
+              "HTML",
+              1
+            ]
+          ],
+          "created_at": "2023-08-23T15:44:19Z"
+        },
+        "wayback_first": "19980123020759",
+        "feed_url": null,
+        "gdelt": {
+          "total": 0,
+          "hits": []
+        },
+        "blog": {},
+        "age_years": 28.9
+      },
+      "voice_total": 1281,
+      "voice_share_pct": 0.7
+    },
+    {
+      "domain": "snoopconsulting.com",
+      "name": "Snoop Consulting",
+      "name_override": "Snoop Consulting",
+      "note": "Microsoft Gold Partner en Argentina, foco Cloud y Workplace",
+      "source": "seed",
+      "score": 1,
+      "title": "",
+      "snippet": "",
+      "url": "https://snoopconsulting.com",
+      "metrics": {
+        "pagespeed": {},
+        "meta_ads": {
+          "total": 0,
+          "ads": [],
+          "scope": null,
+          "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Snoop+Consulting&search_type=keyword_unordered&media_type=all"
+        },
+        "reddit": {
+          "total": 0,
+          "hits": []
+        },
+        "tech_stack": [
+          "Google Tag Manager",
+          "Nginx",
+          "WordPress"
+        ],
+        "feed_url": "https://snoopconsulting.com/feed/",
+        "google_ads": {
+          "ads_visible": null,
+          "verified_advertiser": null,
+          "deep_link": "https://adstransparency.google.com/?region=AR&domain=snoopconsulting.com"
+        },
+        "hn": {
+          "total": 3,
+          "hits": [
+            {
+              "title": "New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-08-19T03:19:41Z"
+            },
+            {
+              "title": "Show HN: I built another to do list. But it does a lot",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-04-30T17:13:51Z"
+            },
+            {
+              "title": "Kernighan's Lever",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2025-12-22T03:44:16Z"
+            }
+          ]
+        },
+        "github": {
+          "name": "Snoop-Consulting",
+          "public_repos": 0,
+          "followers": 0,
+          "total_stars": 0,
+          "total_forks": 0,
+          "recent_active_repos": 0,
+          "top_languages": [],
+          "created_at": "2026-09-22T17:13:31Z"
+        },
+        "wayback_first": "20040226155141",
+        "gdelt": {
+          "total": 0,
+          "hits": []
+        },
+        "blog": {
+          "total_entries_in_feed": 10,
+          "posts_last_90d": 6,
+          "recent_titles": [
+            "Snoop Consulting fue elegida finalista en dos categorías de los Premios Sadosky 2026",
+            "Mano a mano con Adam Smith: «El mercado se olvidó de la ética, la justicia y el propósito»",
+            "¿Tu empresa está atrapada en la «Trampa del Acuerdo»? Descubrí cómo Docusign IAM revoluciona la gestión de contratos",
+            "Desarrollo de software agéntico (AI-SDLC): La fórmula para escalar sin caos operativo",
+            "El secreto de ClickUp para escalar su propio marketing",
+            "Es la demanda, estúpido",
+            "Cómo recuperar miles de horas al año",
+            "El costo oculto de la fragmentación digital"
+          ],
+          "feed_url": "https://snoopconsulting.com/feed/"
+        },
+        "age_years": 22.9
+      },
+      "voice_total": 3,
+      "voice_share_pct": 0.0
+    },
+    {
+      "domain": "practia.global",
+      "name": "Practia",
+      "name_override": "Practia",
+      "note": "Consultora de origen argentino con presencia regional",
+      "source": "seed",
+      "score": 1,
+      "title": "",
+      "snippet": "",
+      "url": "https://practia.global",
+      "metrics": {
+        "reddit": {
+          "total": 0,
+          "hits": []
+        },
+        "meta_ads": {
+          "total": 0,
+          "ads": [],
+          "scope": null,
+          "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Practia&search_type=keyword_unordered&media_type=all"
+        },
+        "pagespeed": {},
+        "feed_url": "https://practia.global/feed/",
+        "google_ads": {
+          "ads_visible": null,
+          "verified_advertiser": null,
+          "deep_link": "https://adstransparency.google.com/?region=AR&domain=practia.global"
+        },
+        "tech_stack": [
+          "Elementor",
+          "WordPress"
+        ],
+        "hn": {
+          "total": 58115,
+          "hits": [
+            {
+              "title": "Proton's AI manifesto for software engineering",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-02T17:27:06Z"
+            },
+            {
+              "title": "Why are Soviet math textbooks so hardcore in comparison to US textbooks? (2017)",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-02T17:26:10Z"
+            },
+            {
+              "title": "Last night an AI agent performed brain surgery on a mouse",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-02T17:26:06Z"
+            },
+            {
+              "title": "Anthropic reports $17B in Q3 revenue, commitments of $895B in revised S-1",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-02T17:26:04Z"
+            },
+            {
+              "title": "GPT-Rosalind-6 System Card Addendum",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-02T17:23:31Z"
+            },
+            {
+              "title": "Partial Operator Precedence",
+              "url": "https://ziglang.org/devlog/2026/#2026-10-24",
+              "points": 2,
+              "comments": 0,
+              "date": "2026-11-02T17:22:20Z"
+            },
+            {
+              "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-02T17:21:49Z"
+            },
+            {
+              "title": "Ask HN: Who wants to be hired? (November 2026)",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-02T17:21:04Z"
+            }
+          ]
+        },
+        "github": {
+          "name": "Practia",
+          "public_repos": 0,
+          "followers": 0,
+          "total_stars": 0,
+          "total_forks": 0,
+          "recent_active_repos": 0,
+          "top_languages": [],
+          "created_at": "2018-10-31T12:21:42Z"
+        },
+        "wayback_first": "20161117063710",
+        "gdelt": {
+          "total": 0,
+          "hits": []
+        },
+        "blog": {
+          "total_entries_in_feed": 10,
+          "posts_last_90d": 10,
+          "recent_titles": [
+            "Equipes adaptativas: a melhor alternativa para cada desafio",
+            "Gestão adaptativa: o melhor do gerenciamento de projetos e os benefícios da agilidade",
+            "A evolução das PMOs na era da IA",
+            "[Opinião] Daniel Yankelevich «Precisávamos de uma nova engenharia de software. E ela já está surgindo.»",
+            "[Opinião] Carlos Lacchini «Ninguém assinou: quanta autonomia tem a sua inteligência artificial?»",
+            "[Opinião] Gilberto Straffacci: “O que acontece quando não contamos com governança de IA em nossa empresa”",
+            "[Caso Mutual de Seguridad] Andrea Bergeret comentou sobre a jornada de transformação digital da Mutual de Seguridad",
+            "[Entrevista] Boris Bustos: “A IA é um ativo de transformação do modelo operacional da minha organização”"
+          ],
+          "feed_url": "https://practia.global/feed/"
+        },
+        "age_years": 10.9
+      },
+      "voice_total": 58115,
+      "voice_share_pct": 31.6
+    },
+    {
+      "domain": "hexacta.com",
+      "name": "Hexacta",
+      "name_override": "Hexacta",
+      "note": "Software factory argentina con servicios M365 y custom dev",
+      "source": "seed",
+      "score": 1,
+      "title": "",
+      "snippet": "",
+      "url": "https://hexacta.com",
+      "metrics": {
+        "tech_stack": [],
+        "meta_ads": {
+          "total": 0,
+          "ads": [],
+          "scope": null,
+          "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Hexacta&search_type=keyword_unordered&media_type=all"
+        },
+        "feed_url": null,
+        "reddit": {
+          "total": 0,
+          "hits": []
+        },
+        "pagespeed": {},
+        "google_ads": {
+          "ads_visible": null,
+          "verified_advertiser": null,
+          "deep_link": "https://adstransparency.google.com/?region=AR&domain=hexacta.com"
+        },
+        "wayback_first": "20001019064911",
+        "hn": {
+          "total": 722,
+          "hits": [
+            {
+              "title": "BioWare co-founder: game execs \"have never made a game\" and don't get it",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-02T17:24:13Z"
+            },
+            {
+              "title": "WTF Ubuntu?",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-02T17:18:12Z"
+            },
+            {
+              "title": "Show HN: VHS Camera – Run your camera or videos through a simulated VHS signal",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-02T17:16:54Z"
+            },
+            {
+              "title": "The AI cost of JavaScript frameworks",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-02T17:04:40Z"
+            },
+            {
+              "title": "Ask HN: Who is hiring? (November 2026)",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-02T17:03:38Z"
+            },
+            {
+              "title": "Anthropic reports $17B in Q3 revenue, commitments of $895B in revised S-1",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-02T16:52:01Z"
+            },
+            {
+              "title": "OccupySaaS",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-02T16:50:48Z"
+            },
+            {
+              "title": "Moving our warehouse off DuckDB",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-02T16:45:28Z"
+            }
+          ]
+        },
+        "github": {
+          "name": "Hexacta",
+          "public_repos": 68,
+          "followers": 3,
+          "total_stars": 183,
+          "total_forks": 56,
+          "recent_active_repos": 0,
+          "top_languages": [
+            [
+              "JavaScript",
+              26
+            ],
+            [
+              "Python",
+              5
+            ],
+            [
+              "Java",
+              5
+            ],
+            [
+              "Ruby",
+              5
+            ],
+            [
+              "C#",
+              4
+            ]
+          ],
+          "created_at": "2011-12-05T13:07:48Z"
+        },
+        "gdelt": {
+          "total": 0,
+          "hits": []
+        },
+        "blog": {},
+        "age_years": 26.9
+      },
+      "voice_total": 722,
+      "voice_share_pct": 0.4
+    },
+    {
+      "domain": "lagash.com",
+      "name": "Lagash",
+      "name_override": "Lagash",
+      "note": "LatAm tech consultancy con práctica Microsoft",
+      "source": "seed",
+      "score": 1,
+      "title": "",
+      "snippet": "",
+      "url": "https://lagash.com",
+      "metrics": {
+        "reddit": {
+          "total": 0,
+          "hits": []
+        },
+        "meta_ads": {
+          "total": 0,
+          "ads": [],
+          "scope": null,
+          "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Lagash&search_type=keyword_unordered&media_type=all"
+        },
+        "tech_stack": [],
+        "github": null,
+        "pagespeed": {},
+        "hn": {
+          "total": 5,
+          "hits": [
+            {
+              "title": "Don't be the out of touch Kung Fu master",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-09-13T05:05:18Z"
+            },
+            {
+              "title": "Show HN: AI Brand Visibility for Free Forever",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-09-10T15:36:17Z"
+            },
+            {
+              "title": "Show HN: SagaShield – ACID transactions and security guardrails for AI agents",
+              "url": "https://github.com/sebastianmechno-sys/sagashield",
+              "points": 1,
+              "comments": 0,
+              "date": "2026-09-08T22:16:00Z"
+            },
+            {
+              "title": "Doomscrolling ourselves to death",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-09-06T23:05:08Z"
+            },
+            {
+              "title": "How the God of Israel Was Born",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-07-24T13:47:42Z"
+            }
+          ]
+        },
+        "google_ads": {
+          "ads_visible": null,
+          "verified_advertiser": null,
+          "deep_link": "https://adstransparency.google.com/?region=AR&domain=lagash.com"
+        },
+        "wayback_first": "20010201083400",
+        "feed_url": null,
+        "gdelt": {
+          "total": 0,
+          "hits": []
+        },
+        "blog": {},
+        "age_years": 25.9
+      },
+      "voice_total": 5,
+      "voice_share_pct": 0.0
+    },
+    {
+      "domain": "algeiba.com",
+      "name": "Algeiba",
+      "name_override": "Algeiba",
+      "note": "Microsoft Partner argentino, foco corporativo",
+      "source": "seed",
+      "score": 1,
+      "title": "",
+      "snippet": "",
+      "url": "https://algeiba.com",
+      "metrics": {
+        "feed_url": null,
+        "meta_ads": {
+          "total": 0,
+          "ads": [],
+          "scope": null,
+          "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Algeiba&search_type=keyword_unordered&media_type=all"
+        },
+        "tech_stack": [],
+        "reddit": {
+          "total": 0,
+          "hits": []
+        },
+        "pagespeed": {},
+        "github": null,
+        "google_ads": {
+          "ads_visible": null,
+          "verified_advertiser": null,
+          "deep_link": "https://adstransparency.google.com/?region=AR&domain=algeiba.com"
+        },
+        "hn": {
+          "total": 1533,
+          "hits": [
+            {
+              "title": "Why are Soviet math textbooks so hardcore in comparison to US textbooks? (2017)",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-02T16:55:33Z"
+            },
+            {
+              "title": "Why are Soviet math textbooks so hardcore in comparison to US textbooks? (2017)",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-02T16:37:21Z"
+            },
+            {
+              "title": "Why are Soviet math textbooks so hardcore in comparison to US textbooks? (2017)",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-02T16:25:15Z"
+            },
+            {
+              "title": "Ask HN: Who wants to be hired? (November 2026)",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-02T16:16:04Z"
+            },
+            {
+              "title": "Why are Soviet math textbooks so hardcore in comparison to US textbooks? (2017)",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-02T15:56:09Z"
+            },
+            {
+              "title": "BioWare co-founder: game execs \"have never made a game\" and don't get it",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-02T15:45:23Z"
+            },
+            {
+              "title": "School has given straight-A grades to the student, who can't do masic math",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-02T15:40:29Z"
+            },
+            {
+              "title": "Why are Soviet math textbooks so hardcore in comparison to US textbooks? (2017)",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-02T15:32:14Z"
+            }
+          ]
+        },
+        "wayback_first": "20140517015820",
+        "gdelt": {
+          "total": 0,
+          "hits": []
+        },
+        "blog": {},
+        "age_years": 12.9
+      },
+      "voice_total": 1533,
+      "voice_share_pct": 0.8
+    },
+    {
+      "domain": "globant.com",
+      "name": "Globant",
+      "name_override": "Globant",
+      "note": "Player grande de referencia (no competidor directo pero marca el techo)",
+      "source": "seed",
+      "score": 1,
+      "title": "",
+      "snippet": "",
+      "url": "https://globant.com",
+      "metrics": {
+        "reddit": {
+          "total": 0,
+          "hits": []
+        },
+        "meta_ads": {
+          "total": 0,
+          "ads": [],
+          "scope": null,
+          "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Globant&search_type=keyword_unordered&media_type=all"
+        },
+        "tech_stack": [],
+        "pagespeed": {},
+        "feed_url": null,
+        "google_ads": {
+          "ads_visible": null,
+          "verified_advertiser": null,
+          "deep_link": "https://adstransparency.google.com/?region=AR&domain=globant.com"
+        },
+        "hn": {
+          "total": 27885,
+          "hits": [
+            {
+              "title": "Ask HN: Who is hiring? (November 2026)",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-02T17:26:48Z"
+            },
+            {
+              "title": "Ask HN: Who wants to be hired? (November 2026)",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-02T17:21:44Z"
+            },
+            {
+              "title": "Ask HN: Who wants to be hired? (November 2026)",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-02T16:57:25Z"
+            },
+            {
+              "title": "Ask HN: Who is hiring? (November 2026)",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-02T16:56:19Z"
+            },
+            {
+              "title": "Ask HN: Who is hiring? (November 2026)",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-02T16:55:37Z"
+            },
+            {
+              "title": "Show HN: Wrapped – your neighborhood's year in complaints",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-02T16:53:05Z"
+            },
+            {
+              "title": "Anthropic reports $17B in Q3 revenue, commitments of $895B in revised S-1",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-02T16:48:08Z"
+            },
+            {
+              "title": "The Rise of Electrostates Could Redraw the Global Economy",
+              "url": "https://time.com/article/2026/10/27/electrostates-global-economy/",
+              "points": 1,
+              "comments": 0,
+              "date": "2026-11-02T16:37:27Z"
+            }
+          ]
+        },
+        "github": {
+          "name": "Globant",
+          "public_repos": 1,
+          "followers": 65,
+          "total_stars": 0,
+          "total_forks": 0,
+          "recent_active_repos": 0,
+          "top_languages": [
+            [
+              "Python",
+              1
+            ]
+          ],
+          "created_at": "2010-09-15T21:16:05Z"
+        },
+        "wayback_first": "20010720182509",
+        "gdelt": {
+          "total": 0,
+          "hits": []
+        },
+        "blog": {},
+        "age_years": 25.9
+      },
+      "voice_total": 27885,
+      "voice_share_pct": 15.1
+    },
+    {
+      "domain": "intersystec.com",
+      "name": "Intersys",
+      "name_override": "Intersys",
+      "note": "Microsoft Partner argentino",
+      "source": "seed",
+      "score": 1,
+      "title": "",
+      "snippet": "",
+      "url": "https://intersystec.com",
+      "metrics": {
+        "feed_url": null,
+        "meta_ads": {
+          "total": 0,
+          "ads": [],
+          "scope": null,
+          "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Intersys&search_type=keyword_unordered&media_type=all"
+        },
+        "tech_stack": [],
+        "reddit": {
+          "total": 0,
+          "hits": []
+        },
+        "pagespeed": {},
+        "github": null,
+        "google_ads": {
+          "ads_visible": null,
+          "verified_advertiser": null,
+          "deep_link": "https://adstransparency.google.com/?region=AR&domain=intersystec.com"
+        },
+        "wayback_first": "20011203045021",
+        "hn": {
+          "total": 93776,
+          "hits": [
+            {
+              "title": "Why are Soviet math textbooks so hardcore in comparison to US textbooks? (2017)",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-02T17:31:57Z"
+            },
+            {
+              "title": "Show HN: Subvocal – Talk to your computer without making noise",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-02T17:31:53Z"
+            },
+            {
+              "title": "Ask HN: Who wants to be hired? (November 2026)",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-02T17:31:28Z"
+            },
+            {
+              "title": "Ask HN: Who wants to be hired? (November 2026)",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-02T17:29:32Z"
+            },
+            {
+              "title": "Anthropic reports $17B in Q3 revenue, commitments of $895B in revised S-1",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-02T17:27:26Z"
+            },
+            {
+              "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-02T17:27:20Z"
+            },
+            {
+              "title": "Ask HN: Who wants to be hired? (November 2026)",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-02T17:21:44Z"
+            },
+            {
+              "title": "Ask HN: Who wants to be hired? (November 2026)",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-02T17:18:07Z"
+            }
+          ]
+        },
+        "gdelt": {
+          "total": 0,
+          "hits": []
+        },
+        "blog": {},
+        "age_years": 25.9
+      },
+      "voice_total": 93776,
+      "voice_share_pct": 50.9
+    }
+  ],
+  "insights": [
+    {
+      "title": "Share of voice bajo (posición #6)",
+      "body": "Los tres líderes —Intersys, Practia, Globant— concentran la conversación en HN + Reddit + prensa global.",
+      "severity": "info"
+    }
+  ]
+}
