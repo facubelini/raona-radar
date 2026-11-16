@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T17:56:56.997366Z",
+  "generated_at": "2026-11-16T17:39:41.798751Z",
   "scope_label": "Tech consulting · Argentina",
   "country": "AR",
   "own": {
@@ -22,65 +22,64 @@
         "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Raona&search_type=keyword_unordered&media_type=all"
       },
       "pagespeed": {},
-      "wayback_first": "20030305165433",
       "hn": {
-        "total": 831,
+        "total": 859,
         "hits": [
           {
-            "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
-            "url": "",
-            "points": null,
-            "comments": null,
-            "date": "2026-11-09T17:21:18Z"
+            "title": "What CSS Appearance Does",
+            "url": "https://ronaldsvilcins.com/2026/11/10/what-css-appearance-actually-does/",
+            "points": 1,
+            "comments": 0,
+            "date": "2026-11-16T13:08:33Z"
           },
           {
-            "title": "I'm not convinced the AI bubble exists",
-            "url": "",
-            "points": null,
-            "comments": null,
-            "date": "2026-11-09T16:10:41Z"
+            "title": "Show HN: Gami.Fied – Open-source, self-hosted gamification engine (AGPL-3.0)",
+            "url": "https://gami.fied.cc/",
+            "points": 1,
+            "comments": 0,
+            "date": "2026-11-15T19:40:07Z"
           },
           {
-            "title": "Declarative Dragging",
+            "title": "Osint Case Studies",
             "url": "",
             "points": null,
             "comments": null,
-            "date": "2026-11-09T15:25:56Z"
+            "date": "2026-11-15T05:19:18Z"
           },
           {
-            "title": "Humans will never again create a project like Wikipedia",
+            "title": "Security Agencies Worldwide Found to Use Ad-Based Surveillance System",
             "url": "",
             "points": null,
             "comments": null,
-            "date": "2026-11-09T13:56:48Z"
+            "date": "2026-11-14T08:09:29Z"
           },
           {
-            "title": "I'm not convinced the AI bubble exists",
+            "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
             "url": "",
             "points": null,
             "comments": null,
-            "date": "2026-11-09T07:47:03Z"
+            "date": "2026-11-14T07:09:55Z"
           },
           {
-            "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
-            "url": "",
-            "points": null,
-            "comments": null,
-            "date": "2026-11-09T02:08:09Z"
+            "title": "End of Mercenary Programmers",
+            "url": "https://ronakgothi.com/p/end-of-mercenary-programmers/",
+            "points": 1,
+            "comments": 0,
+            "date": "2026-11-13T09:41:01Z"
           },
           {
-            "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+            "title": "Data centers need power – lower income, rural residents pay the price",
             "url": "",
             "points": null,
             "comments": null,
-            "date": "2026-11-09T01:56:25Z"
+            "date": "2026-11-13T01:58:12Z"
           },
           {
-            "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+            "title": "Nvidia is preparing to oust Jensen Huang",
             "url": "",
             "points": null,
             "comments": null,
-            "date": "2026-11-08T21:05:14Z"
+            "date": "2026-11-12T01:43:23Z"
           }
         ]
       },
@@ -89,6 +88,16 @@
         "verified_advertiser": null,
         "deep_link": "https://adstransparency.google.com/?region=AR&domain=raona.com"
       },
+      "feed_url": "https://raona.com/feed/",
+      "tech_stack": [
+        "Elementor",
+        "Google Tag Manager",
+        "HubSpot",
+        "Meta Pixel",
+        "Nginx",
+        "WP Rocket",
+        "WordPress"
+      ],
       "github": {
         "name": "Raona Enginyers, S.L.",
         "public_repos": 8,
@@ -112,16 +121,7 @@
         ],
         "created_at": "2019-07-16T10:28:58Z"
       },
-      "tech_stack": [
-        "Elementor",
-        "Google Tag Manager",
-        "HubSpot",
-        "Meta Pixel",
-        "Nginx",
-        "WP Rocket",
-        "WordPress"
-      ],
-      "feed_url": "https://raona.com/feed/",
+      "wayback_first": "20030305165433",
       "gdelt": {
         "total": 0,
         "hits": []
@@ -130,21 +130,21 @@
         "total_entries_in_feed": 10,
         "posts_last_90d": 10,
         "recent_titles": [
+          "¿Por qué nadie entra en tu intranet?",
           "La mejor IA también puede ser la equivocada",
           "Ya no construyo informes, los audito",
           "Lecciones aprendidas acompañando organizaciones en procesos de cambio",
           "GPT-6.1 Terra en Microsoft Foundry: el agente que mira la pantalla baja de precio",
           "Copilot en SharePoint: el 1 de noviembre dejan de aplicarse tus exclusiones por PowerShell",
           "Power Apps endurece el control de licencias en 2027",
-          "Hablemos de Gemini 4 Argon: IA para agentes complejos",
-          "¿Qué es Digital Workplace y para qué sirve?"
+          "Hablemos de Gemini 4 Argon: IA para agentes complejos"
         ],
         "feed_url": "https://raona.com/feed/"
       },
       "age_years": 23.9
     },
-    "voice_total": 831,
-    "voice_share_pct": 0.9
+    "voice_total": 859,
+    "voice_share_pct": 0.6
   },
   "competitors": [
     {
@@ -170,70 +170,69 @@
         },
         "pagespeed": {},
         "hn": {
-          "total": 107,
+          "total": 112,
           "hits": [
             {
-              "title": "Webvan: The Dotcom Bubble's Biggest Bust",
-              "url": "https://streetfins.com/webvan-the-dotcom-bubbles-biggest-bust/",
+              "title": "Coffeehouses and the Rise of Science [pdf]",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-16T14:34:54Z"
+            },
+            {
+              "title": "Moloch, AI and Capitalism: The System Eating Itself [video]",
+              "url": "https://www.youtube.com/watch?v=KCSsKV5F4xc",
               "points": 1,
               "comments": 0,
-              "date": "2026-11-09T17:50:01Z"
+              "date": "2026-11-16T13:11:18Z"
             },
             {
-              "title": "The Assyrian Dictionary of the Oriental Institute of the University of Chicago",
-              "url": "https://isac.uchicago.edu/publications/search",
-              "points": 2,
-              "comments": 0,
-              "date": "2026-11-09T15:13:07Z"
-            },
-            {
-              "title": "Ur-Nammu Founder of the Sumerian Renaissance",
+              "title": "Ask HN: How likely is Jensen Huang's return as CEO to Nvidia?",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-11-09T14:42:00Z"
+              "date": "2026-11-16T12:19:53Z"
             },
             {
-              "title": "Ur-Nammu Founder of the Sumerian Renaissance",
+              "title": "Do House members' stock trades beat the market? A test of 8,900 trades",
+              "url": "https://arkanumdata.com/research/house-trades",
+              "points": 119,
+              "comments": 131,
+              "date": "2026-11-15T19:46:02Z"
+            },
+            {
+              "title": "Jensen Huang resigns",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-11-09T13:24:48Z"
+              "date": "2026-11-13T12:49:22Z"
             },
             {
-              "title": "Bain Capital, Bridge Data Centres (BDC)",
-              "url": "https://www.bridgedatacentres.com/who-we-are/",
-              "points": 4,
-              "comments": 0,
-              "date": "2026-11-09T12:37:55Z"
-            },
-            {
-              "title": "Sumerian Language",
-              "url": "https://etcsl.orinst.ox.ac.uk/edition2/language.php",
-              "points": 1,
-              "comments": 0,
-              "date": "2026-11-09T12:32:16Z"
-            },
-            {
-              "title": "Unlocking any car from X brand in most of the world",
+              "title": "I'm not convinced the AI bubble exists",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-11-09T12:15:25Z"
+              "date": "2026-11-09T08:32:19Z"
             },
             {
-              "title": "The French Cake Cooked on a Spit (2018) [video]",
+              "title": "Goodbye Claude, Hello Pi",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-11-09T10:39:09Z"
+              "date": "2026-11-08T10:56:57Z"
+            },
+            {
+              "title": "HackerTube: YouTube built from videos recommended by HN",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-01T00:00:55Z"
             }
           ]
         },
         "tech_stack": [
           "Next.js"
         ],
-        "wayback_first": "19980123020759",
         "google_ads": {
           "ads_visible": null,
           "verified_advertiser": null,
@@ -266,6 +265,7 @@
           ],
           "created_at": "2023-08-23T15:44:19Z"
         },
+        "wayback_first": "19980123020759",
         "feed_url": null,
         "gdelt": {
           "total": 0,
@@ -274,7 +274,7 @@
         "blog": {},
         "age_years": 28.9
       },
-      "voice_total": 107,
+      "voice_total": 112,
       "voice_share_pct": 0.1
     },
     {
@@ -299,23 +299,9 @@
           "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Snoop+Consulting&search_type=keyword_unordered&media_type=all"
         },
         "pagespeed": {},
-        "feed_url": "https://snoopconsulting.com/feed/",
-        "tech_stack": [
-          "Google Tag Manager",
-          "Nginx",
-          "WordPress"
-        ],
-        "wayback_first": "20040226155141",
         "hn": {
-          "total": 14,
+          "total": 3,
           "hits": [
-            {
-              "title": "Anthropic candidates face blunt money question",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2026-08-24T12:14:36Z"
-            },
             {
               "title": "New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]",
               "url": "",
@@ -324,54 +310,33 @@
               "date": "2026-08-19T03:19:41Z"
             },
             {
-              "title": "Nashville uses eminent domain to block data center near zoo",
+              "title": "Show HN: I built another to do list. But it does a lot",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-08-06T12:24:44Z"
+              "date": "2026-04-30T17:13:51Z"
             },
             {
-              "title": "Protesting Flock, Arizona Man Presents Plan to Surveil Government Officials",
+              "title": "Kernighan's Lever",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-07-28T17:22:33Z"
-            },
-            {
-              "title": "Passkeys were invented by engineers with zero understanding of consumer brain",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2026-07-22T15:40:48Z"
-            },
-            {
-              "title": "This blog is written in en-GB",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2026-07-02T13:33:13Z"
-            },
-            {
-              "title": "Investigating how prompt politeness affects LLM accuracy (2025)",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2026-05-29T07:35:40Z"
-            },
-            {
-              "title": "Meta's embrace of AI is making its employees miserable",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2026-05-10T00:15:54Z"
+              "date": "2025-12-22T03:44:16Z"
             }
           ]
         },
+        "feed_url": "https://snoopconsulting.com/feed/",
+        "tech_stack": [
+          "Google Tag Manager",
+          "Nginx",
+          "WordPress"
+        ],
         "google_ads": {
           "ads_visible": null,
           "verified_advertiser": null,
           "deep_link": "https://adstransparency.google.com/?region=AR&domain=snoopconsulting.com"
         },
+        "wayback_first": "20040226155141",
         "github": {
           "name": "Snoop-Consulting",
           "public_repos": 0,
@@ -388,7 +353,7 @@
         },
         "blog": {
           "total_entries_in_feed": 10,
-          "posts_last_90d": 7,
+          "posts_last_90d": 6,
           "recent_titles": [
             "Más allá del Hype de la IA: Por qué vender tecnología ya no alcanza (y cómo empaquetar valor real)",
             "Snoop Consulting fue elegida finalista en dos categorías de los Premios Sadosky 2026",
@@ -403,7 +368,7 @@
         },
         "age_years": 22.9
       },
-      "voice_total": 14,
+      "voice_total": 3,
       "voice_share_pct": 0.0
     },
     {
@@ -428,77 +393,77 @@
           "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Practia&search_type=keyword_unordered&media_type=all"
         },
         "pagespeed": {},
+        "hn": {
+          "total": 57859,
+          "hits": [
+            {
+              "title": "Generative AI Usage in the Games Industry",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-16T17:27:12Z"
+            },
+            {
+              "title": "Why Zig over C for Systems Programming",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-16T17:23:49Z"
+            },
+            {
+              "title": "Many of Amazon’s Black Friday and Cyber Monday “Deals” Offered No Savings",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-16T17:21:35Z"
+            },
+            {
+              "title": "Emacs Is My Browser",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-16T17:15:14Z"
+            },
+            {
+              "title": "Price indication directive (i.e. Omnibus Directive)",
+              "url": "https://commission.europa.eu/law/law-topic/consumer-protection-law/unfair-commercial-practices-and-price-indication/price-indication-directive_en",
+              "points": 1,
+              "comments": 0,
+              "date": "2026-11-16T17:11:06Z"
+            },
+            {
+              "title": "Show HN: Open Academy – Math Academy-style courses for any subject",
+              "url": "https://github.com/Jonathanvwersch/open-academy",
+              "points": 1,
+              "comments": 0,
+              "date": "2026-11-16T17:02:45Z"
+            },
+            {
+              "title": "How to make almost anything",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-16T16:41:06Z"
+            },
+            {
+              "title": "Crows make decisions faster than we can",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-16T16:36:11Z"
+            }
+          ]
+        },
         "wayback_first": "20161117063710",
+        "feed_url": "https://practia.global/feed/",
         "tech_stack": [
           "Elementor",
           "WordPress"
         ],
-        "feed_url": "https://practia.global/feed/",
         "google_ads": {
           "ads_visible": null,
           "verified_advertiser": null,
           "deep_link": "https://adstransparency.google.com/?region=AR&domain=practia.global"
-        },
-        "hn": {
-          "total": 58088,
-          "hits": [
-            {
-              "title": "Unlocking any car from X brand in most of the world",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2026-11-09T17:44:51Z"
-            },
-            {
-              "title": "ChatGPT Desktop forwards your SSH agent to remote machines",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2026-11-09T17:39:00Z"
-            },
-            {
-              "title": "Humans will never again create a project quite like Wikipedia",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2026-11-09T17:34:43Z"
-            },
-            {
-              "title": "Beyond Mvn Install: Maven Practices That Pay Off",
-              "url": "https://foojay.io/today/beyond-mvn-install-maven-practices/",
-              "points": 1,
-              "comments": 0,
-              "date": "2026-11-09T17:29:43Z"
-            },
-            {
-              "title": "I'm not convinced the AI bubble exists",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2026-11-09T17:16:11Z"
-            },
-            {
-              "title": "Show HN: Traccia – open-sourced AI agent runtime governance",
-              "url": "https://github.com/traccia-ai/traccia-py",
-              "points": 4,
-              "comments": 0,
-              "date": "2026-11-09T17:09:50Z"
-            },
-            {
-              "title": "Ask HN: What are you working on? (November 2026)",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2026-11-09T16:55:04Z"
-            },
-            {
-              "title": "ChatGPT Desktop forwards your SSH agent to remote machines",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2026-11-09T16:44:29Z"
-            }
-          ]
         },
         "github": {
           "name": "Practia",
@@ -531,8 +496,8 @@
         },
         "age_years": 10.9
       },
-      "voice_total": 58088,
-      "voice_share_pct": 63.3
+      "voice_total": 57859,
+      "voice_share_pct": 43.0
     },
     {
       "domain": "hexacta.com",
@@ -545,7 +510,10 @@
       "snippet": "",
       "url": "https://hexacta.com",
       "metrics": {
-        "feed_url": null,
+        "reddit": {
+          "total": 0,
+          "hits": []
+        },
         "meta_ads": {
           "total": 0,
           "ads": [],
@@ -553,73 +521,70 @@
           "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Hexacta&search_type=keyword_unordered&media_type=all"
         },
         "tech_stack": [],
-        "reddit": {
-          "total": 0,
-          "hits": []
-        },
+        "feed_url": null,
         "pagespeed": {},
+        "wayback_first": "20001019064911",
         "hn": {
-          "total": 1035,
+          "total": 538,
           "hits": [
             {
-              "title": "Tesla to wind down Cybertruck production",
+              "title": "Many of Amazon’s Black Friday and Cyber Monday “Deals” Offered No Savings",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-11-09T17:53:44Z"
+              "date": "2026-11-16T17:28:54Z"
             },
             {
-              "title": "Going back two years on Hacker News is like entering another, better universe",
+              "title": "Many of Amazon’s Black Friday and Cyber Monday “Deals” Offered No Savings",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-11-09T17:49:38Z"
+              "date": "2026-11-16T17:22:24Z"
             },
             {
-              "title": "The same H100 costs $2.69 or $12.29 an hour depending where you rent it",
+              "title": "Interpreting claims that a theorem is correct because it was checked in Lean",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-11-09T17:27:22Z"
+              "date": "2026-11-16T17:12:11Z"
             },
             {
-              "title": "I Saw Your HN Comment",
+              "title": "The Active Directory Era Is Finally Over",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-11-09T17:24:49Z"
+              "date": "2026-11-16T17:08:20Z"
             },
             {
-              "title": "The Gordon Gekko effect: The role of culture in the financial industry (2016) [pdf]",
+              "title": "Many of Amazon’s Black Friday and Cyber Monday “Deals” Offered No Savings",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-11-09T17:21:43Z"
+              "date": "2026-11-16T17:06:30Z"
             },
             {
-              "title": "I Saw Your HN Comment",
+              "title": "Many of Amazon’s Black Friday and Cyber Monday “Deals” Offered No Savings",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-11-09T17:18:02Z"
+              "date": "2026-11-16T16:53:38Z"
             },
             {
-              "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+              "title": "Many of Amazon’s Black Friday and Cyber Monday “Deals” Offered No Savings",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-11-09T17:14:20Z"
+              "date": "2026-11-16T16:50:19Z"
             },
             {
-              "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+              "title": "Many of Amazon’s Black Friday and Cyber Monday “Deals” Offered No Savings",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-11-09T17:14:17Z"
+              "date": "2026-11-16T16:44:35Z"
             }
           ]
         },
-        "wayback_first": "20001019064911",
         "google_ads": {
           "ads_visible": null,
           "verified_advertiser": null,
@@ -629,7 +594,7 @@
           "name": "Hexacta",
           "public_repos": 68,
           "followers": 3,
-          "total_stars": 183,
+          "total_stars": 184,
           "total_forks": 56,
           "recent_active_repos": 0,
           "top_languages": [
@@ -663,8 +628,8 @@
         "blog": {},
         "age_years": 26.9
       },
-      "voice_total": 1035,
-      "voice_share_pct": 1.1
+      "voice_total": 538,
+      "voice_share_pct": 0.4
     },
     {
       "domain": "lagash.com",
@@ -687,11 +652,11 @@
           "scope": null,
           "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Lagash&search_type=keyword_unordered&media_type=all"
         },
-        "tech_stack": [],
         "pagespeed": {},
-        "github": null,
+        "tech_stack": [],
+        "wayback_first": "20010201083400",
         "hn": {
-          "total": 5,
+          "total": 7,
           "hits": [
             {
               "title": "Armenia Notes",
@@ -708,11 +673,25 @@
               "date": "2026-11-02T18:48:20Z"
             },
             {
+              "title": "Don't be the out of touch Kung Fu master",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-09-13T05:05:18Z"
+            },
+            {
               "title": "Show HN: AI Brand Visibility for Free Forever",
               "url": "",
               "points": null,
               "comments": null,
               "date": "2026-09-10T15:36:17Z"
+            },
+            {
+              "title": "Show HN: SagaShield – ACID transactions and security guardrails for AI agents",
+              "url": "https://github.com/sebastianmechno-sys/sagashield",
+              "points": 1,
+              "comments": 0,
+              "date": "2026-09-08T22:16:00Z"
             },
             {
               "title": "Doomscrolling ourselves to death",
@@ -730,7 +709,7 @@
             }
           ]
         },
-        "wayback_first": "20010201083400",
+        "github": null,
         "google_ads": {
           "ads_visible": null,
           "verified_advertiser": null,
@@ -744,7 +723,7 @@
         "blog": {},
         "age_years": 25.9
       },
-      "voice_total": 5,
+      "voice_total": 7,
       "voice_share_pct": 0.0
     },
     {
@@ -768,72 +747,72 @@
           "scope": null,
           "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Algeiba&search_type=keyword_unordered&media_type=all"
         },
-        "feed_url": null,
-        "github": null,
-        "tech_stack": [],
         "pagespeed": {},
+        "tech_stack": [],
+        "feed_url": null,
+        "wayback_first": "20140517015820",
         "hn": {
-          "total": 2997,
+          "total": 22,
           "hits": [
             {
-              "title": "The same H100 costs $2.69 or $12.29 an hour depending where you rent it",
+              "title": "Nvidia Was in Trouble Before the Jensen Huang Mess",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-11-09T16:24:48Z"
+              "date": "2026-11-16T17:34:37Z"
             },
             {
-              "title": "Nvidia's China Problem [pdf]",
+              "title": "Many of Amazon’s Black Friday and Cyber Monday “Deals” Offered No Savings",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-11-09T14:53:40Z"
+              "date": "2026-11-16T16:34:05Z"
             },
             {
-              "title": "Nvidia's China Problem [pdf]",
+              "title": "A quest to create the perfect whiskey glass",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-11-09T12:36:19Z"
+              "date": "2026-11-16T16:25:12Z"
             },
             {
-              "title": "A Critique of GPUI",
+              "title": "Interpreting claims that a theorem is correct because it was checked in Lean",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-11-09T12:29:17Z"
+              "date": "2026-11-16T16:11:57Z"
             },
             {
-              "title": "Ask HN: Do you still enjoy coding in C++?",
+              "title": "Obituaries",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-11-09T11:27:04Z"
+              "date": "2026-11-16T15:26:43Z"
             },
             {
-              "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+              "title": "Amazon's Discount Illusion: 1 in 3 \"Deals\" Offered No Savings– 1 in 10 Cost More",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-11-09T10:44:38Z"
+              "date": "2026-11-16T14:47:52Z"
             },
             {
-              "title": "Ask HN: What are you working on? (November 2026)",
+              "title": "Interpreting claims that a theorem is correct because it was checked in Lean",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-11-09T06:12:53Z"
+              "date": "2026-11-16T14:27:01Z"
             },
             {
-              "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2026-11-08T23:56:36Z"
+              "title": "Geometric Algebra and Extensors in NumPy, Jax, PyTorch and WebGPU",
+              "url": "https://pypi.org/project/numga/",
+              "points": 1,
+              "comments": 1,
+              "date": "2026-11-16T14:23:53Z"
             }
           ]
         },
-        "wayback_first": "20140517015820",
+        "github": null,
         "google_ads": {
           "ads_visible": null,
           "verified_advertiser": null,
@@ -846,8 +825,8 @@
         "blog": {},
         "age_years": 12.9
       },
-      "voice_total": 2997,
-      "voice_share_pct": 3.3
+      "voice_total": 22,
+      "voice_share_pct": 0.0
     },
     {
       "domain": "globant.com",
@@ -871,74 +850,74 @@
           "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Globant&search_type=keyword_unordered&media_type=all"
         },
         "pagespeed": {},
-        "wayback_first": "20010720182509",
-        "tech_stack": [],
         "feed_url": null,
-        "hn": {
-          "total": 27831,
-          "hits": [
-            {
-              "title": "Gaining (and losing) currency: a global database of currencies, 1850-2026",
-              "url": "https://www.bis.org/publications/working-paper-1392-gaining-and-losing-currency-global-database-currencies-1850-2026",
-              "points": 1,
-              "comments": 0,
-              "date": "2026-11-09T17:46:50Z"
-            },
-            {
-              "title": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2026-11-09T17:41:00Z"
-            },
-            {
-              "title": "Unlocking any car from X brand in most of the world",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2026-11-09T17:36:32Z"
-            },
-            {
-              "title": "I'm not convinced the AI bubble exists",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2026-11-09T17:21:46Z"
-            },
-            {
-              "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2026-11-09T17:02:37Z"
-            },
-            {
-              "title": "I Saw Your HN Comment",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2026-11-09T16:55:53Z"
-            },
-            {
-              "title": "How I Fight AI Brain Fry",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2026-11-09T16:55:05Z"
-            },
-            {
-              "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
-              "url": "",
-              "points": null,
-              "comments": null,
-              "date": "2026-11-09T16:50:18Z"
-            }
-          ]
-        },
+        "tech_stack": [],
+        "wayback_first": "20010720182509",
         "google_ads": {
           "ads_visible": null,
           "verified_advertiser": null,
           "deep_link": "https://adstransparency.google.com/?region=AR&domain=globant.com"
+        },
+        "hn": {
+          "total": 27786,
+          "hits": [
+            {
+              "title": "IMF chief warns about global economy as AI circular financing hits $1T",
+              "url": "https://www.cnbc.com/2026/11/16/imf-georgieva-warning-ai-circular-financing.html",
+              "points": 1,
+              "comments": 0,
+              "date": "2026-11-16T17:05:43Z"
+            },
+            {
+              "title": "Universal XSS in uBlock Origin from website-driven element picker",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-16T17:00:29Z"
+            },
+            {
+              "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-16T16:41:02Z"
+            },
+            {
+              "title": "Making Atuin sync 32x faster with packfiles",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-16T16:35:28Z"
+            },
+            {
+              "title": "Robert Pattinson Is Officially James Bond",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-16T16:25:53Z"
+            },
+            {
+              "title": "Whistleblower accuses Pentagon over Iran strike on US base that killed 6",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-16T16:19:00Z"
+            },
+            {
+              "title": "Microsoft blames monster email outage on software defect introduced in July fix",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-16T16:15:26Z"
+            },
+            {
+              "title": "TimeNet Challenge – an ImageNet moment for time-series AI?",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-16T16:13:35Z"
+            }
+          ]
         },
         "github": {
           "name": "Globant",
@@ -962,8 +941,8 @@
         "blog": {},
         "age_years": 25.9
       },
-      "voice_total": 27831,
-      "voice_share_pct": 30.3
+      "voice_total": 27786,
+      "voice_share_pct": 20.6
     },
     {
       "domain": "intersystec.com",
@@ -976,79 +955,78 @@
       "snippet": "",
       "url": "https://intersystec.com",
       "metrics": {
-        "feed_url": null,
+        "tech_stack": [],
         "meta_ads": {
           "total": 0,
           "ads": [],
           "scope": null,
           "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Intersys&search_type=keyword_unordered&media_type=all"
         },
-        "tech_stack": [],
+        "feed_url": null,
         "reddit": {
           "total": 0,
           "hits": []
         },
         "pagespeed": {},
         "github": null,
-        "wayback_first": "20011203045021",
         "hn": {
-          "total": 864,
+          "total": 47403,
           "hits": [
             {
-              "title": "Ask HN: Do you still enjoy coding in C++?",
+              "title": "Nvidia Was in Trouble Before the Jensen Huang Mess",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-11-09T17:48:07Z"
+              "date": "2026-11-16T17:38:11Z"
             },
             {
-              "title": "Ask HN: What are you working on? (November 2026)",
+              "title": "Kiri – The Modern Container Runtime",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-11-09T17:45:34Z"
+              "date": "2026-11-16T17:37:04Z"
             },
             {
-              "title": "I Saw Your HN Comment",
+              "title": "Interpreting claims that a theorem is correct because it was checked in Lean",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-11-09T17:44:01Z"
+              "date": "2026-11-16T17:33:16Z"
             },
             {
-              "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
+              "title": "Silicon Valley leaders back call for Jensen Huang's return to Nvidia",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-11-09T17:42:15Z"
+              "date": "2026-11-16T17:31:57Z"
             },
             {
-              "title": "I Saw Your HN Comment",
+              "title": "Nvidia Was in Trouble Before the Jensen Huang Mess",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-11-09T17:39:25Z"
+              "date": "2026-11-16T17:28:28Z"
             },
             {
-              "title": "Humans will never again create a project like Wikipedia",
+              "title": "Qwen4-Max",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-11-09T17:37:28Z"
+              "date": "2026-11-16T17:25:29Z"
             },
             {
-              "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
+              "title": "Winudf – DVD / BluRay driver for DOS, Windows 1.x – 3x / 95 / 98 / ME",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-11-09T17:36:40Z"
+              "date": "2026-11-16T17:20:31Z"
             },
             {
-              "title": "I Saw Your HN Comment",
+              "title": "Play a C&C-inspired web RTS with or against your local agents",
               "url": "",
               "points": null,
               "comments": null,
-              "date": "2026-11-09T17:32:06Z"
+              "date": "2026-11-16T17:20:27Z"
             }
           ]
         },
@@ -1057,6 +1035,7 @@
           "verified_advertiser": null,
           "deep_link": "https://adstransparency.google.com/?region=AR&domain=intersystec.com"
         },
+        "wayback_first": "20011203045021",
         "gdelt": {
           "total": 0,
           "hits": []
@@ -1064,14 +1043,14 @@
         "blog": {},
         "age_years": 25.9
       },
-      "voice_total": 864,
-      "voice_share_pct": 0.9
+      "voice_total": 47403,
+      "voice_share_pct": 35.2
     }
   ],
   "insights": [
     {
-      "title": "Share of voice bajo (posición #6)",
-      "body": "Los tres líderes —Practia, Globant, Algeiba— concentran la conversación en HN + Reddit + prensa global.",
+      "title": "Share of voice bajo (posición #4)",
+      "body": "Los tres líderes —Practia, Intersys, Globant— concentran la conversación en HN + Reddit + prensa global.",
       "severity": "info"
     }
   ]

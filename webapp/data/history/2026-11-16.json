@@ -1,0 +1,1057 @@
+{
+  "generated_at": "2026-11-16T17:39:41.798751Z",
+  "scope_label": "Tech consulting · Argentina",
+  "country": "AR",
+  "own": {
+    "domain": "raona.com",
+    "score": null,
+    "title": "",
+    "snippet": "",
+    "source": "self",
+    "url": "https://raona.com",
+    "name": "Raona",
+    "metrics": {
+      "reddit": {
+        "total": 0,
+        "hits": []
+      },
+      "meta_ads": {
+        "total": 0,
+        "ads": [],
+        "scope": null,
+        "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Raona&search_type=keyword_unordered&media_type=all"
+      },
+      "pagespeed": {},
+      "hn": {
+        "total": 859,
+        "hits": [
+          {
+            "title": "What CSS Appearance Does",
+            "url": "https://ronaldsvilcins.com/2026/11/10/what-css-appearance-actually-does/",
+            "points": 1,
+            "comments": 0,
+            "date": "2026-11-16T13:08:33Z"
+          },
+          {
+            "title": "Show HN: Gami.Fied – Open-source, self-hosted gamification engine (AGPL-3.0)",
+            "url": "https://gami.fied.cc/",
+            "points": 1,
+            "comments": 0,
+            "date": "2026-11-15T19:40:07Z"
+          },
+          {
+            "title": "Osint Case Studies",
+            "url": "",
+            "points": null,
+            "comments": null,
+            "date": "2026-11-15T05:19:18Z"
+          },
+          {
+            "title": "Security Agencies Worldwide Found to Use Ad-Based Surveillance System",
+            "url": "",
+            "points": null,
+            "comments": null,
+            "date": "2026-11-14T08:09:29Z"
+          },
+          {
+            "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+            "url": "",
+            "points": null,
+            "comments": null,
+            "date": "2026-11-14T07:09:55Z"
+          },
+          {
+            "title": "End of Mercenary Programmers",
+            "url": "https://ronakgothi.com/p/end-of-mercenary-programmers/",
+            "points": 1,
+            "comments": 0,
+            "date": "2026-11-13T09:41:01Z"
+          },
+          {
+            "title": "Data centers need power – lower income, rural residents pay the price",
+            "url": "",
+            "points": null,
+            "comments": null,
+            "date": "2026-11-13T01:58:12Z"
+          },
+          {
+            "title": "Nvidia is preparing to oust Jensen Huang",
+            "url": "",
+            "points": null,
+            "comments": null,
+            "date": "2026-11-12T01:43:23Z"
+          }
+        ]
+      },
+      "google_ads": {
+        "ads_visible": null,
+        "verified_advertiser": null,
+        "deep_link": "https://adstransparency.google.com/?region=AR&domain=raona.com"
+      },
+      "feed_url": "https://raona.com/feed/",
+      "tech_stack": [
+        "Elementor",
+        "Google Tag Manager",
+        "HubSpot",
+        "Meta Pixel",
+        "Nginx",
+        "WP Rocket",
+        "WordPress"
+      ],
+      "github": {
+        "name": "Raona Enginyers, S.L.",
+        "public_repos": 8,
+        "followers": 1,
+        "total_stars": 2,
+        "total_forks": 8,
+        "recent_active_repos": 0,
+        "top_languages": [
+          [
+            "C#",
+            1
+          ],
+          [
+            "PowerShell",
+            1
+          ],
+          [
+            "HTML",
+            1
+          ]
+        ],
+        "created_at": "2019-07-16T10:28:58Z"
+      },
+      "wayback_first": "20030305165433",
+      "gdelt": {
+        "total": 0,
+        "hits": []
+      },
+      "blog": {
+        "total_entries_in_feed": 10,
+        "posts_last_90d": 10,
+        "recent_titles": [
+          "¿Por qué nadie entra en tu intranet?",
+          "La mejor IA también puede ser la equivocada",
+          "Ya no construyo informes, los audito",
+          "Lecciones aprendidas acompañando organizaciones en procesos de cambio",
+          "GPT-6.1 Terra en Microsoft Foundry: el agente que mira la pantalla baja de precio",
+          "Copilot en SharePoint: el 1 de noviembre dejan de aplicarse tus exclusiones por PowerShell",
+          "Power Apps endurece el control de licencias en 2027",
+          "Hablemos de Gemini 4 Argon: IA para agentes complejos"
+        ],
+        "feed_url": "https://raona.com/feed/"
+      },
+      "age_years": 23.9
+    },
+    "voice_total": 859,
+    "voice_share_pct": 0.6
+  },
+  "competitors": [
+    {
+      "domain": "baufest.com",
+      "name": "Baufest",
+      "name_override": "Baufest",
+      "note": "Consultora argentina con práctica de Modern Workplace y M365",
+      "source": "seed",
+      "score": 1,
+      "title": "",
+      "snippet": "",
+      "url": "https://baufest.com",
+      "metrics": {
+        "reddit": {
+          "total": 0,
+          "hits": []
+        },
+        "meta_ads": {
+          "total": 0,
+          "ads": [],
+          "scope": null,
+          "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Baufest&search_type=keyword_unordered&media_type=all"
+        },
+        "pagespeed": {},
+        "hn": {
+          "total": 112,
+          "hits": [
+            {
+              "title": "Coffeehouses and the Rise of Science [pdf]",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-16T14:34:54Z"
+            },
+            {
+              "title": "Moloch, AI and Capitalism: The System Eating Itself [video]",
+              "url": "https://www.youtube.com/watch?v=KCSsKV5F4xc",
+              "points": 1,
+              "comments": 0,
+              "date": "2026-11-16T13:11:18Z"
+            },
+            {
+              "title": "Ask HN: How likely is Jensen Huang's return as CEO to Nvidia?",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-16T12:19:53Z"
+            },
+            {
+              "title": "Do House members' stock trades beat the market? A test of 8,900 trades",
+              "url": "https://arkanumdata.com/research/house-trades",
+              "points": 119,
+              "comments": 131,
+              "date": "2026-11-15T19:46:02Z"
+            },
+            {
+              "title": "Jensen Huang resigns",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-13T12:49:22Z"
+            },
+            {
+              "title": "I'm not convinced the AI bubble exists",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-09T08:32:19Z"
+            },
+            {
+              "title": "Goodbye Claude, Hello Pi",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-08T10:56:57Z"
+            },
+            {
+              "title": "HackerTube: YouTube built from videos recommended by HN",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-01T00:00:55Z"
+            }
+          ]
+        },
+        "tech_stack": [
+          "Next.js"
+        ],
+        "google_ads": {
+          "ads_visible": null,
+          "verified_advertiser": null,
+          "deep_link": "https://adstransparency.google.com/?region=AR&domain=baufest.com"
+        },
+        "github": {
+          "name": "Baufest",
+          "public_repos": 12,
+          "followers": 61,
+          "total_stars": 0,
+          "total_forks": 1,
+          "recent_active_repos": 2,
+          "top_languages": [
+            [
+              "Python",
+              5
+            ],
+            [
+              "TypeScript",
+              2
+            ],
+            [
+              "JavaScript",
+              1
+            ],
+            [
+              "HTML",
+              1
+            ]
+          ],
+          "created_at": "2023-08-23T15:44:19Z"
+        },
+        "wayback_first": "19980123020759",
+        "feed_url": null,
+        "gdelt": {
+          "total": 0,
+          "hits": []
+        },
+        "blog": {},
+        "age_years": 28.9
+      },
+      "voice_total": 112,
+      "voice_share_pct": 0.1
+    },
+    {
+      "domain": "snoopconsulting.com",
+      "name": "Snoop Consulting",
+      "name_override": "Snoop Consulting",
+      "note": "Microsoft Gold Partner en Argentina, foco Cloud y Workplace",
+      "source": "seed",
+      "score": 1,
+      "title": "",
+      "snippet": "",
+      "url": "https://snoopconsulting.com",
+      "metrics": {
+        "reddit": {
+          "total": 0,
+          "hits": []
+        },
+        "meta_ads": {
+          "total": 0,
+          "ads": [],
+          "scope": null,
+          "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Snoop+Consulting&search_type=keyword_unordered&media_type=all"
+        },
+        "pagespeed": {},
+        "hn": {
+          "total": 3,
+          "hits": [
+            {
+              "title": "New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-08-19T03:19:41Z"
+            },
+            {
+              "title": "Show HN: I built another to do list. But it does a lot",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-04-30T17:13:51Z"
+            },
+            {
+              "title": "Kernighan's Lever",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2025-12-22T03:44:16Z"
+            }
+          ]
+        },
+        "feed_url": "https://snoopconsulting.com/feed/",
+        "tech_stack": [
+          "Google Tag Manager",
+          "Nginx",
+          "WordPress"
+        ],
+        "google_ads": {
+          "ads_visible": null,
+          "verified_advertiser": null,
+          "deep_link": "https://adstransparency.google.com/?region=AR&domain=snoopconsulting.com"
+        },
+        "wayback_first": "20040226155141",
+        "github": {
+          "name": "Snoop-Consulting",
+          "public_repos": 0,
+          "followers": 0,
+          "total_stars": 0,
+          "total_forks": 0,
+          "recent_active_repos": 0,
+          "top_languages": [],
+          "created_at": "2026-09-22T17:13:31Z"
+        },
+        "gdelt": {
+          "total": 0,
+          "hits": []
+        },
+        "blog": {
+          "total_entries_in_feed": 10,
+          "posts_last_90d": 6,
+          "recent_titles": [
+            "Más allá del Hype de la IA: Por qué vender tecnología ya no alcanza (y cómo empaquetar valor real)",
+            "Snoop Consulting fue elegida finalista en dos categorías de los Premios Sadosky 2026",
+            "Mano a mano con Adam Smith: «El mercado se olvidó de la ética, la justicia y el propósito»",
+            "¿Tu empresa está atrapada en la «Trampa del Acuerdo»? Descubrí cómo Docusign IAM revoluciona la gestión de contratos",
+            "Desarrollo de software agéntico (AI-SDLC): La fórmula para escalar sin caos operativo",
+            "El secreto de ClickUp para escalar su propio marketing",
+            "Es la demanda, estúpido",
+            "Cómo recuperar miles de horas al año"
+          ],
+          "feed_url": "https://snoopconsulting.com/feed/"
+        },
+        "age_years": 22.9
+      },
+      "voice_total": 3,
+      "voice_share_pct": 0.0
+    },
+    {
+      "domain": "practia.global",
+      "name": "Practia",
+      "name_override": "Practia",
+      "note": "Consultora de origen argentino con presencia regional",
+      "source": "seed",
+      "score": 1,
+      "title": "",
+      "snippet": "",
+      "url": "https://practia.global",
+      "metrics": {
+        "reddit": {
+          "total": 0,
+          "hits": []
+        },
+        "meta_ads": {
+          "total": 0,
+          "ads": [],
+          "scope": null,
+          "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Practia&search_type=keyword_unordered&media_type=all"
+        },
+        "pagespeed": {},
+        "hn": {
+          "total": 57859,
+          "hits": [
+            {
+              "title": "Generative AI Usage in the Games Industry",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-16T17:27:12Z"
+            },
+            {
+              "title": "Why Zig over C for Systems Programming",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-16T17:23:49Z"
+            },
+            {
+              "title": "Many of Amazon’s Black Friday and Cyber Monday “Deals” Offered No Savings",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-16T17:21:35Z"
+            },
+            {
+              "title": "Emacs Is My Browser",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-16T17:15:14Z"
+            },
+            {
+              "title": "Price indication directive (i.e. Omnibus Directive)",
+              "url": "https://commission.europa.eu/law/law-topic/consumer-protection-law/unfair-commercial-practices-and-price-indication/price-indication-directive_en",
+              "points": 1,
+              "comments": 0,
+              "date": "2026-11-16T17:11:06Z"
+            },
+            {
+              "title": "Show HN: Open Academy – Math Academy-style courses for any subject",
+              "url": "https://github.com/Jonathanvwersch/open-academy",
+              "points": 1,
+              "comments": 0,
+              "date": "2026-11-16T17:02:45Z"
+            },
+            {
+              "title": "How to make almost anything",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-16T16:41:06Z"
+            },
+            {
+              "title": "Crows make decisions faster than we can",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-16T16:36:11Z"
+            }
+          ]
+        },
+        "wayback_first": "20161117063710",
+        "feed_url": "https://practia.global/feed/",
+        "tech_stack": [
+          "Elementor",
+          "WordPress"
+        ],
+        "google_ads": {
+          "ads_visible": null,
+          "verified_advertiser": null,
+          "deep_link": "https://adstransparency.google.com/?region=AR&domain=practia.global"
+        },
+        "github": {
+          "name": "Practia",
+          "public_repos": 0,
+          "followers": 0,
+          "total_stars": 0,
+          "total_forks": 0,
+          "recent_active_repos": 0,
+          "top_languages": [],
+          "created_at": "2018-10-31T12:21:42Z"
+        },
+        "gdelt": {
+          "total": 0,
+          "hits": []
+        },
+        "blog": {
+          "total_entries_in_feed": 10,
+          "posts_last_90d": 9,
+          "recent_titles": [
+            "Equipes adaptativas: a melhor alternativa para cada desafio",
+            "Gestão adaptativa: o melhor do gerenciamento de projetos e os benefícios da agilidade",
+            "A evolução das PMOs na era da IA",
+            "[Opinião] Daniel Yankelevich «Precisávamos de uma nova engenharia de software. E ela já está surgindo.»",
+            "[Opinião] Carlos Lacchini «Ninguém assinou: quanta autonomia tem a sua inteligência artificial?»",
+            "[Opinião] Gilberto Straffacci: “O que acontece quando não contamos com governança de IA em nossa empresa”",
+            "[Caso Mutual de Seguridad] Andrea Bergeret comentou sobre a jornada de transformação digital da Mutual de Seguridad",
+            "[Entrevista] Boris Bustos: “A IA é um ativo de transformação do modelo operacional da minha organização”"
+          ],
+          "feed_url": "https://practia.global/feed/"
+        },
+        "age_years": 10.9
+      },
+      "voice_total": 57859,
+      "voice_share_pct": 43.0
+    },
+    {
+      "domain": "hexacta.com",
+      "name": "Hexacta",
+      "name_override": "Hexacta",
+      "note": "Software factory argentina con servicios M365 y custom dev",
+      "source": "seed",
+      "score": 1,
+      "title": "",
+      "snippet": "",
+      "url": "https://hexacta.com",
+      "metrics": {
+        "reddit": {
+          "total": 0,
+          "hits": []
+        },
+        "meta_ads": {
+          "total": 0,
+          "ads": [],
+          "scope": null,
+          "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Hexacta&search_type=keyword_unordered&media_type=all"
+        },
+        "tech_stack": [],
+        "feed_url": null,
+        "pagespeed": {},
+        "wayback_first": "20001019064911",
+        "hn": {
+          "total": 538,
+          "hits": [
+            {
+              "title": "Many of Amazon’s Black Friday and Cyber Monday “Deals” Offered No Savings",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-16T17:28:54Z"
+            },
+            {
+              "title": "Many of Amazon’s Black Friday and Cyber Monday “Deals” Offered No Savings",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-16T17:22:24Z"
+            },
+            {
+              "title": "Interpreting claims that a theorem is correct because it was checked in Lean",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-16T17:12:11Z"
+            },
+            {
+              "title": "The Active Directory Era Is Finally Over",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-16T17:08:20Z"
+            },
+            {
+              "title": "Many of Amazon’s Black Friday and Cyber Monday “Deals” Offered No Savings",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-16T17:06:30Z"
+            },
+            {
+              "title": "Many of Amazon’s Black Friday and Cyber Monday “Deals” Offered No Savings",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-16T16:53:38Z"
+            },
+            {
+              "title": "Many of Amazon’s Black Friday and Cyber Monday “Deals” Offered No Savings",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-16T16:50:19Z"
+            },
+            {
+              "title": "Many of Amazon’s Black Friday and Cyber Monday “Deals” Offered No Savings",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-16T16:44:35Z"
+            }
+          ]
+        },
+        "google_ads": {
+          "ads_visible": null,
+          "verified_advertiser": null,
+          "deep_link": "https://adstransparency.google.com/?region=AR&domain=hexacta.com"
+        },
+        "github": {
+          "name": "Hexacta",
+          "public_repos": 68,
+          "followers": 3,
+          "total_stars": 184,
+          "total_forks": 56,
+          "recent_active_repos": 0,
+          "top_languages": [
+            [
+              "JavaScript",
+              26
+            ],
+            [
+              "Python",
+              5
+            ],
+            [
+              "Java",
+              5
+            ],
+            [
+              "Ruby",
+              5
+            ],
+            [
+              "C#",
+              4
+            ]
+          ],
+          "created_at": "2011-12-05T13:07:48Z"
+        },
+        "gdelt": {
+          "total": 0,
+          "hits": []
+        },
+        "blog": {},
+        "age_years": 26.9
+      },
+      "voice_total": 538,
+      "voice_share_pct": 0.4
+    },
+    {
+      "domain": "lagash.com",
+      "name": "Lagash",
+      "name_override": "Lagash",
+      "note": "LatAm tech consultancy con práctica Microsoft",
+      "source": "seed",
+      "score": 1,
+      "title": "",
+      "snippet": "",
+      "url": "https://lagash.com",
+      "metrics": {
+        "reddit": {
+          "total": 0,
+          "hits": []
+        },
+        "meta_ads": {
+          "total": 0,
+          "ads": [],
+          "scope": null,
+          "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Lagash&search_type=keyword_unordered&media_type=all"
+        },
+        "pagespeed": {},
+        "tech_stack": [],
+        "wayback_first": "20010201083400",
+        "hn": {
+          "total": 7,
+          "hits": [
+            {
+              "title": "Armenia Notes",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-02T18:51:28Z"
+            },
+            {
+              "title": "US boy names that became girl names and vice versa",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-02T18:48:20Z"
+            },
+            {
+              "title": "Don't be the out of touch Kung Fu master",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-09-13T05:05:18Z"
+            },
+            {
+              "title": "Show HN: AI Brand Visibility for Free Forever",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-09-10T15:36:17Z"
+            },
+            {
+              "title": "Show HN: SagaShield – ACID transactions and security guardrails for AI agents",
+              "url": "https://github.com/sebastianmechno-sys/sagashield",
+              "points": 1,
+              "comments": 0,
+              "date": "2026-09-08T22:16:00Z"
+            },
+            {
+              "title": "Doomscrolling ourselves to death",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-09-06T23:05:08Z"
+            },
+            {
+              "title": "How the God of Israel Was Born",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-07-24T13:47:42Z"
+            }
+          ]
+        },
+        "github": null,
+        "google_ads": {
+          "ads_visible": null,
+          "verified_advertiser": null,
+          "deep_link": "https://adstransparency.google.com/?region=AR&domain=lagash.com"
+        },
+        "feed_url": null,
+        "gdelt": {
+          "total": 0,
+          "hits": []
+        },
+        "blog": {},
+        "age_years": 25.9
+      },
+      "voice_total": 7,
+      "voice_share_pct": 0.0
+    },
+    {
+      "domain": "algeiba.com",
+      "name": "Algeiba",
+      "name_override": "Algeiba",
+      "note": "Microsoft Partner argentino, foco corporativo",
+      "source": "seed",
+      "score": 1,
+      "title": "",
+      "snippet": "",
+      "url": "https://algeiba.com",
+      "metrics": {
+        "reddit": {
+          "total": 0,
+          "hits": []
+        },
+        "meta_ads": {
+          "total": 0,
+          "ads": [],
+          "scope": null,
+          "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Algeiba&search_type=keyword_unordered&media_type=all"
+        },
+        "pagespeed": {},
+        "tech_stack": [],
+        "feed_url": null,
+        "wayback_first": "20140517015820",
+        "hn": {
+          "total": 22,
+          "hits": [
+            {
+              "title": "Nvidia Was in Trouble Before the Jensen Huang Mess",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-16T17:34:37Z"
+            },
+            {
+              "title": "Many of Amazon’s Black Friday and Cyber Monday “Deals” Offered No Savings",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-16T16:34:05Z"
+            },
+            {
+              "title": "A quest to create the perfect whiskey glass",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-16T16:25:12Z"
+            },
+            {
+              "title": "Interpreting claims that a theorem is correct because it was checked in Lean",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-16T16:11:57Z"
+            },
+            {
+              "title": "Obituaries",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-16T15:26:43Z"
+            },
+            {
+              "title": "Amazon's Discount Illusion: 1 in 3 \"Deals\" Offered No Savings– 1 in 10 Cost More",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-16T14:47:52Z"
+            },
+            {
+              "title": "Interpreting claims that a theorem is correct because it was checked in Lean",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-16T14:27:01Z"
+            },
+            {
+              "title": "Geometric Algebra and Extensors in NumPy, Jax, PyTorch and WebGPU",
+              "url": "https://pypi.org/project/numga/",
+              "points": 1,
+              "comments": 1,
+              "date": "2026-11-16T14:23:53Z"
+            }
+          ]
+        },
+        "github": null,
+        "google_ads": {
+          "ads_visible": null,
+          "verified_advertiser": null,
+          "deep_link": "https://adstransparency.google.com/?region=AR&domain=algeiba.com"
+        },
+        "gdelt": {
+          "total": 0,
+          "hits": []
+        },
+        "blog": {},
+        "age_years": 12.9
+      },
+      "voice_total": 22,
+      "voice_share_pct": 0.0
+    },
+    {
+      "domain": "globant.com",
+      "name": "Globant",
+      "name_override": "Globant",
+      "note": "Player grande de referencia (no competidor directo pero marca el techo)",
+      "source": "seed",
+      "score": 1,
+      "title": "",
+      "snippet": "",
+      "url": "https://globant.com",
+      "metrics": {
+        "reddit": {
+          "total": 0,
+          "hits": []
+        },
+        "meta_ads": {
+          "total": 0,
+          "ads": [],
+          "scope": null,
+          "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Globant&search_type=keyword_unordered&media_type=all"
+        },
+        "pagespeed": {},
+        "feed_url": null,
+        "tech_stack": [],
+        "wayback_first": "20010720182509",
+        "google_ads": {
+          "ads_visible": null,
+          "verified_advertiser": null,
+          "deep_link": "https://adstransparency.google.com/?region=AR&domain=globant.com"
+        },
+        "hn": {
+          "total": 27786,
+          "hits": [
+            {
+              "title": "IMF chief warns about global economy as AI circular financing hits $1T",
+              "url": "https://www.cnbc.com/2026/11/16/imf-georgieva-warning-ai-circular-financing.html",
+              "points": 1,
+              "comments": 0,
+              "date": "2026-11-16T17:05:43Z"
+            },
+            {
+              "title": "Universal XSS in uBlock Origin from website-driven element picker",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-16T17:00:29Z"
+            },
+            {
+              "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-16T16:41:02Z"
+            },
+            {
+              "title": "Making Atuin sync 32x faster with packfiles",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-16T16:35:28Z"
+            },
+            {
+              "title": "Robert Pattinson Is Officially James Bond",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-16T16:25:53Z"
+            },
+            {
+              "title": "Whistleblower accuses Pentagon over Iran strike on US base that killed 6",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-16T16:19:00Z"
+            },
+            {
+              "title": "Microsoft blames monster email outage on software defect introduced in July fix",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-16T16:15:26Z"
+            },
+            {
+              "title": "TimeNet Challenge – an ImageNet moment for time-series AI?",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-16T16:13:35Z"
+            }
+          ]
+        },
+        "github": {
+          "name": "Globant",
+          "public_repos": 1,
+          "followers": 65,
+          "total_stars": 0,
+          "total_forks": 0,
+          "recent_active_repos": 0,
+          "top_languages": [
+            [
+              "Python",
+              1
+            ]
+          ],
+          "created_at": "2010-09-15T21:16:05Z"
+        },
+        "gdelt": {
+          "total": 0,
+          "hits": []
+        },
+        "blog": {},
+        "age_years": 25.9
+      },
+      "voice_total": 27786,
+      "voice_share_pct": 20.6
+    },
+    {
+      "domain": "intersystec.com",
+      "name": "Intersys",
+      "name_override": "Intersys",
+      "note": "Microsoft Partner argentino",
+      "source": "seed",
+      "score": 1,
+      "title": "",
+      "snippet": "",
+      "url": "https://intersystec.com",
+      "metrics": {
+        "tech_stack": [],
+        "meta_ads": {
+          "total": 0,
+          "ads": [],
+          "scope": null,
+          "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Intersys&search_type=keyword_unordered&media_type=all"
+        },
+        "feed_url": null,
+        "reddit": {
+          "total": 0,
+          "hits": []
+        },
+        "pagespeed": {},
+        "github": null,
+        "hn": {
+          "total": 47403,
+          "hits": [
+            {
+              "title": "Nvidia Was in Trouble Before the Jensen Huang Mess",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-16T17:38:11Z"
+            },
+            {
+              "title": "Kiri – The Modern Container Runtime",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-16T17:37:04Z"
+            },
+            {
+              "title": "Interpreting claims that a theorem is correct because it was checked in Lean",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-16T17:33:16Z"
+            },
+            {
+              "title": "Silicon Valley leaders back call for Jensen Huang's return to Nvidia",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-16T17:31:57Z"
+            },
+            {
+              "title": "Nvidia Was in Trouble Before the Jensen Huang Mess",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-16T17:28:28Z"
+            },
+            {
+              "title": "Qwen4-Max",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-16T17:25:29Z"
+            },
+            {
+              "title": "Winudf – DVD / BluRay driver for DOS, Windows 1.x – 3x / 95 / 98 / ME",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-16T17:20:31Z"
+            },
+            {
+              "title": "Play a C&C-inspired web RTS with or against your local agents",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-16T17:20:27Z"
+            }
+          ]
+        },
+        "google_ads": {
+          "ads_visible": null,
+          "verified_advertiser": null,
+          "deep_link": "https://adstransparency.google.com/?region=AR&domain=intersystec.com"
+        },
+        "wayback_first": "20011203045021",
+        "gdelt": {
+          "total": 0,
+          "hits": []
+        },
+        "blog": {},
+        "age_years": 25.9
+      },
+      "voice_total": 47403,
+      "voice_share_pct": 35.2
+    }
+  ],
+  "insights": [
+    {
+      "title": "Share of voice bajo (posición #4)",
+      "body": "Los tres líderes —Practia, Intersys, Globant— concentran la conversación en HN + Reddit + prensa global.",
+      "severity": "info"
+    }
+  ]
+}
