@@ -1,0 +1,1092 @@
+{
+  "generated_at": "2026-11-23T19:37:50.817846Z",
+  "scope_label": "Tech consulting · Argentina",
+  "country": "AR",
+  "own": {
+    "domain": "raona.com",
+    "score": null,
+    "title": "",
+    "snippet": "",
+    "source": "self",
+    "url": "https://raona.com",
+    "name": "Raona",
+    "metrics": {
+      "reddit": {
+        "total": 0,
+        "hits": []
+      },
+      "meta_ads": {
+        "total": 0,
+        "ads": [],
+        "scope": null,
+        "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Raona&search_type=keyword_unordered&media_type=all"
+      },
+      "pagespeed": {},
+      "google_ads": {
+        "ads_visible": null,
+        "verified_advertiser": null,
+        "deep_link": "https://adstransparency.google.com/?region=AR&domain=raona.com"
+      },
+      "hn": {
+        "total": 861,
+        "hits": [
+          {
+            "title": "Nvidia Reinstates Jensen Huang as CEO",
+            "url": "",
+            "points": null,
+            "comments": null,
+            "date": "2026-11-23T18:44:01Z"
+          },
+          {
+            "title": "Fascism and Monopoly (2020)",
+            "url": "",
+            "points": null,
+            "comments": null,
+            "date": "2026-11-22T22:48:47Z"
+          },
+          {
+            "title": "What Happened to Silicon Valley?",
+            "url": "",
+            "points": null,
+            "comments": null,
+            "date": "2026-11-22T21:22:32Z"
+          },
+          {
+            "title": "Fascism and Monopoly (2020)",
+            "url": "",
+            "points": null,
+            "comments": null,
+            "date": "2026-11-22T20:33:51Z"
+          },
+          {
+            "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+            "url": "",
+            "points": null,
+            "comments": null,
+            "date": "2026-11-22T12:37:01Z"
+          },
+          {
+            "title": "Hurried Announcement: Alessandro Masullo GRH",
+            "url": "",
+            "points": null,
+            "comments": null,
+            "date": "2026-11-22T00:38:57Z"
+          },
+          {
+            "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
+            "url": "",
+            "points": null,
+            "comments": null,
+            "date": "2026-11-21T17:36:04Z"
+          },
+          {
+            "title": "Teaching robots to carve marble sculptures",
+            "url": "",
+            "points": null,
+            "comments": null,
+            "date": "2026-11-19T15:29:56Z"
+          }
+        ]
+      },
+      "tech_stack": [
+        "Elementor",
+        "Google Tag Manager",
+        "HubSpot",
+        "Meta Pixel",
+        "Nginx",
+        "WP Rocket",
+        "WordPress"
+      ],
+      "feed_url": "https://raona.com/feed/",
+      "github": {
+        "name": "Raona Enginyers, S.L.",
+        "public_repos": 8,
+        "followers": 1,
+        "total_stars": 2,
+        "total_forks": 8,
+        "recent_active_repos": 0,
+        "top_languages": [
+          [
+            "C#",
+            1
+          ],
+          [
+            "PowerShell",
+            1
+          ],
+          [
+            "HTML",
+            1
+          ]
+        ],
+        "created_at": "2019-07-16T10:28:58Z"
+      },
+      "wayback_first": "20030305165433",
+      "gdelt": {
+        "total": 0,
+        "hits": []
+      },
+      "blog": {
+        "total_entries_in_feed": 10,
+        "posts_last_90d": 10,
+        "recent_titles": [
+          "Cómo implementar SharePoint en una empresa: guía paso a paso",
+          "¿Por qué nadie entra en tu intranet?",
+          "La mejor IA también puede ser la equivocada",
+          "Ya no construyo informes, los audito",
+          "Lecciones aprendidas acompañando organizaciones en procesos de cambio",
+          "GPT-6.1 Terra en Microsoft Foundry: el agente que mira la pantalla baja de precio",
+          "Copilot en SharePoint: el 1 de noviembre dejan de aplicarse tus exclusiones por PowerShell",
+          "Power Apps endurece el control de licencias en 2027"
+        ],
+        "feed_url": "https://raona.com/feed/"
+      },
+      "age_years": 23.9
+    },
+    "voice_total": 861,
+    "voice_share_pct": 1.1
+  },
+  "competitors": [
+    {
+      "domain": "baufest.com",
+      "name": "Baufest",
+      "name_override": "Baufest",
+      "note": "Consultora argentina con práctica de Modern Workplace y M365",
+      "source": "seed",
+      "score": 1,
+      "title": "",
+      "snippet": "",
+      "url": "https://baufest.com",
+      "metrics": {
+        "reddit": {
+          "total": 0,
+          "hits": []
+        },
+        "meta_ads": {
+          "total": 0,
+          "ads": [],
+          "scope": null,
+          "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Baufest&search_type=keyword_unordered&media_type=all"
+        },
+        "pagespeed": {},
+        "wayback_first": "19980123020759",
+        "hn": {
+          "total": 322,
+          "hits": [
+            {
+              "title": "Nespresso's project to reduce grams of coffee per capsule",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-23T18:49:49Z"
+            },
+            {
+              "title": "Normalisation of Deviance – IAFF [video]",
+              "url": "https://www.youtube.com/watch?v=Ljzj9Msli5o",
+              "points": 1,
+              "comments": 0,
+              "date": "2026-11-23T17:04:59Z"
+            },
+            {
+              "title": "The POW Who Blinked 'Torture' in Morse Code",
+              "url": "https://soylentnews.org/submit.pl?op=viewsub&subid=1033",
+              "points": 1,
+              "comments": 0,
+              "date": "2026-11-23T16:20:54Z"
+            },
+            {
+              "title": "Ask HN: Where do you see Software in 5 years?",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-23T09:49:04Z"
+            },
+            {
+              "title": "Nespresso's project to reduce grams of coffee per capsule",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-23T06:28:39Z"
+            },
+            {
+              "title": "U.N. Climate Talks Collapse in a Bitter Clash over Fossil Fuels",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-23T04:18:28Z"
+            },
+            {
+              "title": "The Mythology of Conscious AI",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-23T01:23:48Z"
+            },
+            {
+              "title": "A Short History of Enclosure in Britain",
+              "url": "https://www.thelandmagazine.org.uk/articles/short-history-enclosure-britain",
+              "points": 2,
+              "comments": 1,
+              "date": "2026-11-22T20:54:28Z"
+            }
+          ]
+        },
+        "google_ads": {
+          "ads_visible": null,
+          "verified_advertiser": null,
+          "deep_link": "https://adstransparency.google.com/?region=AR&domain=baufest.com"
+        },
+        "tech_stack": [
+          "Next.js"
+        ],
+        "github": {
+          "name": "Baufest",
+          "public_repos": 12,
+          "followers": 61,
+          "total_stars": 0,
+          "total_forks": 1,
+          "recent_active_repos": 2,
+          "top_languages": [
+            [
+              "Python",
+              5
+            ],
+            [
+              "TypeScript",
+              2
+            ],
+            [
+              "JavaScript",
+              1
+            ],
+            [
+              "HTML",
+              1
+            ]
+          ],
+          "created_at": "2023-08-23T15:44:19Z"
+        },
+        "feed_url": null,
+        "gdelt": {
+          "total": 0,
+          "hits": []
+        },
+        "blog": {},
+        "age_years": 28.9
+      },
+      "voice_total": 322,
+      "voice_share_pct": 0.4
+    },
+    {
+      "domain": "snoopconsulting.com",
+      "name": "Snoop Consulting",
+      "name_override": "Snoop Consulting",
+      "note": "Microsoft Gold Partner en Argentina, foco Cloud y Workplace",
+      "source": "seed",
+      "score": 1,
+      "title": "",
+      "snippet": "",
+      "url": "https://snoopconsulting.com",
+      "metrics": {
+        "reddit": {
+          "total": 0,
+          "hits": []
+        },
+        "meta_ads": {
+          "total": 0,
+          "ads": [],
+          "scope": null,
+          "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Snoop+Consulting&search_type=keyword_unordered&media_type=all"
+        },
+        "pagespeed": {},
+        "feed_url": "https://snoopconsulting.com/feed/",
+        "tech_stack": [
+          "Google Tag Manager",
+          "Nginx",
+          "WordPress"
+        ],
+        "hn": {
+          "total": 11,
+          "hits": [
+            {
+              "title": "Anthropic candidates face blunt money question",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-08-24T12:14:36Z"
+            },
+            {
+              "title": "New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-08-19T03:19:41Z"
+            },
+            {
+              "title": "Nashville uses eminent domain to block data center near zoo",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-08-06T12:24:44Z"
+            },
+            {
+              "title": "Protesting Flock, Arizona Man Presents Plan to Surveil Government Officials",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-07-28T17:22:33Z"
+            },
+            {
+              "title": "Passkeys were invented by engineers with zero understanding of consumer brain",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-07-22T15:40:48Z"
+            },
+            {
+              "title": "This blog is written in en-GB",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-07-02T13:33:13Z"
+            },
+            {
+              "title": "Investigating how prompt politeness affects LLM accuracy (2025)",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-29T07:35:40Z"
+            },
+            {
+              "title": "Meta's embrace of AI is making its employees miserable",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-05-10T00:15:54Z"
+            }
+          ]
+        },
+        "google_ads": {
+          "ads_visible": null,
+          "verified_advertiser": null,
+          "deep_link": "https://adstransparency.google.com/?region=AR&domain=snoopconsulting.com"
+        },
+        "github": {
+          "name": "Snoop-Consulting",
+          "public_repos": 0,
+          "followers": 0,
+          "total_stars": 0,
+          "total_forks": 0,
+          "recent_active_repos": 0,
+          "top_languages": [],
+          "created_at": "2026-09-22T17:13:31Z"
+        },
+        "wayback_first": "20040226155141",
+        "gdelt": {
+          "total": 0,
+          "hits": []
+        },
+        "blog": {
+          "total_entries_in_feed": 10,
+          "posts_last_90d": 6,
+          "recent_titles": [
+            "Más allá del Hype de la IA: Por qué vender tecnología ya no alcanza (y cómo empaquetar valor real)",
+            "Snoop Consulting fue elegida finalista en dos categorías de los Premios Sadosky 2026",
+            "Mano a mano con Adam Smith: «El mercado se olvidó de la ética, la justicia y el propósito»",
+            "¿Tu empresa está atrapada en la «Trampa del Acuerdo»? Descubrí cómo Docusign IAM revoluciona la gestión de contratos",
+            "Desarrollo de software agéntico (AI-SDLC): La fórmula para escalar sin caos operativo",
+            "El secreto de ClickUp para escalar su propio marketing",
+            "Es la demanda, estúpido",
+            "Cómo recuperar miles de horas al año"
+          ],
+          "feed_url": "https://snoopconsulting.com/feed/"
+        },
+        "age_years": 22.9
+      },
+      "voice_total": 11,
+      "voice_share_pct": 0.0
+    },
+    {
+      "domain": "practia.global",
+      "name": "Practia",
+      "name_override": "Practia",
+      "note": "Consultora de origen argentino con presencia regional",
+      "source": "seed",
+      "score": 1,
+      "title": "",
+      "snippet": "",
+      "url": "https://practia.global",
+      "metrics": {
+        "reddit": {
+          "total": 0,
+          "hits": []
+        },
+        "meta_ads": {
+          "total": 0,
+          "ads": [],
+          "scope": null,
+          "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Practia&search_type=keyword_unordered&media_type=all"
+        },
+        "pagespeed": {},
+        "hn": {
+          "total": 57998,
+          "hits": [
+            {
+              "title": "One man's quest to end daylight savings",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-23T19:34:17Z"
+            },
+            {
+              "title": "Nvidia Reinstates Jensen Huang as CEO",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-23T19:32:07Z"
+            },
+            {
+              "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-23T19:29:04Z"
+            },
+            {
+              "title": "My monitor was cutting my download speed by 75%",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-23T19:28:52Z"
+            },
+            {
+              "title": "AI is killing All About Berlin",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-23T19:26:42Z"
+            },
+            {
+              "title": "Spacecraft reaches Mercury on second-ever mission to enter its orbit",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-23T19:22:44Z"
+            },
+            {
+              "title": "Cyberleek posted the GTA 6 Xbox build executable",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-23T19:18:15Z"
+            },
+            {
+              "title": "What's the difference between an integer and a pointer? (2018)",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-23T19:13:08Z"
+            }
+          ]
+        },
+        "google_ads": {
+          "ads_visible": null,
+          "verified_advertiser": null,
+          "deep_link": "https://adstransparency.google.com/?region=AR&domain=practia.global"
+        },
+        "feed_url": "https://practia.global/feed/",
+        "tech_stack": [
+          "Elementor",
+          "WordPress"
+        ],
+        "github": {
+          "name": "Practia",
+          "public_repos": 0,
+          "followers": 0,
+          "total_stars": 0,
+          "total_forks": 0,
+          "recent_active_repos": 0,
+          "top_languages": [],
+          "created_at": "2018-10-31T12:21:42Z"
+        },
+        "wayback_first": "20161117063710",
+        "gdelt": {
+          "total": 0,
+          "hits": []
+        },
+        "blog": {
+          "total_entries_in_feed": 10,
+          "posts_last_90d": 9,
+          "recent_titles": [
+            "Equipes adaptativas: a melhor alternativa para cada desafio",
+            "Gestão adaptativa: o melhor do gerenciamento de projetos e os benefícios da agilidade",
+            "A evolução das PMOs na era da IA",
+            "[Opinião] Daniel Yankelevich «Precisávamos de uma nova engenharia de software. E ela já está surgindo.»",
+            "[Opinião] Carlos Lacchini «Ninguém assinou: quanta autonomia tem a sua inteligência artificial?»",
+            "[Opinião] Gilberto Straffacci: “O que acontece quando não contamos com governança de IA em nossa empresa”",
+            "[Caso Mutual de Seguridad] Andrea Bergeret comentou sobre a jornada de transformação digital da Mutual de Seguridad",
+            "[Entrevista] Boris Bustos: “A IA é um ativo de transformação do modelo operacional da minha organização”"
+          ],
+          "feed_url": "https://practia.global/feed/"
+        },
+        "age_years": 10.9
+      },
+      "voice_total": 57998,
+      "voice_share_pct": 76.9
+    },
+    {
+      "domain": "hexacta.com",
+      "name": "Hexacta",
+      "name_override": "Hexacta",
+      "note": "Software factory argentina con servicios M365 y custom dev",
+      "source": "seed",
+      "score": 1,
+      "title": "",
+      "snippet": "",
+      "url": "https://hexacta.com",
+      "metrics": {
+        "reddit": {
+          "total": 0,
+          "hits": []
+        },
+        "meta_ads": {
+          "total": 0,
+          "ads": [],
+          "scope": null,
+          "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Hexacta&search_type=keyword_unordered&media_type=all"
+        },
+        "pagespeed": {},
+        "wayback_first": "20001019064911",
+        "tech_stack": [],
+        "feed_url": null,
+        "google_ads": {
+          "ads_visible": null,
+          "verified_advertiser": null,
+          "deep_link": "https://adstransparency.google.com/?region=AR&domain=hexacta.com"
+        },
+        "hn": {
+          "total": 1111,
+          "hits": [
+            {
+              "title": "Nespresso's project to reduce grams of coffee per capsule",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-23T19:33:48Z"
+            },
+            {
+              "title": "Don't keep your SSH keys on disk",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-23T19:33:42Z"
+            },
+            {
+              "title": "Nvidia Reinstates Jensen Huang as CEO",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-23T19:33:29Z"
+            },
+            {
+              "title": "Nvidia Reinstates Jensen Huang as CEO",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-23T19:32:40Z"
+            },
+            {
+              "title": "Nvidia Reinstates Jensen Huang as CEO",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-23T19:31:53Z"
+            },
+            {
+              "title": "Nvidia Reinstates Jensen Huang as CEO",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-23T19:23:32Z"
+            },
+            {
+              "title": "Kagi Mail (public beta)",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-23T19:21:30Z"
+            },
+            {
+              "title": "Nvidia Reinstates Jensen Huang as CEO",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-23T19:20:00Z"
+            }
+          ]
+        },
+        "github": {
+          "name": "Hexacta",
+          "public_repos": 68,
+          "followers": 3,
+          "total_stars": 184,
+          "total_forks": 56,
+          "recent_active_repos": 0,
+          "top_languages": [
+            [
+              "JavaScript",
+              26
+            ],
+            [
+              "Python",
+              5
+            ],
+            [
+              "Java",
+              5
+            ],
+            [
+              "Ruby",
+              5
+            ],
+            [
+              "C#",
+              4
+            ]
+          ],
+          "created_at": "2011-12-05T13:07:48Z"
+        },
+        "gdelt": {
+          "total": 0,
+          "hits": []
+        },
+        "blog": {},
+        "age_years": 26.9
+      },
+      "voice_total": 1111,
+      "voice_share_pct": 1.5
+    },
+    {
+      "domain": "lagash.com",
+      "name": "Lagash",
+      "name_override": "Lagash",
+      "note": "LatAm tech consultancy con práctica Microsoft",
+      "source": "seed",
+      "score": 1,
+      "title": "",
+      "snippet": "",
+      "url": "https://lagash.com",
+      "metrics": {
+        "reddit": {
+          "total": 0,
+          "hits": []
+        },
+        "meta_ads": {
+          "total": 0,
+          "ads": [],
+          "scope": null,
+          "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Lagash&search_type=keyword_unordered&media_type=all"
+        },
+        "tech_stack": [],
+        "github": null,
+        "hn": {
+          "total": 7,
+          "hits": [
+            {
+              "title": "Armenia Notes",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-02T18:51:28Z"
+            },
+            {
+              "title": "US boy names that became girl names and vice versa",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-02T18:48:20Z"
+            },
+            {
+              "title": "Don't be the out of touch Kung Fu master",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-09-13T05:05:18Z"
+            },
+            {
+              "title": "Show HN: AI Brand Visibility for Free Forever",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-09-10T15:36:17Z"
+            },
+            {
+              "title": "Show HN: SagaShield – ACID transactions and security guardrails for AI agents",
+              "url": "https://github.com/sebastianmechno-sys/sagashield",
+              "points": 1,
+              "comments": 0,
+              "date": "2026-09-08T22:16:00Z"
+            },
+            {
+              "title": "Doomscrolling ourselves to death",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-09-06T23:05:08Z"
+            },
+            {
+              "title": "How the God of Israel Was Born",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-07-24T13:47:42Z"
+            }
+          ]
+        },
+        "wayback_first": "20010201083400",
+        "google_ads": {
+          "ads_visible": null,
+          "verified_advertiser": null,
+          "deep_link": "https://adstransparency.google.com/?region=AR&domain=lagash.com"
+        },
+        "feed_url": null,
+        "pagespeed": {},
+        "gdelt": {
+          "total": 0,
+          "hits": []
+        },
+        "blog": {},
+        "age_years": 25.9
+      },
+      "voice_total": 7,
+      "voice_share_pct": 0.0
+    },
+    {
+      "domain": "algeiba.com",
+      "name": "Algeiba",
+      "name_override": "Algeiba",
+      "note": "Microsoft Partner argentino, foco corporativo",
+      "source": "seed",
+      "score": 1,
+      "title": "",
+      "snippet": "",
+      "url": "https://algeiba.com",
+      "metrics": {
+        "reddit": {
+          "total": 0,
+          "hits": []
+        },
+        "meta_ads": {
+          "total": 0,
+          "ads": [],
+          "scope": null,
+          "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Algeiba&search_type=keyword_unordered&media_type=all"
+        },
+        "pagespeed": {},
+        "github": null,
+        "tech_stack": [],
+        "feed_url": null,
+        "wayback_first": "20140517015820",
+        "google_ads": {
+          "ads_visible": null,
+          "verified_advertiser": null,
+          "deep_link": "https://adstransparency.google.com/?region=AR&domain=algeiba.com"
+        },
+        "hn": {
+          "total": 4626,
+          "hits": [
+            {
+              "title": "Show HN: Zero-RNG algebraic audit of all 24 Human T2T-CHM13v2.0 chromosomes",
+              "url": "https://github.com/Dr-Logvinovich/human-t2t-torus-atlas/",
+              "points": 2,
+              "comments": 0,
+              "date": "2026-11-23T16:52:35Z"
+            },
+            {
+              "title": "Treemap of the Riemann Hypothesis Lean Proof",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-23T16:44:17Z"
+            },
+            {
+              "title": "Treemap of the Riemann Hypothesis Lean Proof",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-23T15:52:07Z"
+            },
+            {
+              "title": "Nvidia Reinstates Jensen Huang as CEO",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-23T15:43:33Z"
+            },
+            {
+              "title": "Agent swarm trying to solve P vs. NP",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-23T14:08:36Z"
+            },
+            {
+              "title": "Assume People Are Not Interested in Your Blog Post",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-23T14:04:27Z"
+            },
+            {
+              "title": "Deterministic Simulation Testing Is for Everyone",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-23T13:26:23Z"
+            },
+            {
+              "title": "Assume People Are Not Interested in Your Blog Post",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-23T13:16:02Z"
+            }
+          ]
+        },
+        "gdelt": {
+          "total": 0,
+          "hits": []
+        },
+        "blog": {},
+        "age_years": 12.9
+      },
+      "voice_total": 4626,
+      "voice_share_pct": 6.1
+    },
+    {
+      "domain": "globant.com",
+      "name": "Globant",
+      "name_override": "Globant",
+      "note": "Player grande de referencia (no competidor directo pero marca el techo)",
+      "source": "seed",
+      "score": 1,
+      "title": "",
+      "snippet": "",
+      "url": "https://globant.com",
+      "metrics": {
+        "reddit": {
+          "total": 0,
+          "hits": []
+        },
+        "meta_ads": {
+          "total": 0,
+          "ads": [],
+          "scope": null,
+          "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Globant&search_type=keyword_unordered&media_type=all"
+        },
+        "pagespeed": {},
+        "tech_stack": [],
+        "feed_url": null,
+        "hn": {
+          "total": 9558,
+          "hits": [
+            {
+              "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-23T19:35:22Z"
+            },
+            {
+              "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-23T19:34:05Z"
+            },
+            {
+              "title": "Dario is hyping the dangers so OSS models are illegal and *he* stays in control",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-23T19:31:30Z"
+            },
+            {
+              "title": "Dario is hyping the dangers so OSS models are illegal and *he* stays in control",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-23T19:23:13Z"
+            },
+            {
+              "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-23T19:21:36Z"
+            },
+            {
+              "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-23T19:01:56Z"
+            },
+            {
+              "title": "Nvidia Reinstates Jensen Huang as CEO",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-23T18:54:25Z"
+            },
+            {
+              "title": "Dario is hyping the dangers so OSS models are illegal and *he* stays in control",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-23T18:37:58Z"
+            }
+          ]
+        },
+        "wayback_first": "20010720182509",
+        "google_ads": {
+          "ads_visible": null,
+          "verified_advertiser": null,
+          "deep_link": "https://adstransparency.google.com/?region=AR&domain=globant.com"
+        },
+        "github": {
+          "name": "Globant",
+          "public_repos": 1,
+          "followers": 65,
+          "total_stars": 0,
+          "total_forks": 0,
+          "recent_active_repos": 0,
+          "top_languages": [
+            [
+              "Python",
+              1
+            ]
+          ],
+          "created_at": "2010-09-15T21:16:05Z"
+        },
+        "gdelt": {
+          "total": 0,
+          "hits": []
+        },
+        "blog": {},
+        "age_years": 25.9
+      },
+      "voice_total": 9558,
+      "voice_share_pct": 12.7
+    },
+    {
+      "domain": "intersystec.com",
+      "name": "Intersys",
+      "name_override": "Intersys",
+      "note": "Microsoft Partner argentino",
+      "source": "seed",
+      "score": 1,
+      "title": "",
+      "snippet": "",
+      "url": "https://intersystec.com",
+      "metrics": {
+        "reddit": {
+          "total": 0,
+          "hits": []
+        },
+        "meta_ads": {
+          "total": 0,
+          "ads": [],
+          "scope": null,
+          "deep_link": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=AR&q=Intersys&search_type=keyword_unordered&media_type=all"
+        },
+        "feed_url": null,
+        "tech_stack": [],
+        "pagespeed": {},
+        "wayback_first": "20011203045021",
+        "github": null,
+        "google_ads": {
+          "ads_visible": null,
+          "verified_advertiser": null,
+          "deep_link": "https://adstransparency.google.com/?region=AR&domain=intersystec.com"
+        },
+        "hn": {
+          "total": 928,
+          "hits": [
+            {
+              "title": "Nvidia Reinstates Jensen Huang as CEO",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-23T19:35:26Z"
+            },
+            {
+              "title": "Nvidia Reinstates Jensen Huang as CEO",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-23T19:35:08Z"
+            },
+            {
+              "title": "Nvidia Reinstates Jensen Huang as CEO",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-23T19:31:53Z"
+            },
+            {
+              "title": "Ladybird is now in alpha",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-23T19:26:54Z"
+            },
+            {
+              "title": "Nvidia Reinstates Jensen Huang as CEO",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-23T19:26:52Z"
+            },
+            {
+              "title": "Show HN: Zero C# – C# without a runtime or GC",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-23T19:26:27Z"
+            },
+            {
+              "title": "Dario is hyping the dangers so OSS models are illegal and *he* stays in control",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-23T19:26:06Z"
+            },
+            {
+              "title": "FalkorDB 6.2 Brings Graph Queries to Valkey",
+              "url": "",
+              "points": null,
+              "comments": null,
+              "date": "2026-11-23T19:24:08Z"
+            }
+          ]
+        },
+        "gdelt": {
+          "total": 0,
+          "hits": []
+        },
+        "blog": {},
+        "age_years": 25.9
+      },
+      "voice_total": 928,
+      "voice_share_pct": 1.2
+    }
+  ],
+  "insights": [
+    {
+      "title": "Share of voice bajo (posición #6)",
+      "body": "Los tres líderes —Practia, Globant, Algeiba— concentran la conversación en HN + Reddit + prensa global.",
+      "severity": "info"
+    }
+  ]
+}
